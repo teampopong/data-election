@@ -1,0 +1,139 @@
+@charset "utf-8";
+
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, address, big, cite, code,
+del, dfn, em, font, img, ins, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, 
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend, 
+table, caption, tbody, tfoot, thead, tr, th, td 
+{border:0; margin: 0; padding:0;} 
+body {font-size:12px; line-height:1.5em; font-family:"돋움", Dotum, "굴림", Gulim, "Lucida Grande", Tahoma, Verdana, AppleGothic, UnDotum, sans-serif;  }
+img { border: 0; padding:0; margin: 0; }
+a { padding:0; margin: 0; text-decoration: none; }
+
+div.wrapper {padding-bottom:30px; padding-right:100px; min-width:1020px; background:#39C9EA url(../images/candidate_popup/bg_wrap.gif) repeat-x 0 0; float:left;}
+	div.wrapper div.header { height:66px; overflow:hidden; }
+	div.wrapper div.header2 { height:66px; overflow:hidden; }
+		div.wrapper div.header h1 { margin:22px 0 0 0; padding:0; height:32px; width:202px; float:left; text-indent:-5000px; background:url(../images/candidate_popup/top_menu.gif) no-repeat 0 0; }
+		div.wrapper div.header ul { margin:22px 0 0 0; padding:0; list-style:none; float:left; height:32px;border-left:1px solid #fff;}
+		div.wrapper div.header2 h1 { margin:22px 0 0 0; padding:0; height:32px; width:202px; float:left; text-indent:-5000px; background:url(../images/candidate_popup/top_menu_biyong.gif) no-repeat 0 0; }
+		div.wrapper div.header2 ul { margin:22px 0 0 0; padding:0; list-style:none; float:left; height:32px;border-left:1px solid #fff;}
+			div.wrapper div.header ul li { float:left; border-right:1px solid #fff; }
+			div.wrapper div.header2 ul li { float:left; border-right:1px solid #fff; }
+				div.wrapper div.header ul li a { height:32px; display:block; text-indent:-5000px; background:url(../images/candidate_popup/top_menu.gif) no-repeat;}
+				div.wrapper div.header2 ul li a { height:32px; display:block; text-indent:-5000px; background:url(../images/candidate_popup/top_menu_biyong.gif) no-repeat;}
+				div.wrapper div.header ul li.basic a { width:137px; background-position:-207px 0; }
+				div.wrapper div.header ul li.fortune a { width:104px; background-position:-344px 0; }
+				div.wrapper div.header ul li.militaryservice a { width:104px; background-position:-447px 0; }
+				div.wrapper div.header ul li.payment a { width:104px; background-position:-552px 0; }
+				div.wrapper div.header ul li.criminalrecord a { width:104px; background-position:-656px 0; }
+				div.wrapper div.header ul li.academic a { width:106px; background-position:-760px 0; }
+				div.wrapper div.header ul li.career a { width:116px; background-position:-876px 0; }
+				div.wrapper div.header ul li.fund a { width:116px; background-position:-207px 0; }
+				div.wrapper div.header2 ul li.basic a { width:137px; background-position:-207px 0; }
+				div.wrapper div.header2 ul li.fund a { width:116px; background-position:-207px 0; }
+				
+				div.wrapper div.header ul li.basic a { width:117px; background-position:-217px 0; }
+				div.wrapper div.header ul li.fortune a { width:84px; background-position:-354px 0; }
+				div.wrapper div.header ul li.militaryservice a { width:84px; background-position:-457px 0; }
+				div.wrapper div.header ul li.payment a { width:84px; background-position:-562px 0; }
+				div.wrapper div.header ul li.criminalrecord a { width:84px; background-position:-666px 0; }
+				div.wrapper div.header ul li.academic a { width:86px; background-position:-770px 0; }
+				div.wrapper div.header ul li.career a { width:96px; background-position:-886px 0; }
+				div.wrapper div.header ul li.fund a { width:96px; background-position:-217px 0; }
+				div.wrapper div.header2 ul li.basic a { width:117px; background-position:-217px 0; }
+				div.wrapper div.header2 ul li.fund a { width:96px; background-position:-217px 0; }
+				
+				div.wrapper div.header ul li.basic a:hover,div.wrapper div.header ul li.basic a.active  { background-position:-217px -32px; }
+				div.wrapper div.header ul li.fortune a:hover,div.wrapper div.header ul li.fortune a.active  { width:84px; background-position:-354px -32px; }
+				div.wrapper div.header ul li.militaryservice a:hover,div.wrapper div.header ul li.militaryservice a.active  { width:84px; background-position:-457px -32px; }
+				div.wrapper div.header ul li.payment a:hover,div.wrapper div.header ul li.payment a.active  { width:84px; background-position:-562px -32px; }
+				div.wrapper div.header ul li.criminalrecord a:hover,div.wrapper div.header ul li.criminalrecord a.active  { width:84px; background-position:-666px -32px; }
+				div.wrapper div.header ul li.academic a:hover,div.wrapper div.header ul li.academic a.active  { width:86px; background-position:-770px -32px; }
+				div.wrapper div.header ul li.career a:hover,div.wrapper div.header ul li.career a.active  { width:96px; background-position:-886px -32px; }
+				div.wrapper div.header ul li.fund a:hover,div.wrapper div.header ul li.fund a.active  { width:96px; background-position:-217px -32px; }
+				div.wrapper div.header2 ul li.basic a:hover,div.wrapper div.header ul li.basic a.active  { background-position:-217px -32px; }
+				div.wrapper div.header2 ul li.fund a:hover,div.wrapper div.header ul li.fund a.active  { width:96px; background-position:-217px -32px; }
+				
+				/*
+				div.wrapper div.header ul li.basic a.active, div.wrapper div.header ul li.basic a:hover { background-position:-217px -32px; }
+				div.wrapper div.header ul li.fortune a.active, div.wrapper div.header ul li.fortune a:hover { background-position:-324px -32px; }
+				div.wrapper div.header ul li.militaryservice a.active, div.wrapper div.header ul li.militaryservice a:hover { background-position:-447px -32px; }
+				div.wrapper div.header ul li.payment a.active, div.wrapper div.header ul li.payment a:hover { background-position:-542px -32px; }
+				div.wrapper div.header ul li.criminalrecord a.active, div.wrapper div.header ul li.criminalrecord a:hover { background-position:-656px -32px; }
+				div.wrapper div.header ul li.academic a.active, div.wrapper div.header ul li.academic a:hover { background-position:-740px -32px; }
+				div.wrapper div.header ul li.career a.active, div.wrapper div.header ul li.career a:hover { background-position:-856px -32px; }
+				*/
+	div.wrapper div.sidebar { margin:13px 0 0 14px; width:187px; min-height:500px; height:660px; float:left; background:#fff url(../images/candidate_popup/bg_sidebar.gif) no-repeat 0 0; overflow:hidden; }
+		div.wrapper div.sidebar dl { margin:0 0 60px 0; padding:37px 0 0 0; width:193px; }
+			div.wrapper div.sidebar dl dt { margin:0 0 18px 0; width:193px; height:154px; background:url(../images/candidate_popup/no_image.gif) no-repeat 28px 0; }
+				div.wrapper div.sidebar dl dt img { margin:5px 0 0 34px; height:142px; width:122px; }
+			div.wrapper div.sidebar dl dd { padding:4px 0 4px 40px; width:153px; color:#4B9EB2; background:url(../images/candidate_popup/bullet_dd.gif) no-repeat 23px 50%; }
+				div.wrapper div.sidebar dl dd b { color:#606060; }
+		div.wrapper div.sidebar div.search { margin:0 0 0 13px; padding:28px 0 0 9px; width:146px; height:30px; border:5px solid #E0E0E0; background:url(../images/candidate_popup/lb_search.gif) no-repeat 6px 10px;}
+			div.wrapper div.sidebar div.search fieldset {margin:0; padding:0; }
+				div.wrapper div.sidebar div.search fieldset legend {width:0; height:0; display:none; }
+				div.wrapper div.sidebar div.search fieldset input {  vertical-align:middle; height:16px; width:88px; 
+																							border:1px solid #BCC2C3; font-family:"돋움", Dotum; font-size:12px; }
+				div.wrapper div.sidebar div.search fieldset button { margin-left:3px; vertical-align:middle; width:41px; height:21px; text-indent:-5000px; border:0; background:url(../images/candidate_popup/btn_search.gif) no-repeat 0 0; }
+
+	div.wrapper div.contents { margin:13px 0 0 0; padding:12px 15px; width:768px; min-height:500px;
+											height:636px; float:left; border-left:1px solid #2697CD; background:#fff; overflow:hidden; }
+		div.wrapper div.contents div.title{margin:0 0 15px 0; padding:6px 15px; width:706px; height:24px; background:url(../images/candidate_popup/tit_content.gif) no-repeat 0 0;}
+			div.wrapper div.contents h3 {margin:2px 0 0 0; padding:0;float:left; font-size:14px; color:#035b19;}
+			div.wrapper div.contents fieldset { margin:0 0 0 100px; padding:0; float:right; overflow:hidden; }
+			div.wrapper div.contents fieldset * { vertical-align:top; }
+		div.wrapper div.contents ul { margin:0 0 60px 0; padding:0; width:737px; list-style:none; overflow:hidden; }
+			div.wrapper div.contents ul li { margin-bottom:8px; float:left; width:737px;}
+				div.wrapper div.contents ul li strong { padding:4px 0 0 25px; width:136px; height:20px; display:block; float:left; color:#3E3E3E; background:url(../images/candidate_popup/bg_label.gif) no-repeat 0 0; ; }
+				div.wrapper div.contents ul li span { padding:4px 0 4px 12px; color:#606060; float:right; width:555px; height:16px; display:block; background:url(../images/candidate_popup/line01.gif) repeat-x 0 bottom; }
+
+	/* 팝업 */
+div.popWrapper { padding:10px; width:500px; background:#0D73AE;}
+	div.popWrapper div.title { padding:0 10px 0 0; height:30px; }
+	div.popWrapper h1 { float:left; margin:0; padding:3px 25px; font-size:13px; background:url(../images/candidate_popup/bullet_dd.gif) no-repeat 10px 50%;}
+	div.popWrapper div.content { padding:10px; background:#fff; }
+	div.popWrapper div.result { padding:10px; height:250px; overflow-y:scroll; background:#fff; }
+
+	div.popWrapper a { color:#606060; }
+	div.popWrapper a:hover { color:#3E3E3E; }
+	div.popWrapper a.btnClose {margin:5px 0 0 0; cursor:pointer; float:right; padding-left:20px; background:url(../images/candidate_popup/icon_popup_close.gif) no-repeat 0 50%; }
+
+div.javaDownload { margin-top:-40px; width:736px; height:136px; background:url(../images/candidate_popup/download.gif) no-repeat 0 0 ; }
+	div.javaDownload a { margin:0px 0 0 20px;text-indent:-5000px; display:block; width:100px; height:136px; ;}
+
+.table01 {
+	width:440px;
+	border-top: 2px solid #62888D; 
+	border-collapse: collapse;
+	/*table-layout: fixed;*/
+	/*table-layout: fixed;*/
+}
+.table01 caption {
+	display: none;
+}
+.table01 th {
+	padding: 5px 7px;
+	color: #3C4E73;
+	font-weight: normal;
+	border-left: 1px solid #CCCCCC;
+	border-bottom: 1px solid #62888D;
+	background: #DEE7E7;
+}
+.table01 th.firstTh{
+	border-left: 0;
+}
+.table01 td {
+	padding: 5px 7px;
+	color: #666666;
+	border-bottom: 1px solid #DADADA;
+}
+
+.table01 th, .table01 td {
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow:hidden;
+}
