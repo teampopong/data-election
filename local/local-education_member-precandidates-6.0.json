@@ -1,0 +1,202 @@
+[
+  {
+    "district": "\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4 \uc81c1\uc120\uac70\uad6c", 
+    "birthmonth": "08", 
+    "name_kr": "\ubd80\uacf5\ub0a8", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4900/Gsg4901/Sgg10490101/Hb100103469/gicho/100103469.jpg", 
+    "name_cn": "\u592b\u516c\u7537", 
+    "regdate": "2014-02-21", 
+    "experience": [
+      "(\uc804)\uc81c\uc8fc\uc11c\uc911\ud559\uad50 \uad50\uc7a5", 
+      "(\ud604)\uc81c\uc8fc\uc77c\ubcf4 \ub17c\uc124\uc704\uc6d0(\ube44\uc0c1\uc784)"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1953", 
+    "job": "\ubb34\uc9c1", 
+    "birthday": "10", 
+    "address": "\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4 \uc81c\uc8fc\uc2dc \ud0dc\uc131\ub85c", 
+    "education": "\uc81c\uc8fc\ub300\ud559\uad50 \uad50\uc721\ub300\ud559\uc6d0(\uc11d\uc0ac) \uad50\uc721\ud559\uacfc \uc218\ud559\uad50\uc721\uc804\uacf5 \uc878\uc5c5", 
+    "election_type": "education_member"
+  }, 
+  {
+    "district": "\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4 \uc81c1\uc120\uac70\uad6c", 
+    "birthmonth": "12", 
+    "name_kr": "\ubd80\uad11\ud6c8", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4900/Gsg4901/Sgg10490101/Hb100104824/gicho/100104824.jpg", 
+    "name_cn": "\u592b\u5149\u85b0", 
+    "regdate": "2014-02-28", 
+    "experience": [
+      "(\uc804)\uc624\ud604\uace0\ub4f1\ud559\uad50\uc7a5", 
+      "(\ud604)\ud559\uad50\ubc95\uc778 \uc624\ud604\ud559\uc6d0 \uc774\uc0ac"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1950", 
+    "job": "\uad50\uc721\ud65c\ub3d9\uac00", 
+    "birthday": "23", 
+    "address": "\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4 \uc81c\uc8fc\uc2dc \uc5f0\uc0bc\ub85c", 
+    "education": "\uc81c\uc8fc\ub300\ud559\uad50 \uad50\uc721\ub300\ud559\uc6d0(\uc11d\uc0ac)\uad50\uc721\ud559\uacfc \uc218\ud559\uad50\uc721\uc804\uacf5 \uc878\uc5c5", 
+    "election_type": "education_member"
+  }, 
+  {
+    "district": "\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4 \uc81c2\uc120\uac70\uad6c", 
+    "birthmonth": "12", 
+    "name_kr": "\uae40\uad11\uc218", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4900/Gsg4901/Sgg10490102/Hb100105350/gicho/100105350.jpg", 
+    "name_cn": "\u91d1\u5149\u6d19", 
+    "regdate": "2014-03-03", 
+    "experience": [
+      "(\uc804)\ud0d0\ub77c\uad50\uc721\uc6d0 \uc6d0\uc7a5", 
+      "(\uc804)\uc81c\uc8fc\uc81c\uc77c\uace0\ub4f1\ud559\uad50 \uad50\uc7a5"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1952", 
+    "job": "\ubb34\uc9c1", 
+    "birthday": "04", 
+    "address": "\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4 \uc81c\uc8fc\uc2dc \ub3c4\ub0a8\ub85c", 
+    "education": "\uace0\ub824\ub300\ud559\uad50 \uad50\uc721\ub300\ud559\uc6d0 \uc11d\uc0ac\uacfc\uc815 \uc218\ud559\uad50\uc721\uc804\uacf5 \uc878\uc5c5", 
+    "election_type": "education_member"
+  }, 
+  {
+    "district": "\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4 \uc81c2\uc120\uac70\uad6c", 
+    "birthmonth": "01", 
+    "name_kr": "\uc624\ucc3d\uc218", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4900/Gsg4901/Sgg10490102/Hb100114208/gicho/100114208.jpg", 
+    "name_cn": "\u5433\u660c\u6d19", 
+    "regdate": "2014-04-22", 
+    "experience": [
+      "(\uc804) \uc81c4\ub300 \uc81c\uc8fc\ub3c4\uad50\uc721\uc704\uc6d0\ud68c \uad50\uc721\uc704\uc6d0(\ubd80\uc758\uc7a5)", 
+      "(\uc804) \uc790\uc5f0\uc0ac\ub791\ubd09\uc0ac\ub300 \ucd1d\uc7ac(\uccad\uc18c\ub144\ub2e8\uccb4)"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1953", 
+    "job": "\uc790\uc601\uc5c5", 
+    "birthday": "13", 
+    "address": "\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4 \uc81c\uc8fc\uc2dc \uc0bc\uc131\ub85c18\uae38", 
+    "education": "\uc81c\uc8fc\ub300\ud559\uad50 \uacbd\uc601\ub300\ud559\uc6d0(\uc11d\uc0ac) \uacbd\uc601\ud559\uacfc \uc778\uc0ac\uad00\ub9ac\uc804\uacf5 \uc878\uc5c5", 
+    "election_type": "education_member"
+  }, 
+  {
+    "district": "\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4 \uc81c3\uc120\uac70\uad6c", 
+    "birthmonth": "07", 
+    "name_kr": "\uac15\ub355\ubd80", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4900/Gsg4901/Sgg10490103/Hb100104671/gicho/100104671.jpg", 
+    "name_cn": "\u59dc\u5fb7\u5bcc", 
+    "regdate": "2014-02-27", 
+    "experience": [
+      "(\uc804)\uc81c\uc8fc\uc2dc\uad50\uc721\uc9c0\uc6d0\uccad \uad50\uc721\uc7a5", 
+      "(\uc804)\uc81c\uc8fc\uace0\ub4f1\ud559\uad50 \uad50\uc7a5"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1952", 
+    "job": "\uc790\uc601\uc5c5", 
+    "birthday": "12", 
+    "address": "\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4 \uc81c\uc8fc\uc2dc \uc2e0\ub300\ub85c", 
+    "education": "\uc81c\uc8fc\ub300\ud559\uad50 \uad50\uc721\ub300\ud559\uc6d0(\uc11d\uc0ac) \uad50\uc721\ud559\uacfc \uad6d\ubbfc\uc724\ub9ac\uad50\uc721\uc804\uacf5 \uc878\uc5c5", 
+    "election_type": "education_member"
+  }, 
+  {
+    "district": "\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4 \uc81c3\uc120\uac70\uad6c", 
+    "birthmonth": "02", 
+    "name_kr": "\uac15\uc131\uade0", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4900/Gsg4901/Sgg10490103/Hb100112081/gicho/100112081.jpg", 
+    "name_cn": "\u59dc\u6027\u5747", 
+    "regdate": "2014-03-31", 
+    "experience": [
+      "(\uc804) \ud55c\uad6d\uc911\ub4f1\uad50\uc7a5\ud611\uc758\ud68c \ubd80\ud68c\uc7a5", 
+      "(\ud604) \uc560\uc6d4\uace0\ub4f1\ud559\uad50\ucd1d\ub3d9\ucc3d\ud68c\uc7a5"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1952", 
+    "job": "\ubb34\uc9c1", 
+    "birthday": "23", 
+    "address": "\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4 \uc81c\uc8fc\uc2dc \uc2e0\uad11\ub85c6\uae38", 
+    "education": "\uc81c\uc8fc\ub300\ud559\uad50 \uad50\uc721\ub300\ud559\uc6d0(\uc11d\uc0ac) \uad50\uc721\ud559\uacfc \uad6d\uc5b4\uad50\uc721\uc804\uacf5 \ucde8\ub4dd", 
+    "election_type": "education_member"
+  }, 
+  {
+    "district": "\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4 \uc81c4\uc120\uac70\uad6c", 
+    "birthmonth": "09", 
+    "name_kr": "\uc624\ub300\uc775", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4900/Gsg4902/Sgg10490201/Hb100107257/gicho/100107257.jpg", 
+    "name_cn": "\u5433\u5927\u76ca", 
+    "regdate": "2014-03-11", 
+    "experience": [
+      "(\uc804)\uc11c\uadc0\ud3ec\uc2dc \uad50\uc721\uc7a5", 
+      "(\uc804)\uc81c9\ub300 \uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4\uc758\ud68c \uc804\ubc18\uae30 \uad50\uc721\uc704\uc6d0\uc7a5"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1946", 
+    "job": "\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4\uc758\ud68c \uad50\uc721\uc758\uc6d0", 
+    "birthday": "10", 
+    "address": "\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4 \uc11c\uadc0\ud3ec\uc2dc \ub0a8\uc6d0\uc74d \uc704\ubbf8\ub300\uc6d0\ud558\ub85c", 
+    "education": "\uacbd\ud76c\ub300\ud559\uad50 \uad50\uc721\ub300\ud559\uc6d0(\uad50\uc721\ud559\uc11d\uc0ac)\uc878\uc5c5", 
+    "election_type": "education_member"
+  }, 
+  {
+    "district": "\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4 \uc81c5\uc120\uac70\uad6c", 
+    "birthmonth": "01", 
+    "name_kr": "\uc9c0\ud558\uc2dd", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4900/Gsg4902/Sgg10490202/Hb100109194/gicho/100109194.jpg", 
+    "name_cn": "\u6c60\u6cb3\u690d", 
+    "regdate": "2014-03-20", 
+    "experience": [
+      "(\uc804)\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4\uc758\ud68c \uad50\uc721\uc758\uc6d0", 
+      "(\uc804)\uc81c\uc8fc\ub3c4 \uacf5\ub9bd\uc911\ud559\uad50\ud611\uc758\ud68c\uc7a5"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1943", 
+    "job": "\ub18d\uc5c5", 
+    "birthday": "17", 
+    "address": "\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4 \uc11c\uadc0\ud3ec\uc2dc \uc548\ub355\uba74 \ud654\uc21c\uc784\uc911\ub85c", 
+    "education": "\ub3d9\uad6d\ub300\ud559\uad50 \ud589\uc815\ub300\ud559\uc6d0 \ud589\uc815\ud559\uacfc(\ud589\uc815\ud559 \uc11d\uc0ac) \uc878\uc5c5", 
+    "election_type": "education_member"
+  }, 
+  {
+    "district": "\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4 \uc81c5\uc120\uac70\uad6c", 
+    "birthmonth": "10", 
+    "name_kr": "\uac15\uc2dc\ubc31", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4900/Gsg4902/Sgg10490202/Hb100110892/gicho/100110892.jpg", 
+    "name_cn": "\u5eb7\u59cb\u4f2f", 
+    "regdate": "2014-03-25", 
+    "experience": [
+      "(\uc804)\uc11c\ud638\ucd08\ub4f1\ud559\uad50 \uad50\uc7a5", 
+      "(\ud604)\uc720\ub2c8\uc138\ud504 \uc11c\uadc0\ud3ec\uc2dc \ud6c4\uc6d0\ud68c \uc704\uc6d0"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1950", 
+    "job": "\ub18d\uc5c5", 
+    "birthday": "18", 
+    "address": "\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4 \uc11c\uadc0\ud3ec\uc2dc \uc911\uc559\ub85c", 
+    "education": "\uc601\ub0a8\ub300\ud559\uad50 \uad50\uc721\ub300\ud559\uc6d0(\uad50\uc721\ud559\uc11d\uc0ac) \uc878\uc5c5", 
+    "election_type": "education_member"
+  }, 
+  {
+    "district": "\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4 \uc81c5\uc120\uac70\uad6c", 
+    "birthmonth": "02", 
+    "name_kr": "\ubb38\uc11d\ud638", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4900/Gsg4902/Sgg10490202/Hb100111171/gicho/100111171.jpg", 
+    "name_cn": "\u6587\u932b\u93ac", 
+    "regdate": "2014-03-26", 
+    "experience": [
+      "(\uc804)\ub300\uc2e0\uc911\ud559\uad50 \uad50\uc7a5", 
+      "(\ud604)\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4\uc758\ud68c \uad50\uc721\uc704\uc6d0\ud68c \uc704\uc6d0\uc7a5"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1947", 
+    "job": "\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4\uc758\ud68c \uad50\uc721\uc704\uc6d0\ud68c \uc704\uc6d0\uc7a5", 
+    "birthday": "24", 
+    "address": "\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4 \uc11c\uadc0\ud3ec\uc2dc \uc911\uc559\ub85c", 
+    "education": "\uc81c\uc8fc\ub300\ud559\uad50 \ub18d\ud559\uacfc \uc878\uc5c5", 
+    "election_type": "education_member"
+  }
+]
