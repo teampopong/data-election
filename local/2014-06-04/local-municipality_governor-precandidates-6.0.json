@@ -334,27 +334,6 @@
   }, 
   {
     "district": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uc6a9\uc0b0\uad6c", 
-    "birthmonth": "09", 
-    "name_kr": "\ubc15\uaddc\uc815", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd1100/Gsg1103/Sgg4110300/Hb100103839/gicho/100103839.jpg", 
-    "name_cn": "\u6734\u572d\u8c9e", 
-    "regdate": "2014-02-21", 
-    "experience": [
-      "(\uc804)\uc0c8\ub204\ub9ac\ub2f9 \uc5ec\uc758\ub3c4\uc5f0\uad6c\uc18c \uc815\ucc45\uc790\ubb38\uc704\uc6d0(\ud589\uc815\uc790\uce58)", 
-      "(\ud604)\uc0c8\ub204\ub9ac\ub2f9 \uc911\uc559\uc704\uc6d0\ud68c \ubd80\uc704\uc6d0\uc7a5(\uc678\uad50\ud1b5\uc0c1)"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1959", 
-    "job": "\uc815\ub2f9\uc778", 
-    "birthday": "07", 
-    "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uc6a9\uc0b0\uad6c \uc774\ucd0c\ub85c65\uae38", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
-    "education": "\uc11c\uac15\ub300\ud559\uad50 \uc77c\ubc18\ub300\ud559\uc6d0 \uacbd\uc81c\ud559 \uc11d\uc0ac \uc218\ub8cc", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uc6a9\uc0b0\uad6c", 
     "birthmonth": "02", 
     "name_kr": "\uc11c\uc815\ud638", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd1100/Gsg1103/Sgg4110300/Hb100104209/gicho/100104209.jpg", 
@@ -608,27 +587,6 @@
   {
     "district": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uc131\ub3d9\uad6c", 
     "birthmonth": "10", 
-    "name_kr": "\uc548\uc131\uaddc", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd1100/Gsg1104/Sgg4110400/Hb100104375/gicho/100104375.jpg", 
-    "name_cn": "\u5b89\u661f\u594e", 
-    "regdate": "2014-02-24", 
-    "experience": [
-      "(\ud604) \uc0c8\ub204\ub9ac\ub2f9 \uc11c\uc6b8\uc2dc\ub2f9 \ubd80\uc704\uc6d0\uc7a5", 
-      "(\ud604) \ubbfc\uc8fc\ud3c9\ud654\ud1b5\uc77c \uc790\ubb38\ud68c\uc758 \uc131\ub3d9\uad6c\ud611\uc758\ud68c \uccad\ub144\ubd84\uacfc \uc704\uc6d0\uc7a5"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1971", 
-    "job": "\uc815\ub2f9\uc778", 
-    "birthday": "21", 
-    "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uc131\ub3d9\uad6c \ud589\ub2f9\ub85c", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
-    "education": "\ub3d9\uad6d\ub300\ud559\uad50\ub300\ud559\uc6d0 \ud589\uc815\ud559\uacfc \uc878\uc5c5(\ud589\uc815\ud559\ubc15\uc0ac)", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uc131\ub3d9\uad6c", 
-    "birthmonth": "10", 
     "name_kr": "\uc7a5\ucca0\ud658", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd1100/Gsg1104/Sgg4110400/Hb100104620/gicho/100104620.jpg", 
     "name_cn": "\u5f35\u5586\u7165", 
@@ -750,27 +708,6 @@
     "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uad11\uc9c4\uad6c \uc544\ucc28\uc0b0\ub85c70\uae38", 
     "party": "\uc0c8\ub204\ub9ac\ub2f9", 
     "education": "\uac00\ud1a8\ub9ad\ub300\ud559\uad50\ub300\ud559\uc6d0 \uc0ac\ud68c\ubcf5\uc9c0\ud559\uacfc \uc878\uc5c5(\ubb38\ud559\ubc15\uc0ac)", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uad11\uc9c4\uad6c", 
-    "birthmonth": "10", 
-    "name_kr": "\ubc15\ud604", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd1100/Gsg1105/Sgg4110500/Hb100103553/gicho/100103553.jpg", 
-    "name_cn": "\u6734\u9249", 
-    "regdate": "2014-02-21", 
-    "experience": [
-      "(\uc804)\uc81c6\ub300 \uc11c\uc6b8\ud2b9\ubcc4\uc2dc\uc758\ud68c \uc758\uc6d0", 
-      "(\ud604)(\uc8fc)\uc13c\uce04\ub9ac\ucf54\ud37c\ub808\uc774\uc158 \ub300\ud45c\uc774\uc0ac"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1945", 
-    "job": "\uc0ac\uc5c5", 
-    "birthday": "27", 
-    "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uad11\uc9c4\uad6c \uad11\ub098\ub8e8\ub85c52\uae38", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
-    "education": "\uacbd\uae30\ub300\ud559\uad50 \uc815\uce58\uc804\ubb38\ub300\ud559\uc6d0 \ubd81\ud55c\ud559\uacfc \uc878\uc5c5(\uc815\uce58\ud559 \uc11d\uc0ac)", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -1006,6 +943,27 @@
   }, 
   {
     "district": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \ub3d9\ub300\ubb38\uad6c", 
+    "birthmonth": "07", 
+    "name_kr": "\uc720\ub355\uc5f4", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd1100/Gsg1106/Sgg4110600/Hb100114571/gicho/100114571.jpg", 
+    "name_cn": "\uf9c9\u5fb7\uf99f", 
+    "regdate": "2014-05-01", 
+    "experience": [
+      "(\uc804)\ubbfc\uc8fc\ub2f9 \uc911\uc559\ub2f9 \uc0ac\ubb34\ubd80\ucd1d\uc7a5", 
+      "(\ud604)\ub3d9\ub300\ubb38\uad6c\uccad\uc7a5"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1954", 
+    "job": "\uacf5\ubb34\uc6d0", 
+    "birthday": "09", 
+    "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \ub3d9\ub300\ubb38\uad6c \uc804\ub18d\ub85c10\uae38", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
+    "education": "\uacbd\ud76c\ub300\ud559\uad50 \ub300\ud559\uc6d0 \ubc95\ud559\uacfc(\uc11d\uc0ac)\uc878\uc5c5", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \ub3d9\ub300\ubb38\uad6c", 
     "birthmonth": "12", 
     "name_kr": "\uc6b0\ud604\uc6b1", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd1100/Gsg1106/Sgg4110600/Hb100108842/gicho/100108842.jpg", 
@@ -1069,27 +1027,6 @@
   }, 
   {
     "district": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uc911\ub791\uad6c", 
-    "birthmonth": "08", 
-    "name_kr": "\uc774\uc131\ubbfc", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd1100/Gsg1107/Sgg4110700/Hb100103658/gicho/100103658.JPG", 
-    "name_cn": "\uf9e1\u6027\u65fc", 
-    "regdate": "2014-02-21", 
-    "experience": [
-      "(\uc804)\uc911\ub791\uad6c\uc758\ud68c \uc758\uc7a5", 
-      "(\uc804)\uc911\ub791\ubb38\ud654\uc6d0 \uc0c1\uadfc\ubd80\uc6d0\uc7a5"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1957", 
-    "job": "\uc815\ub2f9\uc778", 
-    "birthday": "10", 
-    "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uc911\ub791\uad6c \uc911\ub791\ucc9c\ub85c29\uae38", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
-    "education": "\uc911\uc559\ub300\ud559\uad50 \uc2e0\ubb38\ubc29\uc1a1\ub300\ud559\uc6d0 \uc2e0\ubb38\ubc29\uc1a1\ud559\uacfc \uc878\uc5c5(\uc5b8\ub860\ud559 \uc11d\uc0ac)", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uc911\ub791\uad6c", 
     "birthmonth": "02", 
     "name_kr": "\ucd5c\ud574\ubd95", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd1100/Gsg1107/Sgg4110700/Hb100108340/gicho/100108340.jpg", 
@@ -1107,6 +1044,27 @@
     "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uc911\ub791\uad6c \uc6a9\ub9c8\uc0b0\ub85c129\ub098\uae38", 
     "party": "\uc0c8\ub204\ub9ac\ub2f9", 
     "education": "\uac00\ud1a8\ub9ad\ub300\ud559\uad50 \ub300\ud559\uc6d0 \ud589\uc815\ud559\uacfc\uc878\uc5c5(\ud589\uc815\ud559\ubc15\uc0ac)", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uc911\ub791\uad6c", 
+    "birthmonth": "11", 
+    "name_kr": "\uc774\uc2b9\uc6b0", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd1100/Gsg1107/Sgg4110700/Hb100114533/gicho/100114533.JPG", 
+    "name_cn": "\uf9e1\u627f\u96e8", 
+    "regdate": "2014-04-30", 
+    "experience": [
+      "(\ud604)\ud559\uc0ac \uacf5\uc778 \uc911\uac1c\uc0ac \uc0ac\ubb34\uc18c \ub300\ud45c", 
+      "(\uc804)\ud55c\uad6d \uc9c0\uccb4 \uc7a5\uc560\uc778 \uc911\ub791\uad6c 2\ub300 \uc9c0\ud68c\uc7a5"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1947", 
+    "job": "\uacf5\uc778\uc911\uac1c\uc0ac", 
+    "birthday": "24", 
+    "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uc911\ub791\uad6c \uc6a9\ub9c8\uc0b0\ub85c129\uae38", 
+    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
+    "education": "\uc911\uc559\ub300\ud559\uad50 \ud589\uc815\ub300\ud559\uc6d0 \uc815\ucc45\ud559\uacfc \uc7ac\ud559\uc911", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -1211,7 +1169,7 @@
     "birthday": "05", 
     "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uc911\ub791\uad6c \ubd09\uc6b0\uc7ac\ub85c", 
     "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
-    "education": "\uacbd\ud76c\ub300\ud559\uad50 \uacbd\uc601\ub300\ud559\uc6d0 \uacbd\uc601\ud559\uacfc \uc878\uc5c5(\uacbd\uc601\ud559 \uc11d\uc0ac)", 
+    "education": "\ud55c\uad6d\uc678\uad6d\uc5b4\ub300\ud559\uad50 \ub300\ud559\uc6d0 \ubc15\uc0ac\ud559\uc704\uacfc\uc815 \ud589\uc815\ud559\uacfc 1\ud559\uae30 \ud734\ud559", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -1383,6 +1341,27 @@
     "election_type": "municipality_governor"
   }, 
   {
+    "district": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uc131\ubd81\uad6c", 
+    "birthmonth": "03", 
+    "name_kr": "\ubc15\ucc3d\uc644", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd1100/Gsg1108/Sgg4110800/Hb100114366/gicho/100114366.jpg", 
+    "name_cn": "\u6734\u6636\u5b8c", 
+    "regdate": "2014-04-25", 
+    "experience": [
+      "(\ud604)\uc2dc\ubbfc\ubaa8\uc784 \uc990\uac70\uc6b4\uad50\uc721\uc0c1\uc0c1 \ub300\ud45c", 
+      "(\ud604)\uc815\ub989\uc2e0\uc6a9\ud611\ub3d9\uc870\ud569 \uc774\uc0ac\uc7a5"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1959", 
+    "job": "\ud611\ub3d9\uc870\ud569\uc6b4\ub3d9\uac00", 
+    "birthday": "30", 
+    "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uc131\ubd81\uad6c \uc885\uc554\ub85c23\uae38", 
+    "party": "\uc815\uc758\ub2f9", 
+    "education": "\uacbd\ub0a8\ub300\ud559\uad50 \ub300\ud559\uc6d0 \ubc95\ud559\uacfc \uc878\uc5c5(\uc11d\uc0ac)", 
+    "election_type": "municipality_governor"
+  }, 
+  {
     "district": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uac15\ubd81\uad6c", 
     "birthmonth": "03", 
     "name_kr": "\uae40\uae30\uc131", 
@@ -1485,6 +1464,27 @@
     "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uac15\ubd81\uad6c \uc0bc\uc591\ub85c", 
     "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
     "education": "\uace0\ub824\ub300\ud559\uad50 \uc815\ucc45\ub300\ud559\uc6d0 \uc544\ud0dc\uc9c0\uc5ed\uc5f0\uad6c\ud559\uacfc \uc878\uc5c5(\uc815\uce58\ud559 \uc11d\uc0ac)", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uac15\ubd81\uad6c", 
+    "birthmonth": "10", 
+    "name_kr": "\ubc15\uacb8\uc218", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd1100/Gsg1109/Sgg4110900/Hb100114381/gicho/100114381.jpg", 
+    "name_cn": "\u6734\u8b19\u6d19", 
+    "regdate": "2014-04-25", 
+    "experience": [
+      "(\ud604)\uac15\ubd81\uad6c\uccad\uc7a5", 
+      "(\uc804)\uc11c\uc6b8\ud2b9\ubcc4\uc2dc\uc758\ud68c\uc758\uc6d0"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1959", 
+    "job": "\uc815\ubb34\uc9c1 \uacf5\ubb34\uc6d0", 
+    "birthday": "26", 
+    "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uac15\ubd81\uad6c \uc778\uc218\ubd09\ub85c72\uae38", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
+    "education": "\ud55c\uc591\ub300\ud559\uad50 \ub300\ud559\uc6d0 \ud589\uc815\ud559\uacfc \ubc15\uc0ac\uacfc\uc815 \uc218\ub8cc", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -1594,27 +1594,6 @@
   }, 
   {
     "district": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \ub3c4\ubd09\uad6c", 
-    "birthmonth": "03", 
-    "name_kr": "\uc774\uccad\uc218", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd1100/Gsg1110/Sgg4111000/Hb100110862/gicho/100110862.jpg", 
-    "name_cn": "\uf9e1\u6df8\u6d19", 
-    "regdate": "2014-03-25", 
-    "experience": [
-      "(\uc804)\uc11c\uc6b8\ud2b9\ubcc4\uc2dc\uc758\ud68c \uc218\uc11d\uc804\ubb38\uc704\uc6d0", 
-      "(\uc804)\uc5f0\uc138\ub300\ud559\uad50 \ud589\uc815\ub300\ud559\uc6d0 \uacb8\uc784\uad50\uc218"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1951", 
-    "job": "\uc815\ub2f9\uc778", 
-    "birthday": "20", 
-    "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \ub3c4\ubd09\uad6c \ub9c8\ub4e4\ub85c", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
-    "education": "\uc5f0\uc138\ub300\ud559\uad50 \ub300\ud559\uc6d0 \ud589\uc815\ud559\ubc15\uc0ac", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \ub3c4\ubd09\uad6c", 
     "birthmonth": "02", 
     "name_kr": "\uc720\ub355\uae30", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd1100/Gsg1110/Sgg4111000/Hb100104467/gicho/100104467.jpg", 
@@ -1632,6 +1611,27 @@
     "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \ub3c4\ubd09\uad6c \ub3c4\ubd09\ub85c150\uae38", 
     "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
     "education": "\uac00\ud1a8\ub9ad\ub300\ud559\uad50 \uc758\ud559\uacfc\ub300\ud559\uc6d0\uc878\uc5c5(\uc758\ud559\ubc15\uc0ac)", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \ub3c4\ubd09\uad6c", 
+    "birthmonth": "09", 
+    "name_kr": "\uc774\ub3d9\uc9c4", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd1100/Gsg1110/Sgg4111000/Hb100114439/gicho/100114439.JPG", 
+    "name_cn": "\uf9e1\u6771\u79e6", 
+    "regdate": "2014-04-28", 
+    "experience": [
+      "(\ud604)\ub3c4\ubd09\uad6c\uccad\uc7a5", 
+      "(\ud604)\ub3d9\ubd814\uad6c\ubc1c\uc804\ud611\uc758\ud68c \uc758\uc7a5"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1960", 
+    "job": "\ub3c4\ubd09\uad6c\uccad\uc7a5", 
+    "birthday": "08", 
+    "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \ub3c4\ubd09\uad6c \ub178\ud574\ub85c62\uae38", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
+    "education": "\uace0\ub824\ub300\ud559\uad50 \ubb38\uacfc\ub300\ud559 \uc601\uc5b4\uc601\ubb38\ud559\uacfc \uc878\uc5c5", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -1853,7 +1853,7 @@
     "regdate": "2014-03-04", 
     "experience": [
       "(\uc804)\ubbfc\uc120 2,3,4\uae30 \uc740\ud3c9\uad6c\uccad\uc7a5\uc5ed\uc784", 
-      "(\ud604)\ud55c\uad6d\ub9c8\uc0ac\ud68c\uc0c1\uc784\uac10\uc0ac\uc704\uc6d0"
+      "(\uc804)\ud55c\uad6d\ub9c8\uc0ac\ud68c\uc0c1\uc784\uac10\uc0ac\uc704\uc6d0"
     ], 
     "sex": "\ub0a8", 
     "election_no": 6.0, 
@@ -1947,6 +1947,27 @@
     "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uc740\ud3c9\uad6c \uc9c4\uad003\ub85c", 
     "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
     "education": "\ub3c5\uc77c \uc624\uc2a4\ub098\ubd80\ub93d \uacf5\uacfc\ub300\ud559 \uc878\uc5c5(1988.10~1997.10)", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uc740\ud3c9\uad6c", 
+    "birthmonth": "02", 
+    "name_kr": "\uc704\uacc4\ucd9c", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd1100/Gsg1112/Sgg4111200/Hb100114267/gicho/100114267.jpg", 
+    "name_cn": "\u9b4f\u5553\u51fa", 
+    "regdate": "2014-04-23", 
+    "experience": [
+      "(\uc804)\uc8fc\uac00\ub098 \ud2b9\uba85 \uc804\uad8c\ub300\uc0ac(30\ub144 \uacbd\ub825\uc758 \ud589\uc815\uac00)", 
+      "(\uc804)\uc81c18\ub300 \ub300\ud1b5\ub839\uc120\uac70 \ubbfc\uc8fc\ud1b5\ud569\ub2f9 \uc911\uc559\uc120\ub300\uc870\uc9c1\uc704 \uc0c1\uc0dd\ubd84\uacfc\uc704\uc6d0\uc7a5"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1951", 
+    "job": "(\uc0ac)\ud55c\uad6d\uc0ac\ud68c\uc815\ucc45\uc5f0\uad6c\uc6d0 \uc0ac\ud68c\uc0ac\uc5c5 \uac1c\ubc1c\uc13c\ud130 \uc13c\ud130\uc7a5", 
+    "birthday": "10", 
+    "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uc740\ud3c9\uad6c \uc9c4\uad004\ub85c", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
+    "education": "\uace0\ub824\ub300\ud559\uad50 \ubc95\uacfc\ub300\ud559 \ud589\uc815\ud559\uacfc \uc878\uc5c5", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -2182,6 +2203,27 @@
   }, 
   {
     "district": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \ub9c8\ud3ec\uad6c", 
+    "birthmonth": "02", 
+    "name_kr": "\ucd5c\ud615\uaddc", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd1100/Gsg1114/Sgg4111400/Hb100103779/gicho/100103779.jpg", 
+    "name_cn": "\u5d14\u70af\u594e", 
+    "regdate": "2014-02-21", 
+    "experience": [
+      "(\uc804) \uc9c0\ubc29\uc11c\uae30\uad00(4\uae09)\ud1f4\uc784", 
+      "(\uc804) \ub9c8\ud3ec\uad6c\uc758\ud68c \ud589\uc815\uac74\uc124\uc704\uc6d0\uc7a5"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1947", 
+    "job": "\uc815\ub2f9\uc778", 
+    "birthday": "12", 
+    "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \ub9c8\ud3ec\uad6c \ubc29\uc6b8\ub0b4\ub85c", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
+    "education": "\ud55c\uc591\uc0ac\uc774\ubc84\ub300\ud559\uad50 \uacbd\uc601\uc815\ubcf4\uc804\uacf5 \uc878\uc5c5(\uacbd\uc601\ud559\uc0ac)", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \ub9c8\ud3ec\uad6c", 
     "birthmonth": "01", 
     "name_kr": "\uae40\ubcf4\uc5f0", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd1100/Gsg1114/Sgg4111400/Hb100107183/gicho/100107183.jpg", 
@@ -2199,27 +2241,6 @@
     "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \ub9c8\ud3ec\uad6c \uc131\uc0b0\ub85c4\uae38", 
     "party": "\ud1b5\ud569\uc9c4\ubcf4\ub2f9", 
     "education": "\uc11c\uac15\ub300\ud559\uad50 \uc0ac\ud559,\uc0ac\ud68c\ud559\uacfc \uc878\uc5c5 (\ubb38\ud559\uc0ac)", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \ub9c8\ud3ec\uad6c", 
-    "birthmonth": "02", 
-    "name_kr": "\ucd5c\ud615\uaddc", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd1100/Gsg1114/Sgg4111400/Hb100103779/gicho/100103779.jpg", 
-    "name_cn": "\u5d14\u70af\u594e", 
-    "regdate": "2014-02-21", 
-    "experience": [
-      "(\uc804) \uc9c0\ubc29\uc11c\uae30\uad00(4\uae09)\ud1f4\uc784", 
-      "(\uc804) \ub9c8\ud3ec\uad6c\uc758\ud68c \ud589\uc815\uac74\uc124\uc704\uc6d0\uc7a5"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1947", 
-    "job": "\uc815\ub2f9\uc778", 
-    "birthday": "12", 
-    "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \ub9c8\ud3ec\uad6c \ubc29\uc6b8\ub0b4\ub85c", 
-    "party": "\ubb34\uc18c\uc18d", 
-    "education": "\ud55c\uc591\uc0ac\uc774\ubc84\ub300\ud559\uad50 \uacbd\uc601\uc815\ubcf4\uc804\uacf5 \uc878\uc5c5(\uacbd\uc601\ud559\uc0ac)", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -2827,6 +2848,27 @@
   }, 
   {
     "district": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uae08\ucc9c\uad6c", 
+    "birthmonth": "02", 
+    "name_kr": "\ucc28\uc131\uc218", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd1100/Gsg1118/Sgg4111800/Hb100114483/gicho/100114483.jpg", 
+    "name_cn": "\u8eca\u8056\u79c0", 
+    "regdate": "2014-04-29", 
+    "experience": [
+      "(\uc804)\ub178\ubb34\ud604\ub300\ud1b5\ub839\ube44\uc11c\uc2e4 \uc2dc\ubbfc\uc0ac\ud68c\uc218\uc11d", 
+      "(\uc804)\ub3d9\uc544\ub300\ud559\uad50 \uc0ac\ud68c\ud559\uacfc \uad50\uc218"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1957", 
+    "job": "\uae08\ucc9c\uad6c\uccad\uc7a5", 
+    "birthday": "01", 
+    "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uae08\ucc9c\uad6c \uc2dc\ud765\ub300\ub85c", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
+    "education": "\uace0\ub824\ub300\ud559\uad50 \ub300\ud559\uc6d0 \uc0ac\ud68c\ud559\uacfc \ubc15\uc0ac\uacfc\uc815 \uc878\uc5c5", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uae08\ucc9c\uad6c", 
     "birthmonth": "09", 
     "name_kr": "\uc774\uc2b9\ubb34", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd1100/Gsg1118/Sgg4111800/Hb100104544/gicho/100104544.jpg", 
@@ -2980,8 +3022,8 @@
     "name_cn": "\u6734\u8fb0\u6d19", 
     "regdate": "2014-03-06", 
     "experience": [
-      "(\uc804)\ubbfc\uc8fc\ub2f9 \ub300\ud1b5\ub839\ud6c4\ubcf4 \uc2dc\ubbfc\ucea0\ud504 \uc11c\uc6b8\uc2dc \uacf5\ub3d9\ub300\ud45c", 
-      "(\ud604)\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569 \uc11c\uc6b8\uc2dc\ub2f9 \ucc3d\ub2f9\ubc1c\uae30\uc778"
+      "(\uc804)\ubb38\uc7ac\uc778\ub300\ud1b5\ub839\ud6c4\ubcf4 \uc2dc\ubbfc\ucea0\ud504 \uc11c\uc6b8\uc2dc \uacf5\ub3d9\ub300\ud45c", 
+      "(\ud604)\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569 \uc804\ub7b5\uae30\ud68d\uc704 \ubd80\uc704\uc6d0\uc7a5"
     ], 
     "sex": "\ub0a8", 
     "election_no": 6.0, 
@@ -2991,6 +3033,48 @@
     "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uc601\ub4f1\ud3ec\uad6c \uad6d\ud68c\ub300\ub85c", 
     "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
     "education": "\uc11c\uc6b8\ub300\ud559\uad50 \ud658\uacbd\ub300\ud559\uc6d0\uc878\uc5c5(\ub3c4\uc2dc\uacc4\ud68d\ud559\uc11d\uc0ac)", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uc601\ub4f1\ud3ec\uad6c", 
+    "birthmonth": "09", 
+    "name_kr": "\uc815\uacbd\ud658", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd1100/Gsg1119/Sgg4111900/Hb100114275/gicho/100114275.jpg", 
+    "name_cn": "\u912d\u6176\u7165", 
+    "regdate": "2014-04-23", 
+    "experience": [
+      "(\uc804)\uccad\uc640\ub300 \ud589\uc815\uad00", 
+      "(\uc804)\uad6d\ud68c\uc758\uc7a5 \uacf5\ubcf4\uc218\uc11d\ube44\uc11c\uad00"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1962", 
+    "job": "\uc815\ub2f9\uc778(\uad6d\ud68c\uc9c1 \uacf5\ubb34\uc6d0)", 
+    "birthday": "13", 
+    "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uc601\ub4f1\ud3ec\uad6c \uad6d\uc81c\uae08\uc735\ub85c7\uac00\uae38", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
+    "education": "\uc131\uade0\uad00\ub300\ud559\uad50 \ub300\ud559\uc6d0 \uc2e0\ubb38\ubc29\uc1a1\ud559\uacfc \uc878\uc5c5(\uc11d\uc0ac)", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uc601\ub4f1\ud3ec\uad6c", 
+    "birthmonth": "04", 
+    "name_kr": "\uc870\uae38\ud615", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd1100/Gsg1119/Sgg4111900/Hb100114528/gicho/100114528.jpg", 
+    "name_cn": "\u8d99\u5409\u8861", 
+    "regdate": "2014-04-30", 
+    "experience": [
+      "(\ud604)\uc601\ub4f1\ud3ec\uad6c\uccad\uc7a5", 
+      "(\uc804)\uc601\ub4f1\ud3ec\uad6c\uc758\ud68c\uc758\uc7a5"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1957", 
+    "job": "\uc601\ub4f1\ud3ec\uad6c\uccad\uc7a5", 
+    "birthday": "29", 
+    "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uc601\ub4f1\ud3ec\uad6c \uc2e0\uae38\ub85c23\ub098\uae38", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
+    "education": "\ud638\uc6d0\ub300\ud559\uad50 \ubc95\uacbd\ucc30\ud559\ubd80 \uc878\uc5c5", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -3138,6 +3222,27 @@
     "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \ub3d9\uc791\uad6c \ud604\ucda9\ub85c", 
     "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
     "education": "\uc911\uc559\ub300\ud559\uad50 \ub300\ud559\uc6d0 \uac74\ucd95\ud559\uacfc \uc878\uc5c5(\uacf5\ud559\ubc15\uc0ac)", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \ub3d9\uc791\uad6c", 
+    "birthmonth": "02", 
+    "name_kr": "\ubb38\ucda9\uc2e4", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd1100/Gsg1120/Sgg4112000/Hb100114310/gicho/100114310.JPG", 
+    "name_cn": "\u6587\u5fe0\u5be6", 
+    "regdate": "2014-04-24", 
+    "experience": [
+      "(\ud604)\ub3d9\uc791\uad6c\uccad\uc7a5", 
+      "(\uc804)\ubbfc\uc8fc\ub2f9 \uc815\ucc45\uc704\ubd80\uc704\uc6d0\uc7a5"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1950", 
+    "job": "\uc11c\uc6b8\uc2dc \ub3d9\uc791\uad6c\uccad\uc7a5", 
+    "birthday": "27", 
+    "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \ub3d9\uc791\uad6c \uc0c1\ub3c4\ub85c62\uac00\uae38", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
+    "education": "\uc11c\uc6b8\ub300\ud559\uad50 \ud589\uc815\ub300\ud559\uc6d0 \uc878\uc5c5(\ud589\uc815\ud559 \uc11d\uc0ac)", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -3292,7 +3397,7 @@
     "name_cn": "\uf9c9\u937e\u73cc", 
     "regdate": "2014-04-07", 
     "experience": [
-      "(\uc804)\uad6d\ud68c\ub3c4\uc11c\uad00\uc7a5[\ucc28\uad00\uae09]", 
+      "(\uc804)17\ub300 \uad6d\ud68c\ub3c4\uc11c\uad00\uc7a5[\ucc28\uad00\uae09]", 
       "(\uc804)\ubbfc\uc8fc\ub2f9 \ub300\ubcc0\uc778"
     ], 
     "sex": "\ub0a8", 
@@ -3599,24 +3704,6 @@
   {
     "district": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uac15\ub0a8\uad6c", 
     "birthmonth": "01", 
-    "name_kr": "\uc2e0\uc5f0\ud76c", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd1100/Gsg1123/Sgg4112300/Hb100112769/gicho/100112769.JPG", 
-    "name_cn": "\u7533\u71d5\u59ec", 
-    "regdate": "2014-04-04", 
-    "experience": "(\ud604)\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uac15\ub0a8\uad6c\uccad\uc7a5", 
-    "sex": "\uc5ec", 
-    "election_no": 6.0, 
-    "birthyear": "1948", 
-    "job": "\uacf5\ubb34\uc6d0", 
-    "birthday": "08", 
-    "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uac15\ub0a8\uad6c \uc601\ub3d9\ub300\ub85c", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
-    "education": "\uace0\ub824\ub300\ud559\uad50  \ubc95\uacfc\ub300\ud559 \ud589\uc815\ud559\uacfc \uc878\uc5c5", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uac15\ub0a8\uad6c", 
-    "birthmonth": "01", 
     "name_kr": "\uc774\uc591\ud55c", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd1100/Gsg1123/Sgg4112300/Hb100111833/gicho/100111833.JPG", 
     "name_cn": "\uf9e1\uf977\u6f22", 
@@ -3805,6 +3892,27 @@
   }, 
   {
     "district": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uc1a1\ud30c\uad6c", 
+    "birthmonth": "02", 
+    "name_kr": "\uc774\uadfc\uc2dd", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd1100/Gsg1124/Sgg4112400/Hb100114421/gicho/100114421.jpg", 
+    "name_cn": "\uf9e1\u6839\u690d", 
+    "regdate": "2014-04-28", 
+    "experience": [
+      "(\uc804)\ud589\uc815\uc790\uce58\ubd80\uc7a5\uad00", 
+      "(\uc804)\uc81c17\ub300 \uad6d\ud68c\uc758\uc6d0(\uc1a1\ud30c\ubcd1)"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1946", 
+    "job": "\uc815\ub2f9\uc778", 
+    "birthday": "10", 
+    "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uc1a1\ud30c\uad6c \ubb38\uc815\ub85c", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
+    "education": "\uc11c\uc6b8\ub300\ud559\uad50 \ubc95\uacfc\ub300\ud559 \ubc95\ud559\uacfc \uc878\uc5c5", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uc1a1\ud30c\uad6c", 
     "birthmonth": "07", 
     "name_kr": "\uae40\ud604\uc885", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd1100/Gsg1124/Sgg4112400/Hb100104741/gicho/100104741.jpg", 
@@ -3966,27 +4074,6 @@
     "address": "\ubd80\uc0b0\uad11\uc5ed\uc2dc \ub3d9\uad6c \ub9dd\uc591\ub85c", 
     "party": "\uc0c8\ub204\ub9ac\ub2f9", 
     "education": "\ub3d9\uc758\ub300\ud559\uad50 \ub300\ud559\uc6d0 \ud589\uc815\ud559 \ubc15\uc0ac", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\ubd80\uc0b0\uad11\uc5ed\uc2dc \ub3d9\uad6c", 
-    "birthmonth": "11", 
-    "name_kr": "\ucd5c\ud615\uc6b1", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd2600/Gsg2603/Sgg4260300/Hb100107430/gicho/100107430.jpg", 
-    "name_cn": "\u5d14\u4ea8\u65ed", 
-    "regdate": "2014-03-11", 
-    "experience": [
-      "(\uc804)\ubd80\uc0b0\uad11\uc5ed\uc2dc\uc758\ud68c \uae30\ud68d\uc7ac\uacbd\uc704\uc6d0\uc7a5", 
-      "(\uc804)\ubd80\uc0b0\uad11\uc5ed\uc2dc\uc758\ud68c \uc9c0\ubc29\ubd84\uad8c\ud2b9\ubcc4\uc704\uc6d0\uc7a5"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1957", 
-    "job": "\uc815\ub2f9\uc778", 
-    "birthday": "19", 
-    "address": "\ubd80\uc0b0\uad11\uc5ed\uc2dc \ub3d9\uad6c \uc911\uc559\ub300\ub85c320\ubc88\uae38", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
-    "education": "\ub3d9\uc544\ub300\ud559\uad50 \uc5b8\ub860\ud64d\ubcf4\ub300\ud559\uc6d0 \uc2e0\ubb38\ubc29\uc1a1\ud559\uacfc \uc11d\uc0ac\uacfc\uc815 \uc218\ub8cc", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -4155,27 +4242,6 @@
     "address": "\ubd80\uc0b0\uad11\uc5ed\uc2dc \ubd80\uc0b0\uc9c4\uad6c \ub2f9\uac10\ub85c", 
     "party": "\uc0c8\ub204\ub9ac\ub2f9", 
     "education": "\uacbd\uc131\ub300\ud559\uad50 \ud589\uc815\ud559 \ubc15\uc0ac", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\ubd80\uc0b0\uad11\uc5ed\uc2dc \ubd80\uc0b0\uc9c4\uad6c", 
-    "birthmonth": "11", 
-    "name_kr": "\ud558\uacc4\uc5f4", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd2600/Gsg2605/Sgg4260500/Hb100113550/gicho/100113550.jpg", 
-    "name_cn": "\u6cb3\u6842\uf99f", 
-    "regdate": "2014-04-10", 
-    "experience": [
-      "(\ud604) \ubd80\uc0b0\uc9c4\uad6c\uccad\uc7a5", 
-      "(\uc804) \uc804\uad6d \uc2dc\uc7a5\u00b7\uad70\uc218\u00b7\uad6c\uccad\uc7a5\ud611\uc758\ud68c \ub300\ud45c\ud68c\uc7a5"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1945", 
-    "job": "\uacf5\ubb34\uc6d0", 
-    "birthday": "02", 
-    "address": "\ubd80\uc0b0\uad11\uc5ed\uc2dc \ubd80\uc0b0\uc9c4\uad6c \ubc31\uc591\ub300\ub85c300\ubc88\uae38", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
-    "education": "\ub3d9\uc544\ub300\ud559\uad50 \ubc95\ud559\uacfc \uc878\uc5c5", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -4585,8 +4651,8 @@
     "name_cn": "\u7533\u4e94\u540c", 
     "regdate": "2014-02-24", 
     "experience": [
-      "(\ud604)\ubbfc\uc871\ud1b5\uc77c \ubd81\uad6c \uc0ac\ubb34\uad6d\uc7a5", 
-      "(\uc804)2002\ub144\ubd80\uc0b0\uc2dc\ubbfc\uc11c\ud3ec\ud130\uc988 \ub808\ubc14\ub17c\uacbd\uae30\uc774\uc0ac"
+      "(\ud604) \ubd80\uc0b0\ubd81\uad6c\uc9c0\uc5ed \uc2ec\uc57c\ubc84\uc2a4\uc6b4\ud589 \ucd94\uc9c4 \uc704\uc6d0\uc7a5", 
+      "(\uc804) \ubbfc\uc871\ud1b5\uc77c \ubd81\uad6c \uc0ac\ubb34\uad6d\uc7a5"
     ], 
     "sex": "\ub0a8", 
     "election_no": 6.0, 
@@ -4719,6 +4785,27 @@
     "address": "\ubd80\uc0b0\uad11\uc5ed\uc2dc \ud574\uc6b4\ub300\uad6c \ud574\uc6b4\ub300\ub85c", 
     "party": "\uc0c8\ub204\ub9ac\ub2f9", 
     "education": "\ubd80\uc0b0\ub300\ud559\uad50 \uacf5\uacf5\uc815\ucc45\ud559 \ubc15\uc0ac\uc218\ub8cc", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\ubd80\uc0b0\uad11\uc5ed\uc2dc \ud574\uc6b4\ub300\uad6c", 
+    "birthmonth": "06", 
+    "name_kr": "\ubc15\uc740\uc219", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd2600/Gsg2609/Sgg4260900/Hb100114423/gicho/100114423.jpg", 
+    "name_cn": "\u6734\u6069\u6dd1", 
+    "regdate": "2014-04-28", 
+    "experience": [
+      "(\ud604) \uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569 \ubd80\uc0b0\uad11\uc5ed\uc2dc\ub2f9 \uc9d1\ud589\uc704\uc6d0", 
+      "(\uc804) \ud55c\ub098\ub77c\ub2f9 \uc911\uc559\ub2f9 \ubd80\ub300\ubcc0\uc778"
+    ], 
+    "sex": "\uc5ec", 
+    "election_no": 6.0, 
+    "birthyear": "1962", 
+    "job": "\uc815\ub2f9\uc778", 
+    "birthday": "20", 
+    "address": "\ubd80\uc0b0\uad11\uc5ed\uc2dc \ud574\uc6b4\ub300\uad6c \uc88c\ub3d9\uc21c\ud658\ub85c217\ubc88\uae38", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
+    "education": "\ub3d9\uc544\ub300\ud559\uad50 \ub300\ud559\uc6d0 \uc218\ub8cc", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -4975,6 +5062,27 @@
   }, 
   {
     "district": "\ubd80\uc0b0\uad11\uc5ed\uc2dc \uae08\uc815\uad6c", 
+    "birthmonth": "02", 
+    "name_kr": "\uc6d0\uc815\ud76c", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd2600/Gsg2612/Sgg4261200/Hb100114407/gicho/100114407.jpg", 
+    "name_cn": "\u5143\u4e95\u559c", 
+    "regdate": "2014-04-28", 
+    "experience": [
+      "(\ud604)\ubd80\uc0b0\uad11\uc5ed\uc2dc \uae08\uc815\uad6c\uccad\uc7a5", 
+      "(\uc804)\uc81c4\ub300 \ubd80\uc0b0\uad11\uc5ed\uc2dc\uc758\ud68c \uc758\uc6d0"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1954", 
+    "job": "\uacf5\ubb34\uc6d0", 
+    "birthday": "10", 
+    "address": "\ubd80\uc0b0\uad11\uc5ed\uc2dc \uae08\uc815\uad6c \ub3d9\ubd80\uace1\ub85c5\ubc88\uae38", 
+    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
+    "education": "\ub3d9\uc758\ub300\ud559\uad50 \ub300\ud559\uc6d0 \ud68c\uacc4\ud559\uacfc \uc878\uc5c5", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\ubd80\uc0b0\uad11\uc5ed\uc2dc \uae08\uc815\uad6c", 
     "birthmonth": "06", 
     "name_kr": "\uc815\uc7a5\uadfc", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd2600/Gsg2612/Sgg4261200/Hb100105430/gicho/100105430.JPG", 
@@ -5203,27 +5311,6 @@
   }, 
   {
     "district": "\ubd80\uc0b0\uad11\uc5ed\uc2dc \uc5f0\uc81c\uad6c", 
-    "birthmonth": "05", 
-    "name_kr": "\uc774\uc704\uc900", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd2600/Gsg2614/Sgg4261400/Hb100113629/gicho/100113629.jpg", 
-    "name_cn": "\uf9e1\u6e2d\u4fca", 
-    "regdate": "2014-04-11", 
-    "experience": [
-      "(\ud604)\uc5f0\uc81c\uad6c\uccad\uc7a5", 
-      "(\uc804)\uc5f0\uc81c\uad6c\uc758\ud68c\uc758\uc7a5"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1943", 
-    "job": "\uc5f0\uc81c\uad6c\uccad\uc7a5", 
-    "birthday": "15", 
-    "address": "\ubd80\uc0b0\uad11\uc5ed\uc2dc \uc5f0\uc81c\uad6c \uc30d\ubbf8\ucc9c\ub85c", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
-    "education": "\ub3d9\uc544\ub300\ud559\uad50 \uc6d0\uc608\ud559\uacfc \uc878\uc5c5", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\ubd80\uc0b0\uad11\uc5ed\uc2dc \uc5f0\uc81c\uad6c", 
     "birthmonth": "03", 
     "name_kr": "\ucc28\ubc31\uc9c4", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd2600/Gsg2614/Sgg4261400/Hb100111613/gicho/100111613.jpg", 
@@ -5343,27 +5430,6 @@
     "address": "\ubd80\uc0b0\uad11\uc5ed\uc2dc \uc0ac\uc0c1\uad6c \uc0ac\uc0c1\ub85c212\ubc88\uae38", 
     "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
     "education": "\ubd80\uc0b0\ub514\uc9c0\ud138\ub300\ud559\uad50 \uc0ac\ud68c\ubcf5\uc9c0\ud559\uacfc \uc878\uc5c5", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\ubd80\uc0b0\uad11\uc5ed\uc2dc \uc0ac\uc0c1\uad6c", 
-    "birthmonth": "10", 
-    "name_kr": "\uc815\ub300\uc6b1", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd2600/Gsg2616/Sgg4261600/Hb100113733/gicho/100113733.jpg", 
-    "name_cn": "\u912d\u5927\u65ed", 
-    "regdate": "2014-04-14", 
-    "experience": [
-      "(\ud604)\uc0ac\ud68c\ubcf5\uc9c0\ubc95\uc778 \uc131\uacbd\ubcf5\uc9c0\uc7ac\ub2e8 \ub300\ud45c\uc774\uc0ac", 
-      "(\uc804)\ubd80\uc0b0\uc2dc\uc758\ud68c \ud589\uc815\uad50\uc721\uc704\uc6d0\uc7a5"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1952", 
-    "job": "\uc0ac\ud68c\ubcf5\uc9c0\ubc95\uc778 \uc131\uacbd\ubcf5\uc9c0\uc7ac\ub2e8 \ub300\ud45c\uc774\uc0ac", 
-    "birthday": "28", 
-    "address": "\ubd80\uc0b0\uad11\uc5ed\uc2dc \uc0ac\uc0c1\uad6c \ubc31\uc591\ub300\ub85c", 
-    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
-    "education": "\ub3d9\uc544\ub300\ud559\uad50 \uc815\ucc45\uacfc\ud559\ub300\ud559\uc6d0 \uc11d\uc0ac \uc878\uc5c5 (\ud589\uc815\ud559 \uc11d\uc0ac)", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -6334,6 +6400,27 @@
   }, 
   {
     "district": "\uc778\ucc9c\uad11\uc5ed\uc2dc \uc5f0\uc218\uad6c", 
+    "birthmonth": "04", 
+    "name_kr": "\uc6b0\uc724\uc2dd", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd2800/Gsg2804/Sgg4280400/Hb100104782/gicho/100104782.jpg", 
+    "name_cn": "\u79b9\u6f64\u690d", 
+    "regdate": "2014-02-28", 
+    "experience": [
+      "(\ud604)\uc815\ucc45\ub124\ud2b8\uc6cc\ud06c \ub0b4\uc77c \uc2e4\ud589\uc704\uc6d0", 
+      "(\uc804)\uc81c15\uae30 \ubbfc\uc8fc\ud3c9\ud654\ud1b5\uc77c\uc790\ubb38\ud68c\uc758 \uc5f0\uc218\uad6c\ud611\uc758\ud68c\uc7a5"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1963", 
+    "job": "\uc77c\uc9c4\ud3ec\uc7a5\uc0b0\uc5c5 \ub300\ud45c", 
+    "birthday": "27", 
+    "address": "\uc778\ucc9c\uad11\uc5ed\uc2dc \uc5f0\uc218\uad6c \uccad\ub2a5\ub300\ub85c", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
+    "education": "\uace0\ub824\ub300\ud559\uad50 \ub300\ud559\uc6d0 \ud589\uc815\ud559\uacfc \uc878\uc5c5(\ud589\uc815\ud559 \uc11d\uc0ac)", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uc778\ucc9c\uad11\uc5ed\uc2dc \uc5f0\uc218\uad6c", 
     "birthmonth": "01", 
     "name_kr": "\ubc15\uc7ac\ud638", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd2800/Gsg2804/Sgg4280400/Hb100105527/gicho/100105527.jpg", 
@@ -6393,27 +6480,6 @@
     "address": "\uc778\ucc9c\uad11\uc5ed\uc2dc \uc5f0\uc218\uad6c \uccad\ub7c9\ub85c164\ubc88\uae38", 
     "party": "\uc815\uc758\ub2f9", 
     "education": "\uc778\ud558\ub300\ud559\uad50 \uad50\uc721\ub300\ud559\uc6d0 \uad50\uc721\ud559\uacfc \uc11d\uc0ac\uacfc\uc815 \uc218\ub8cc", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uc778\ucc9c\uad11\uc5ed\uc2dc \uc5f0\uc218\uad6c", 
-    "birthmonth": "04", 
-    "name_kr": "\uc6b0\uc724\uc2dd", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd2800/Gsg2804/Sgg4280400/Hb100104782/gicho/100104782.jpg", 
-    "name_cn": "\u79b9\u6f64\u690d", 
-    "regdate": "2014-02-28", 
-    "experience": [
-      "(\ud604)\uc815\ucc45\ub124\ud2b8\uc6cc\ud06c \ub0b4\uc77c \uc2e4\ud589\uc704\uc6d0", 
-      "(\uc804)\uc81c15\uae30 \ubbfc\uc8fc\ud3c9\ud654\ud1b5\uc77c\uc790\ubb38\ud68c\uc758 \uc5f0\uc218\uad6c\ud611\uc758\ud68c\uc7a5"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1963", 
-    "job": "\uc77c\uc9c4\ud3ec\uc7a5\uc0b0\uc5c5 \ub300\ud45c", 
-    "birthday": "27", 
-    "address": "\uc778\ucc9c\uad11\uc5ed\uc2dc \uc5f0\uc218\uad6c \uccad\ub2a5\ub300\ub85c", 
-    "party": "\ubb34\uc18c\uc18d", 
-    "education": "\uace0\ub824\ub300\ud559\uad50 \ub300\ud559\uc6d0 \ud589\uc815\ud559\uacfc \uc878\uc5c5(\ud589\uc815\ud559 \uc11d\uc0ac)", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -7005,6 +7071,27 @@
     "election_type": "municipality_governor"
   }, 
   {
+    "district": "\uc778\ucc9c\uad11\uc5ed\uc2dc \uac15\ud654\uad70", 
+    "birthmonth": "07", 
+    "name_kr": "\ud55c\uc0c1\uc6b4", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd2800/Gsg2809/Sgg4280900/Hb100114448/gicho/100114448.jpg", 
+    "name_cn": "\u97d3\u76f8\u96f2", 
+    "regdate": "2014-04-30", 
+    "experience": [
+      "(\uc804)\uacbd\uae30\ub3c4\uc758\ud68c \uc81c4\ub300 \uc758\uc6d0", 
+      "(\ud604)\uad6d\ud68c\uc785\ubc95\uc815\ucc45\uc5f0\uad6c\ud68c \uc774\uc0ac"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1943", 
+    "job": "\uc2dc\ubbfc\uc6b4\ub3d9\uac00", 
+    "birthday": "27", 
+    "address": "\uc778\ucc9c\uad11\uc5ed\uc2dc \uac15\ud654\uad70 \uac15\ud654\uc74d \ubd80\uc870\uace0\uac1c\uae38", 
+    "party": "\ubb34\uc18c\uc18d", 
+    "education": "\uc131\uade0\uad00\ub300\ud559\uad50 \uacbd\uc0c1\ub300\ud559 \uacbd\uc601\ud559\uacfc \uc878\uc5c5", 
+    "election_type": "municipality_governor"
+  }, 
+  {
     "district": "\uc778\ucc9c\uad11\uc5ed\uc2dc \uc639\uc9c4\uad70", 
     "birthmonth": "07", 
     "name_kr": "\ubb38\uacbd\ubcf5", 
@@ -7363,27 +7450,6 @@
   }, 
   {
     "district": "\uad11\uc8fc\uad11\uc5ed\uc2dc \ub0a8\uad6c", 
-    "birthmonth": "06", 
-    "name_kr": "\ubc15\uc6a9\uad8c", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd2900/Gsg2903/Sgg4290300/Hb100103795/gicho/100103795.jpg", 
-    "name_cn": "\u6734\u5bb9\u6b0a", 
-    "regdate": "2014-02-21", 
-    "experience": [
-      "(\uc804)\uad11\uc8fc\uad11\uc5ed\uc2dc\ub0a8\uad6c\uccad\uc7a5", 
-      "(\uc804)\uad11\uc8fc\uad11\uc5ed\uc2dc\uc758\ud68c\uc758\uc6d0/\uc0c1\uc784\uc704\uc6d0\uc7a5"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1950", 
-    "job": "\uc624\uc131\ud0c0\uc62c \uba85\uc608\ud68c\uc7a5", 
-    "birthday": "13", 
-    "address": "\uad11\uc8fc\uad11\uc5ed\uc2dc \ub0a8\uad6c \ubc31\uc591\ub85c", 
-    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
-    "education": "\uc870\uc120\ub300\ud559\uad50 \uc0ac\ud68c\uacfc\ud559\ub300\ud559 \ud589\uc815\ubcf5\uc9c0\ud559\ubd80 \uc878\uc5c5", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uad11\uc8fc\uad11\uc5ed\uc2dc \ub0a8\uad6c", 
     "birthmonth": "07", 
     "name_kr": "\uc774\ucca0\uc6d0", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd2900/Gsg2903/Sgg4290300/Hb100106641/gicho/100106641.JPG", 
@@ -7531,6 +7597,27 @@
   }, 
   {
     "district": "\uad11\uc8fc\uad11\uc5ed\uc2dc \ubd81\uad6c", 
+    "birthmonth": "08", 
+    "name_kr": "\uc1a1\uad11\uc6b4", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd2900/Gsg2904/Sgg4290400/Hb100114476/gicho/100114476.jpg", 
+    "name_cn": "\u5b8b\u5149\u904b", 
+    "regdate": "2014-04-29", 
+    "experience": [
+      "(\uc804) \uc804\ub77c\ub0a8\ub3c4 \ubd80\uc9c0\uc0ac", 
+      "(\ud604) \uad11\uc8fc\uad11\uc5ed\uc2dc\ubd81\uad6c\uccad\uc7a5"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1953", 
+    "job": "\uad6c\uccad\uc7a5", 
+    "birthday": "03", 
+    "address": "\uad11\uc8fc\uad11\uc5ed\uc2dc \ubd81\uad6c \uc11c\uc554\ub300\ub85c", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
+    "education": "\uace0\ub824\ub300\ud559\uad50 \ubc95\uacfc\ub300\ud559 \ud589\uc815\ud559\uacfc \uc878\uc5c5", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uad11\uc8fc\uad11\uc5ed\uc2dc \ubd81\uad6c", 
     "birthmonth": "09", 
     "name_kr": "\uc815\ud615\ud0dd", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd2900/Gsg2904/Sgg4290400/Hb100105491/gicho/100105491.jpg", 
@@ -7628,7 +7715,7 @@
     "birthday": "05", 
     "address": "\uad11\uc8fc\uad11\uc5ed\uc2dc \uad11\uc0b0\uad6c \uc6d4\uacc4\ub85c", 
     "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
-    "education": "\ud638\ub0a8\ub300\ud559\uad50 \ubc95\ud559\uacfc 4\ud559\ub144 \uc81c\uc801(1999\ub1443\uc6d42\uc77c ~ 2005\ub1445\uc6d417\uc77c)", 
+    "education": "\ud638\ub0a8\ub300\ud559\uad50 \ubc95\ud559\uacfc 4\ud559\ub144 \uc81c\uc801(1999.3.~ 2005.5.)", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -7649,7 +7736,28 @@
     "birthday": "05", 
     "address": "\uad11\uc8fc\uad11\uc5ed\uc2dc \uad11\uc0b0\uad6c \ud48d\uc601\ub85c169\ubc88\uae38", 
     "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
-    "education": "\uc804\ub0a8\ub300\ud559\uad50 \ud589\uc815\ub300\ud559\uc6d0 \ud589\uc815\ud559\uacfc \uc11d\uc0ac \uc878\uc5c5", 
+    "education": "\uc804\ub0a8\ub300\ud559\uad50 \ud589\uc815\ud559\uacfc \ubc15\uc0ac\uacfc\uc815 \ud734\ud559", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uad11\uc8fc\uad11\uc5ed\uc2dc \uad11\uc0b0\uad6c", 
+    "birthmonth": "06", 
+    "name_kr": "\ubbfc\ud615\ubc30", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd2900/Gsg2905/Sgg4290500/Hb100114515/gicho/100114515.jpg", 
+    "name_cn": "\u9594\u70af\u57f9", 
+    "regdate": "2014-04-30", 
+    "experience": [
+      "(\ud604)\uad11\uc0b0\uad6c\uccad\uc7a5", 
+      "(\uc804)\ub178\ubb34\ud604 \ub300\ud1b5\ub839 \uccad\uc640\ub300 \ube44\uc11c\uad00"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1961", 
+    "job": "\uad11\uc0b0\uad6c\uccad\uc7a5", 
+    "birthday": "15", 
+    "address": "\uad11\uc8fc\uad11\uc5ed\uc2dc \uad11\uc0b0\uad6c \uc2e0\ucc3d\ub85c71\ubc88\uae38", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
+    "education": "\uc804\ub0a8\ub300\ud559\uad50 \uc77c\ubc18\ub300\ud559\uc6d0 \uc0ac\ud68c\ud559 \ubc15\uc0ac", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -7927,6 +8035,27 @@
   }, 
   {
     "district": "\ub300\uc804\uad11\uc5ed\uc2dc \uc11c\uad6c", 
+    "birthmonth": "03", 
+    "name_kr": "\uc11c\uc9c4\ud76c", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd3000/Gsg3003/Sgg4300300/Hb100103639/gicho/100103639.JPG", 
+    "name_cn": "\u5f90\u771e\u59ec", 
+    "regdate": "2014-02-21", 
+    "experience": [
+      "(\uc804)\uc81c19\ub300 \uad6d\ud68c\uc758\uc6d0 \ud6c4\ubcf4(\ub300\uc804 \uc11c\uad6c\uc744)", 
+      "(\uc804)\ubbfc\uc8fc\ud1b5\ud569\ub2f9 \uc81c18\ub300 \ub300\ud1b5\ub839\uc120\uac70 \uc911\uc559\uc120\uac70\ub300\ucc45\uc704\uc6d0\ud68c \uc870\uc9c1\uc704\uc6d0\ud68c \uc0c1\uc0dd\ubd84\uacfc\uc704\uc6d0\uc7a5"
+    ], 
+    "sex": "\uc5ec", 
+    "election_no": 6.0, 
+    "birthyear": "1978", 
+    "job": "\ubaa9\uc6d0\ub300\ud559\uad50 \uc678\ub798\uad50\uc218", 
+    "birthday": "23", 
+    "address": "\ub300\uc804\uad11\uc5ed\uc2dc \uc11c\uad6c \uc6d4\ud3c9\uc0c8\ub738\ub85c", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
+    "education": "\ud55c\ub0a8\ub300\ud559\uad50 \ub300\ud559\uc6d0 \uc7ac\ud559\uc911(\uc0ac\ud68c\ubcf5\uc9c0\ud559 \uc11d\u00b7\ubc15\uc0ac \ud1b5\ud569\uacfc\uc815)", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\ub300\uc804\uad11\uc5ed\uc2dc \uc11c\uad6c", 
     "birthmonth": "02", 
     "name_kr": "\uc7a5\uc885\ud0dc", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd3000/Gsg3003/Sgg4300300/Hb100106438/gicho/100106438.jpg", 
@@ -7948,27 +8077,6 @@
   }, 
   {
     "district": "\ub300\uc804\uad11\uc5ed\uc2dc \uc11c\uad6c", 
-    "birthmonth": "03", 
-    "name_kr": "\uc11c\uc9c4\ud76c", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd3000/Gsg3003/Sgg4300300/Hb100103639/gicho/100103639.JPG", 
-    "name_cn": "\u5f90\u771e\u59ec", 
-    "regdate": "2014-02-21", 
-    "experience": [
-      "(\uc804)\uc81c19\ub300 \uad6d\ud68c\uc758\uc6d0 \ud6c4\ubcf4(\ub300\uc804 \uc11c\uad6c\uc744)", 
-      "(\uc804)\ubbfc\uc8fc\ud1b5\ud569\ub2f9 \uc81c18\ub300 \ub300\ud1b5\ub839\uc120\uac70 \uc911\uc559\uc120\uac70\ub300\ucc45\uc704\uc6d0\ud68c \uc870\uc9c1\uc704\uc6d0\ud68c \uc0c1\uc0dd\ubd84\uacfc\uc704\uc6d0\uc7a5"
-    ], 
-    "sex": "\uc5ec", 
-    "election_no": 6.0, 
-    "birthyear": "1978", 
-    "job": "\ubaa9\uc6d0\ub300\ud559\uad50 \uc678\ub798\uad50\uc218", 
-    "birthday": "23", 
-    "address": "\ub300\uc804\uad11\uc5ed\uc2dc \uc11c\uad6c \uc6d4\ud3c9\uc0c8\ub738\ub85c", 
-    "party": "\ubb34\uc18c\uc18d", 
-    "education": "\ud55c\ub0a8\ub300\ud559\uad50 \ub300\ud559\uc6d0 \uc7ac\ud559\uc911(\uc0ac\ud68c\ubcf5\uc9c0\ud559 \uc11d\u00b7\ubc15\uc0ac \ud1b5\ud569\uacfc\uc815)", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\ub300\uc804\uad11\uc5ed\uc2dc \uc11c\uad6c", 
     "birthmonth": "01", 
     "name_kr": "\uc774\uac15\ucca0", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd3000/Gsg3003/Sgg4300300/Hb100103876/gicho/100103876.jpg", 
@@ -7984,7 +8092,7 @@
     "job": "\uc0ac\ub2e8\ubc95\uc778 \ud55c\uad6d\uccad\ub144\ud68c\uc758\uc18c(JC) \uc5f0\uc218\uc6d0 \uad50\uc218", 
     "birthday": "08", 
     "address": "\ub300\uc804\uad11\uc5ed\uc2dc \uc11c\uad6c \ub454\uc0b0\ubd81\ub85c", 
-    "party": "\ubb34\uc18c\uc18d", 
+    "party": "\uc0c8\uc815\uce58\uad6d\ubbfc\uc758\ub2f9", 
     "education": "\ud55c\ub0a8\ub300\ud559\uad50 \uad6d\uc5b4\uad6d\ubb38\ud559\uacfc \uc878\uc5c5", 
     "election_type": "municipality_governor"
   }, 
@@ -8221,6 +8329,27 @@
   }, 
   {
     "district": "\ub300\uc804\uad11\uc5ed\uc2dc \ub300\ub355\uad6c", 
+    "birthmonth": "12", 
+    "name_kr": "\ucd5c\uc601\uad00", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd3000/Gsg3005/Sgg4300500/Hb100111089/gicho/100111089.jpg", 
+    "name_cn": "\u5d14\u6c38\u5b98", 
+    "regdate": "2014-03-25", 
+    "experience": [
+      "(\uc804)\ub300\ub355\uad6c\uccad \uacfc\uc7a5 \ub4f1 \uacf5\ubb34\uc6d0 22\ub144 \uc7ac\uc9c1(\uba85\uc608\ud1f4\uc9c1)", 
+      "(\ud604)\ud55c\ub0a8\ub300\ud559\uad50 \uac1d\uc6d0\uad50\uc218"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1948", 
+    "job": "\ud55c\ub0a8\ub300\ud559\uad50 \uac1d\uc6d0\uad50\uc218", 
+    "birthday": "11", 
+    "address": "\ub300\uc804\uad11\uc5ed\uc2dc \ub300\ub355\uad6c \uacc4\uc871\ub85c", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
+    "education": "\ud55c\ub0a8\ub300\ud559\uad50 \uc77c\ubc18\ub300\ud559\uc6d0 \ubb34\uc5ed\ud559\uacfc \uc878\uc5c5(\uacbd\uc601\ud559\ubc15\uc0ac)", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\ub300\uc804\uad11\uc5ed\uc2dc \ub300\ub355\uad6c", 
     "birthmonth": "02", 
     "name_kr": "\ud64d\ucd98\uae30", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd3000/Gsg3005/Sgg4300500/Hb100108068/gicho/100108068.jpg", 
@@ -8238,27 +8367,6 @@
     "address": "\ub300\uc804\uad11\uc5ed\uc2dc \ub300\ub355\uad6c \uc2e0\ud0c4\uc9c4\ub85c218\ubc88\uae38", 
     "party": "\ud1b5\ud569\uc9c4\ubcf4\ub2f9", 
     "education": "\ud55c\ub0a8\ub300\ud559\uad50 \uacf5\uacfc\ub300\ud559 \uc804\uc790\uacc4\uc0b0\uacf5\ud559\uacfc \uc878\uc5c5", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\ub300\uc804\uad11\uc5ed\uc2dc \ub300\ub355\uad6c", 
-    "birthmonth": "12", 
-    "name_kr": "\ucd5c\uc601\uad00", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd3000/Gsg3005/Sgg4300500/Hb100111089/gicho/100111089.jpg", 
-    "name_cn": "\u5d14\u6c38\u5b98", 
-    "regdate": "2014-03-25", 
-    "experience": [
-      "(\uc804)\ub300\ub355\uad6c\uccad \uacfc\uc7a5 \ub4f1 \uacf5\ubb34\uc6d0 22\ub144 \uc7ac\uc9c1(\uba85\uc608\ud1f4\uc9c1)", 
-      "(\ud604)\ud55c\ub0a8\ub300\ud559\uad50 \uac1d\uc6d0\uad50\uc218"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1948", 
-    "job": "\ud55c\ub0a8\ub300\ud559\uad50 \uac1d\uc6d0\uad50\uc218", 
-    "birthday": "11", 
-    "address": "\ub300\uc804\uad11\uc5ed\uc2dc \ub300\ub355\uad6c \uacc4\uc871\ub85c", 
-    "party": "\ubb34\uc18c\uc18d", 
-    "education": "\ud55c\ub0a8\ub300\ud559\uad50 \uc77c\ubc18\ub300\ud559\uc6d0 \ubb34\uc5ed\ud559\uacfc \uc878\uc5c5(\uacbd\uc601\ud559\ubc15\uc0ac)", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -8595,6 +8703,27 @@
     "address": "\uc6b8\uc0b0\uad11\uc5ed\uc2dc \uc6b8\uc8fc\uad70 \uc628\uc591\uc74d \uc0c1\ubc1c1\uae38", 
     "party": "\uc0c8\ub204\ub9ac\ub2f9", 
     "education": "\uc6b8\uc0b0\ub300\ud559\uad50 \uc815\ucc45\ub300\ud559\uc6d0 \uc878\uc5c5(\uc0ac\ud68c\ubcf5\uc9c0\ud559 \uc11d\uc0ac)", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uc6b8\uc0b0\uad11\uc5ed\uc2dc \uc6b8\uc8fc\uad70", 
+    "birthmonth": "11", 
+    "name_kr": "\uae40\ud0dc\ub0a8", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd3100/Gsg3105/Sgg4310500/Hb100114368/gicho/100114368.jpg", 
+    "name_cn": "\u91d1\u6cf0\u7537", 
+    "regdate": "2014-04-25", 
+    "experience": [
+      "(\uc804)\ubbfc\uc8fc\ub2f9 \uc6b8\uc8fc\uad70 \uc9c0\uc5ed\uc704\uc6d0\uc7a5", 
+      "(\uc804)\uc6b8\uc0b0 \ubc31\ub450\ub77c\uc774\uc628\uc2a4\ud074\ub7fd \ud68c\uc7a5"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1960", 
+    "job": "\uac74\uc124\uc5c5((\uc8fc)\uac00\uc57cPA \ub300\ud45c\uc774\uc0ac)", 
+    "birthday": "27", 
+    "address": "\uc6b8\uc0b0\uad11\uc5ed\uc2dc \uc6b8\uc8fc\uad70 \ubc94\uc11c\uc74d \ub300\ub9ac3\uae38", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
+    "education": "\ubd80\uc0b0\uc804\uc790\uacf5\uc5c5\uace0\ub4f1\ud559\uad50 \uc878\uc5c5", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -8994,6 +9123,27 @@
     "address": "\uacbd\uae30\ub3c4 \uc548\uc591\uc2dc \ub3d9\uc548\uad6c \uad00\uc545\ub300\ub85c", 
     "party": "\uc0c8\ub204\ub9ac\ub2f9", 
     "education": "\uacbd\uae30\ub300\ud559\uad50 \ub300\ud559\uc6d0 \ud589\uc815\ud559\ubc15\uc0ac \uc878\uc5c5", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uacbd\uae30\ub3c4 \uc548\uc591\uc2dc", 
+    "birthmonth": "08", 
+    "name_kr": "\ubc15\ud604\ubc30", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4100/Gsg4110/Sgg4411000/Hb100114315/gicho/100114315.jpg", 
+    "name_cn": "\u6734\u8ce2\u57f9", 
+    "regdate": "2014-04-24", 
+    "experience": [
+      "(\ud604)\uc548\uc591\uc2dc\uc758\ud68c\uc758\uc7a5", 
+      "(\ud604)\uc0ac\ub2e8\ubc95\uc778 \uc790\uce58\ubd84\uad8c\uc5f0\uad6c\uc18c \uc815\ucc45\uc704\uc6d0"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1964", 
+    "job": "\uc815\ub2f9\uc778", 
+    "birthday": "20", 
+    "address": "\uacbd\uae30\ub3c4 \uc548\uc591\uc2dc \ub9cc\uc548\uad6c \ubc15\ub2ec\ub85c275\ubc88\uae38", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
+    "education": "\uc131\uacb0\ub300\ud559\uad50 \ud589\uc815\ud559\uacfc \uc878\uc5c5", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -9641,7 +9791,7 @@
     "birthday": "16", 
     "address": "\uacbd\uae30\ub3c4 \ub3d9\ub450\ucc9c\uc2dc \uad11\uc554\ub85c22\ubc88\uae38", 
     "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
-    "education": "\ud559\uc810\uc778\uc815\ub4f1\uc5d0 \uad00\ud55c \ubc95\ub960\uc758 \uaddc\uc815\uc5d0 \uc758\ud55c \uc0ac\ud68c\ubcf5\uc9c0\ud559\uc0ac\ud559\uc704 \ucde8\ub4dd", 
+    "education": "\uc2e0\ud55c\ub300\ud559\uad50 \uc9c0\uc2dd\ubcf5\uc9c0\ub300\ud559\uc6d0 \uccad\uc18c\ub144\ubcf5\uc9c0\uc804\uacf5 1\ud559\ub144 \uc7ac\ud559", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -9873,6 +10023,27 @@
     "address": "\uacbd\uae30\ub3c4 \uc548\uc0b0\uc2dc \uc0c1\ub85d\uad6c \uad6c\ub8e1\ub85c", 
     "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
     "education": "\ud55c\uc591\ub300\ud559\uad50 \uc2e0\ubb38\ubc29\uc1a1\ud559\uacfc \uc878\uc5c5", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uacbd\uae30\ub3c4 \uc548\uc0b0\uc2dc", 
+    "birthmonth": "02", 
+    "name_kr": "\uac15\uc131\ud658", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4100/Gsg4119/Sgg4411900/Hb100114294/gicho/100114294.jpg", 
+    "name_cn": "\u59dc\u8072\u7165", 
+    "regdate": "2014-04-23", 
+    "experience": [
+      "(\uc804)\ubbfc\uc8fc\ub2f9 \uc548\uc0b0\ub2e8\uc6d0\uac11\uad6c\uc704\uc6d0\uc7a5", 
+      "(\uc804)19\ub300 \uad6d\ud68c\uc758\uc6d0 \ud6c4\ubcf4"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1958", 
+    "job": "\uc2dc\ubbfc\uc6b4\ub3d9\uac00", 
+    "birthday": "12", 
+    "address": "\uacbd\uae30\ub3c4 \uc548\uc0b0\uc2dc \ub2e8\uc6d0\uad6c \uc11d\uc218\ub3d9\uae38", 
+    "party": "\ubb34\uc18c\uc18d", 
+    "education": "\uc804\ub0a8\ub300\ud559\uad50 \ub18d\uacfc\ub300\ud559 \ucd95\uc0b0\ud559\uacfc \ub18d\ud559\uc0ac \uc878\uc5c5", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -10109,27 +10280,6 @@
   {
     "district": "\uacbd\uae30\ub3c4 \uacfc\ucc9c\uc2dc", 
     "birthmonth": "08", 
-    "name_kr": "\uac15\ud55c\uc11d", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4100/Gsg4123/Sgg4412300/Hb100103964/gicho/100103964.JPG", 
-    "name_cn": "\u59dc\u6f22\u932b", 
-    "regdate": "2014-02-21", 
-    "experience": [
-      "(\ud604)\uc0c8\ub204\ub9ac\ub2f9 \uacbd\uae30\ub3c4\ub2f9 \ubd80\uc704\uc6d0\uc7a5", 
-      "(\uc804)\uc81c 21\ubcf4\ubcd1\uc0ac\ub2e8\uc7a5"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1953", 
-    "job": "\uc815\ub2f9\uc778", 
-    "birthday": "08", 
-    "address": "\uacbd\uae30\ub3c4 \uacfc\ucc9c\uc2dc \ubcc4\uc591\ub85c", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
-    "education": "\ubbf8 Chapman University \uc870\uc9c1\ub9ac\ub354\uc2ed \uc11d\uc0ac (1995.8~1998.5)", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uacbd\uae30\ub3c4 \uacfc\ucc9c\uc2dc", 
-    "birthmonth": "08", 
     "name_kr": "\uc2e0\uacc4\uc6a9", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd4100/Gsg4123/Sgg4412300/Hb100104192/gicho/100104192.JPG", 
     "name_cn": "\u7533\u6842\u5bb9", 
@@ -10178,7 +10328,7 @@
     "regdate": "2014-03-10", 
     "experience": [
       "(\ud604)(\uc8fc)M.C\ub85c\uc9c0\uc2a4\ud2f1\uc2a4 \ub300\ud45c\uc774\uc0ac", 
-      "(\ud604)\uacfc\ucc9c\ubc1c\uc804 \uc790\ubb38\uc704\uc6d0"
+      "(\ud604)\ubbfc\uc8fc\ud654 \uc6b4\ub3d9\uc790 (\ubbfc\uc8fc\ud654 \uc6b4\ub3d9\uad00\ub828\uc790 \uba85\uc608\ud68c\ubcf5 \ubc0f \ubcf4\uc0c1\uc2ec\uc758\uc704\uc6d0\ud68c \uc778\uc815)"
     ], 
     "sex": "\ub0a8", 
     "election_no": 6.0, 
@@ -10639,8 +10789,8 @@
     "name_cn": "\uf9e1\u7fa9\u9394", 
     "regdate": "2014-03-14", 
     "experience": [
-      "(\uc804)8\ub300 \uacbd\uae30\ub3c4\uc758\ud68c\uc758\uc6d0", 
-      "(\ud604)\uacbd\uae30\ub3c4\uc2a4\ud398\uc15c\uc62c\ub9bc\ud53d\uc704\uc6d0\ud68c \ub0a8\uc591\uc8fc\uc2dc\ud68c\uc7a5"
+      "(\uc804) \uc81c18\ub300 \ub300\uc120 \ubc15\uadfc\ud61c\ud6c4\ubcf4 \uc911\uc559\uc120\ub300\uc704 \uad11\uc5ed\uc758\uc6d0 \uacbd\uae30\ub3c4 \ubcf8\ubd80\uc7a5", 
+      "(\uc804) \uc81c8\ub300 \uacbd\uae30\ub3c4\uc758\ud68c\uc758\uc6d0"
     ], 
     "sex": "\ub0a8", 
     "election_no": 6.0, 
@@ -10948,27 +11098,6 @@
   }, 
   {
     "district": "\uacbd\uae30\ub3c4 \ud654\uc131\uc2dc", 
-    "birthmonth": "02", 
-    "name_kr": "\uae40\uc2b9\uc77c", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4100/Gsg4128/Sgg4412800/Hb100104585/gicho/100104585.jpg", 
-    "name_cn": "\u91d1\u6607\u93b0", 
-    "regdate": "2014-02-25", 
-    "experience": [
-      "(\ud604)\ud654\uc131\uc2dc\uc548\ubcf4\ub2e8\uccb4\uc5f0\ud569\ubd80\ud68c\uc7a5", 
-      "(\ud604)\uadf9\ub3d9\ubc29\uc1a1\uc6b4\uc601\uc704\uc6d0"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1960", 
-    "job": "\ubb34\uc5ed\uc5c5", 
-    "birthday": "23", 
-    "address": "\uacbd\uae30\ub3c4 \ud654\uc131\uc2dc \ub9c8\ub3c4\uba74 \ubc31\uace1\ub85c", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
-    "education": "\uc11c\uac15\ub300\ud559\uad50 \uacbd\uc81c\ud559\uacfc \uc878\uc5c5", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uacbd\uae30\ub3c4 \ud654\uc131\uc2dc", 
     "birthmonth": "04", 
     "name_kr": "\ucd5c\ud615\uadfc", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd4100/Gsg4128/Sgg4412800/Hb100104587/gicho/100104587.jpg", 
@@ -11238,6 +11367,27 @@
     "election_type": "municipality_governor"
   }, 
   {
+    "district": "\uacbd\uae30\ub3c4 \uc2dc\ud765\uc2dc", 
+    "birthmonth": "07", 
+    "name_kr": "\uc870\uc6a9\uc2dd", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4100/Gsg4129/Sgg4412900/Hb100114474/gicho/100114474.jpg", 
+    "name_cn": "\u8d99\u5eb8\u690d", 
+    "regdate": "2014-04-29", 
+    "experience": [
+      "(\uc804)(\uc0ac)\ud55c\uad6d\uacf5\uc778\ub178\ubb34\uc0ac\ud68c \uc0ac\ubb34\ucd1d\uc7a5 \ubc0f \uc774\uc0ac", 
+      "(\uc804)\uad6d\uc815\uac10\uc0ac NGO \ubaa8\ub2c8\ud130\ub2e8 \uacf5\ub3d9\uc9d1\ud589\uc704\uc6d0\uc7a5"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1964", 
+    "job": "\ub178\ubb34\uc0ac", 
+    "birthday": "20", 
+    "address": "\uacbd\uae30\ub3c4 \uc2dc\ud765\uc2dc \uc6d4\uacf6\uc911\uc559\ub85c", 
+    "party": "\ubb34\uc18c\uc18d", 
+    "education": "\uc911\uc559\ub300\ud559\uad50 \ub300\ud559\uc6d0 \ubc95\ud559\uacfc \uc0ac\ud68c\ubc95\uc804\uacf5 \ubc15\uc0ac\uacfc\uc815 \uc218\ub8cc", 
+    "election_type": "municipality_governor"
+  }, 
+  {
     "district": "\uacbd\uae30\ub3c4 \uad70\ud3ec\uc2dc", 
     "birthmonth": "06", 
     "name_kr": "\ubc15\uc0c1\uc9c4", 
@@ -11266,8 +11416,8 @@
     "name_cn": "\u5b8b\uf9c4\u9806", 
     "regdate": "2014-02-21", 
     "experience": [
-      "(\ud604) \uad70\ud3ec\uc2dc\uc7a5\uc560\uc778\ub2e8\uccb4\ucd1d\uc5f0\ud569\ud68c \ud6c4\uc6d0\ud68c\uc7a5", 
-      "(\ud604) \uc0c8\ub204\ub9ac\ub2f9 \uacbd\uae30\ub3c4\ub2f9 \uc5ec\uc131\uc704\uc6d0\ud68c \ubd80\uc704\uc6d0\uc7a5"
+      "(\uc804)\uc0c8\ub204\ub9ac\ub2f9 \ubc15\uadfc\ud61c\ub300\ud1b5\ub839\ud6c4\ubcf4 \uacbd\uae30\uc9c0\uc5ed2\ub300\ucc45\uc704\uc6d0\ud68c \uae30\uc5c5\uc720\uce58\ub300\ucc45\uacf5\ub3d9\uc704\uc6d0\uc7a5", 
+      "(\ud604)\uc0c8\ub204\ub9ac\ub2f9 \uacbd\uae30\ub3c4\ub2f9 \uc5ec\uc131\uc704\uc6d0\ud68c \ubd80\uc704\uc6d0\uc7a5"
     ], 
     "sex": "\uc5ec", 
     "election_no": 6.0, 
@@ -11392,8 +11542,8 @@
     "name_cn": "\u8521\u6cf3\u5fb7", 
     "regdate": "2014-03-11", 
     "experience": [
-      "(\uc804)\uacf5\ubb34\uc6d0", 
-      "(\ud604)(\uc0ac)\ud55c\uc911\ubb38\ud654\ud611\ud68c \ubd80\ucd1d\uc7ac"
+      "(\uc804)\ubb38\uc7ac\uc778\ub300\ud1b5\ub839\ud6c4\ubcf4 \uc870\uc9c1\ud2b9\ubcf4", 
+      "(\uc804)\uacf5\ubb34\uc6d0"
     ], 
     "sex": "\ub0a8", 
     "election_no": 6.0, 
@@ -11592,6 +11742,27 @@
     "address": "\uacbd\uae30\ub3c4 \ud558\ub0a8\uc2dc \ub355\uc0b0\ub85c", 
     "party": "\uc0c8\ub204\ub9ac\ub2f9", 
     "education": "\ud55c\uc591\ub300\ud559\uad50 \ub300\ud559\uc6d0 \uc878\uc5c5(\ud589\uc815\ud559\uc11d\uc0ac)", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uacbd\uae30\ub3c4 \ud558\ub0a8\uc2dc", 
+    "birthmonth": "05", 
+    "name_kr": "\uc774\uad50\ubc94", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4100/Gsg4131/Sgg4413100/Hb100114442/gicho/100114442.jpg", 
+    "name_cn": "\uf9e1\u654e\u7bc4", 
+    "regdate": "2014-04-28", 
+    "experience": [
+      "(\ud604)\ud558\ub0a8\uc2dc\uc7a5", 
+      "(\uc804)\ud558\ub0a8\uc2dc\uc758\ud68c 1,2,3\ub300 \uc758\uc6d0\u00b73\ub300 \uc2dc\uc758\uc7a5"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1952", 
+    "job": "\uc815\ub2f9\uc778", 
+    "birthday": "09", 
+    "address": "\uacbd\uae30\ub3c4 \ud558\ub0a8\uc2dc \ud558\ub0a8\ub300\ub85c802\ubc88\uae38", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
+    "education": "\ub2e8\uad6d\ub300\ud559\uad50 \ubb34\uc5ed\ud559\uacfc \uc878\uc5c5", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -11884,6 +12055,27 @@
   }, 
   {
     "district": "\uacbd\uae30\ub3c4 \uc5ec\uc8fc\uc2dc", 
+    "birthmonth": "11", 
+    "name_kr": "\uae40\ucd98\uc11d", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4100/Gsg4133/Sgg4413300/Hb100114584/gicho/100114584.jpg", 
+    "name_cn": "\u91d1\u6625\u932b", 
+    "regdate": "2014-05-01", 
+    "experience": [
+      "(\uc804)\uad6d\ubb34\ucd1d\ub9ac \uad6d\ubb34\uc870\uc815\uc2e4 \uc815\ucc45\uc0c1\ud669\uc2e4\uc7a5", 
+      "(\ud604)\uc5ec\uc8fc\uc2dc\uc7a5"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1950", 
+    "job": "\uacf5\ubb34\uc6d0", 
+    "birthday": "22", 
+    "address": "\uacbd\uae30\ub3c4 \uc5ec\uc8fc\uc2dc \uac15\ubcc0\uc720\uc6d0\uc9c0\uae38", 
+    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
+    "education": "\uc11c\uc6b8\ub300\ud559\uad50 \ubb38\ub9ac\uacfc\ub300\ud559 \uc0ac\ud68c\ud559\uacfc \uc878\uc5c5", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uacbd\uae30\ub3c4 \uc5ec\uc8fc\uc2dc", 
     "birthmonth": "02", 
     "name_kr": "\uc7a5\ud559\uc9c4", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd4100/Gsg4133/Sgg4413300/Hb100110838/gicho/100110838.jpg", 
@@ -11968,27 +12160,6 @@
   }, 
   {
     "district": "\uacbd\uae30\ub3c4 \uc774\ucc9c\uc2dc", 
-    "birthmonth": "02", 
-    "name_kr": "\ubc15\uc601\uc2e0", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4100/Gsg4134/Sgg4413400/Hb100104644/gicho/100104644.jpg", 
-    "name_cn": "\u6734\u69ae\u4fe1", 
-    "regdate": "2014-02-26", 
-    "experience": [
-      "(\uc804)\uacbd\uae30\ub3c4\uc758\ud68c\uc758\uc6d0", 
-      "(\uc804)\uc2e0\ud611\uc911\uc559\ud68c \ubd80\ud68c\uc7a5"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1947", 
-    "job": "\uc815\ub2f9\uc778", 
-    "birthday": "19", 
-    "address": "\uacbd\uae30\ub3c4 \uc774\ucc9c\uc2dc \uc911\ub9ac\ucc9c\ub85c", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
-    "education": "\uac74\uad6d\ub300\ud559\uad50 \ubc95\uacbd\ub300\ud559 \uacbd\uc81c\ud559\uacfc \uc878\uc5c5", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uacbd\uae30\ub3c4 \uc774\ucc9c\uc2dc", 
     "birthmonth": "05", 
     "name_kr": "\uae40\uacbd\ud76c", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd4100/Gsg4134/Sgg4413400/Hb100111162/gicho/100111162.jpg", 
@@ -12006,6 +12177,27 @@
     "address": "\uacbd\uae30\ub3c4 \uc774\ucc9c\uc2dc \uc601\ucc3d\ub85c", 
     "party": "\uc0c8\ub204\ub9ac\ub2f9", 
     "education": "\uc774\ud654\uc5ec\uc790\ub300\ud559\uad50 \uc815\ucc45\uacfc\ud559\ub300\ud559\uc6d0 \uc878\uc5c5(\uc815\ucc45\ud559\uc11d\uc0ac)", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uacbd\uae30\ub3c4 \uc774\ucc9c\uc2dc", 
+    "birthmonth": "09", 
+    "name_kr": "\uc5c4\ud0dc\uc900", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4100/Gsg4134/Sgg4413400/Hb100114287/gicho/100114287.jpg", 
+    "name_cn": "\u56b4\u6cf0\u4fca", 
+    "regdate": "2014-04-23", 
+    "experience": [
+      "(\uc804)\uc774\ucc9c\uc2dc\uccad \uace0\ubb38\ubcc0\ud638\uc0ac", 
+      "(\uc804)\uc81c18\ub300 \ub300\ud1b5\ub839\uc120\uac70 \ubbfc\uc8fc\ud1b5\ud569\ub2f9 \uacbd\uae30\ub3c4 \uc120\uac70\ub300\ucc45\uc704\uc6d0\ud68c \uacf5\ub3d9\ub300\ud45c"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1963", 
+    "job": "\ubcc0\ud638\uc0ac", 
+    "birthday": "01", 
+    "address": "\uacbd\uae30\ub3c4 \uc774\ucc9c\uc2dc \uac08\uc0b0\ub85c", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
+    "education": "\ub2e8\uad6d\ub300\ud559\uad50 \ubc95\ud559\uacfc \uc878\uc5c5", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -13111,6 +13303,24 @@
   }, 
   {
     "district": "\uacbd\uae30\ub3c4 \uc591\ud3c9\uad70", 
+    "birthmonth": "09", 
+    "name_kr": "\uae40\uc120\uad50", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4100/Gsg4143/Sgg4414300/Hb100114469/gicho/100114469.jpg", 
+    "name_cn": "\u91d1\u5584\u654e", 
+    "regdate": "2014-04-29", 
+    "experience": "(\ud604) \uc591\ud3c9\uad70\uc218", 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1960", 
+    "job": "\uc815\ub2f9\uc778", 
+    "birthday": "18", 
+    "address": "\uacbd\uae30\ub3c4 \uc591\ud3c9\uad70 \uc625\ucc9c\uba74 \uc11c\ucd0c\uae38", 
+    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
+    "education": "\uace0\ub824\ub300\ud559\uad50 \uc815\ucc45\ub300\ud559\uc6d0 \uad6d\ud1a0\uacc4\ud68d\uacbd\uc81c\ud559\uacfc \uc11d\uc0ac \uc878\uc5c5", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uacbd\uae30\ub3c4 \uc591\ud3c9\uad70", 
     "birthmonth": "02", 
     "name_kr": "\uae40\ub355\uc218", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd4100/Gsg4143/Sgg4414300/Hb100111313/gicho/100111313.jpg", 
@@ -13191,27 +13401,6 @@
     "address": "\uacbd\uae30\ub3c4 \uac00\ud3c9\uad70 \uac00\ud3c9\uc74d \uc911\ucd0c\ub85c", 
     "party": "\uc0c8\ub204\ub9ac\ub2f9", 
     "education": "\uc5f0\uc138\ub300\ud559\uad50 \uc815\uacbd\ub300\ud559\uc6d0 \uc815\uce58\ud559\uacfc \uc878\uc5c5", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uac15\uc6d0\ub3c4 \ucd98\ucc9c\uc2dc", 
-    "birthmonth": "03", 
-    "name_kr": "\uae40\uc6a9\uc8fc", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4200/Gsg4201/Sgg4420100/Hb100103939/gicho/100103939.jpg", 
-    "name_cn": "\u91d1\uf9c4\u5468", 
-    "regdate": "2014-02-21", 
-    "experience": [
-      "(\uc804)\uac15\uc6d0\ub3c4 \uc0dd\ud65c\uccb4\uc721\ud68c\uc7a5", 
-      "(\uc804)\uac15\uc6d0\ub3c4\uc758\uc6d0"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1961", 
-    "job": "\uc815\ub2f9\uc778", 
-    "birthday": "17", 
-    "address": "\uac15\uc6d0\ub3c4 \ucd98\ucc9c\uc2dc \uc11c\uba74 \uacbd\ucd98\ub85c", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
-    "education": "\uac15\uc6d0\ub300\ud559\uad50 \uc77c\ubc18\ub300\ud559\uc6d0 \uc2a4\ud3ec\uce20\uacfc\ud559\uacfc \uc11d\uc0ac\uacfc\uc815 \uc218\ub8cc", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -13384,27 +13573,6 @@
   }, 
   {
     "district": "\uac15\uc6d0\ub3c4 \uc6d0\uc8fc\uc2dc", 
-    "birthmonth": "05", 
-    "name_kr": "\ubc15\ud604\uc2dd", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4200/Gsg4202/Sgg4420200/Hb100103490/gicho/100103490.JPG", 
-    "name_cn": "\u6734\u9249\u690d", 
-    "regdate": "2014-02-21", 
-    "experience": [
-      "(\ud604)\ud55c\uad6d\uacbd\uc601\uae30\uc220\uc5f0\uad6c\uc6d0 \uc6d0\uc7a5", 
-      "(\ud604)\ud55c\uad6d\uc18c\uae30\uc5c5\uc18c\uc0c1\uacf5\uc778\uc5f0\ud569\ud68c \uc6d0\uc8fc\uc9c0\ud68c \ud68c\uc7a5"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1964", 
-    "job": "\uacbd\uc601\ucee8\uc124\ud134\ud2b8", 
-    "birthday": "29", 
-    "address": "\uac15\uc6d0\ub3c4 \uc6d0\uc8fc\uc2dc \uce58\uc545\ub85c1735\ubc88\uae38", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
-    "education": "\uac15\uc6d0\ub300\ud559\uad50 \ub300\ud559\uc6d0 \uc0b0\uc5c5\uacf5\ud559\uacfc \uc878\uc5c5(\uacf5\ud559\ubc15\uc0ac)", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uac15\uc6d0\ub3c4 \uc6d0\uc8fc\uc2dc", 
     "birthmonth": "07", 
     "name_kr": "\uc548\uc0c1\ud604", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd4200/Gsg4202/Sgg4420200/Hb100103857/gicho/100103857.JPG", 
@@ -13443,27 +13611,6 @@
     "address": "\uac15\uc6d0\ub3c4 \uc6d0\uc8fc\uc2dc \uc6d0\ubb38\ub85c", 
     "party": "\uc0c8\ub204\ub9ac\ub2f9", 
     "education": "\uc0c1\uc9c0\ub300\ud559\uad50 \ub300\ud559\uc6d0 \uacbd\uc601\uc815\ubcf4\ud559\uacfc \uc878\uc5c5(\uacbd\uc601\ud559\uc11d\uc0ac)", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uac15\uc6d0\ub3c4 \uc6d0\uc8fc\uc2dc", 
-    "birthmonth": "05", 
-    "name_kr": "\ucc44\ubcd1\ub450", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4200/Gsg4202/Sgg4420200/Hb100104655/gicho/100104655.JPG", 
-    "name_cn": "\u8521\u70b3\u6597", 
-    "regdate": "2014-02-26", 
-    "experience": [
-      "(\ud604)\uc6d0\uc8fc\uc2dc\uc758\ud68c \uc758\uc7a5", 
-      "(\ud604)\uc6d0\uc8fc\ud3f4\ub9ac\ud14d\ub300\ud559 \uba85\uc608\ud559\uc7a5"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1947", 
-    "job": "\uc6d0\uc8fc\uc2dc\uc758\ud68c\uc758\uc7a5", 
-    "birthday": "09", 
-    "address": "\uac15\uc6d0\ub3c4 \uc6d0\uc8fc\uc2dc \uc1a1\uc0bc\uae38", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
-    "education": "\uc0c1\uc9c0\uc601\uc11c\ub300\ud559 \ud589\uc815\ud559\uacfc \uc878\uc5c5", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -13678,27 +13825,6 @@
   }, 
   {
     "district": "\uac15\uc6d0\ub3c4 \ub3d9\ud574\uc2dc", 
-    "birthmonth": "04", 
-    "name_kr": "\ud55c\uae30\uc120", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4200/Gsg4204/Sgg4420400/Hb100104483/gicho/100104483.jpg", 
-    "name_cn": "\u97d3\u57fa\u9291", 
-    "regdate": "2014-02-25", 
-    "experience": [
-      "(\uc804)\ub3d9\ud574\uc2dc \ubd80\uc2dc\uc7a5", 
-      "(\ud604)\uc0c8\ub204\ub9ac\ub2f9 \ub3d9\ud574\uc0bc\ucc99\ud611\uc758\ud68c \ubd80\uc704\uc6d0\uc7a5"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1948", 
-    "job": "\uc815\ub2f9\uc778", 
-    "birthday": "03", 
-    "address": "\uac15\uc6d0\ub3c4 \ub3d9\ud574\uc2dc \ud3c9\ub989\uae38", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
-    "education": "\uac15\uc6d0\ub300\ud559\uad50 \uc0b0\uc5c5\ub300\ud559\uc6d0 \ud589\uc815\ud559\uacfc \uc878\uc5c5", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uac15\uc6d0\ub3c4 \ub3d9\ud574\uc2dc", 
     "birthmonth": "03", 
     "name_kr": "\uc6b0\uc6a9\ucca0", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd4200/Gsg4204/Sgg4420400/Hb100107058/gicho/100107058.jpg", 
@@ -13737,6 +13863,27 @@
     "address": "\uac15\uc6d0\ub3c4 \ub3d9\ud574\uc2dc \ub3d9\uad74\ub85c", 
     "party": "\ubb34\uc18c\uc18d", 
     "education": "\uc0bc\ucc99\uacf5\uc5c5\uace0\ub4f1\ud559\uad50 \ud1a0\ubaa9\uacfc \uc878\uc5c5(3\ub144)", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uac15\uc6d0\ub3c4 \ub3d9\ud574\uc2dc", 
+    "birthmonth": "04", 
+    "name_kr": "\ud55c\uae30\uc120", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4200/Gsg4204/Sgg4420400/Hb100104483/gicho/100104483.jpg", 
+    "name_cn": "\u97d3\u57fa\u9291", 
+    "regdate": "2014-02-25", 
+    "experience": [
+      "(\uc804)\ub3d9\ud574\uc2dc \ubd80\uc2dc\uc7a5", 
+      "(\ud604)\uc0c8\ub204\ub9ac\ub2f9 \ub3d9\ud574\uc0bc\ucc99\ud611\uc758\ud68c \ubd80\uc704\uc6d0\uc7a5"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1948", 
+    "job": "\uc815\ub2f9\uc778", 
+    "birthday": "03", 
+    "address": "\uac15\uc6d0\ub3c4 \ub3d9\ud574\uc2dc \ud3c9\ub989\uae38", 
+    "party": "\ubb34\uc18c\uc18d", 
+    "education": "\uac15\uc6d0\ub300\ud559\uad50 \uc0b0\uc5c5\ub300\ud559\uc6d0 \ud589\uc815\ud559\uacfc \uc878\uc5c5", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -14341,29 +14488,8 @@
     "job": "\uc57d\uc0ac", 
     "birthday": "16", 
     "address": "\uac15\uc6d0\ub3c4 \uc591\uc591\uad70 \uc591\uc591\uc74d \ub0a8\ub300\ucc9c\ub85c", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
+    "party": "\ubb34\uc18c\uc18d", 
     "education": "\uc911\uc559\ub300\ud559\uad50 \uc57d\ud559\ub300\ud559 \uc57d\ud559\uacfc \uc878\uc5c5", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uac15\uc6d0\ub3c4 \uc778\uc81c\uad70", 
-    "birthmonth": "09", 
-    "name_kr": "\ubb38\uc11d\uc644", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4200/Gsg4211/Sgg4421100/Hb100109466/gicho/100109466.jpg", 
-    "name_cn": "\u6587\u932b\u5b8c", 
-    "regdate": "2014-03-23", 
-    "experience": [
-      "(\uc804)\uac15\uc6d0\ub3c4\uccad \uad6d\uc81c\ud611\ub825\uc2e4\uc7a5", 
-      "(\uc804)\ub0b4\ubb34\ubd80\uc7a5\uad00 \ube44\uc11c\uad00"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1957", 
-    "job": "\uc815\ub2f9\uc778", 
-    "birthday": "14", 
-    "address": "\uac15\uc6d0\ub3c4 \uc778\uc81c\uad70 \uc778\uc81c\uc74d \uc778\uc81c\ub85c228\ubc88\uae38", 
-    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
-    "education": "\uac15\uc6d0\ub300\ud559\uad50 \ub300\ud559\uc6d0 \uc815\uce58\uc678\uad50\ud559\uacfc \ubc15\uc0ac\uacfc\uc815 \uc218\ub8cc", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -14406,6 +14532,27 @@
     "address": "\uac15\uc6d0\ub3c4 \uc778\uc81c\uad70 \ubd81\uba74 \uae08\uac15\ub85c", 
     "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
     "education": "\uc778\uc81c\ub18d\uc5c5\uace0\ub4f1\ud559\uad50 \uc878\uc5c5(\ud604 \uc778\uc81c\uace0\ub4f1\ud559\uad50)", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uac15\uc6d0\ub3c4 \uc778\uc81c\uad70", 
+    "birthmonth": "09", 
+    "name_kr": "\ubb38\uc11d\uc644", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4200/Gsg4211/Sgg4421100/Hb100109466/gicho/100109466.jpg", 
+    "name_cn": "\u6587\u932b\u5b8c", 
+    "regdate": "2014-03-23", 
+    "experience": [
+      "(\uc804)\uac15\uc6d0\ub3c4\uccad \uad6d\uc81c\ud611\ub825\uc2e4\uc7a5", 
+      "(\uc804)\ub0b4\ubb34\ubd80\uc7a5\uad00 \ube44\uc11c\uad00"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1957", 
+    "job": "\uc815\ub2f9\uc778", 
+    "birthday": "14", 
+    "address": "\uac15\uc6d0\ub3c4 \uc778\uc81c\uad70 \uc778\uc81c\uc74d \uc778\uc81c\ub85c228\ubc88\uae38", 
+    "party": "\ubb34\uc18c\uc18d", 
+    "education": "\uac15\uc6d0\ub300\ud559\uad50 \ub300\ud559\uc6d0 \uc815\uce58\uc678\uad50\ud559\uacfc \ubc15\uc0ac\uacfc\uc815 \uc218\ub8cc", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -14724,6 +14871,27 @@
     "election_type": "municipality_governor"
   }, 
   {
+    "district": "\uac15\uc6d0\ub3c4 \ud3c9\ucc3d\uad70", 
+    "birthmonth": "02", 
+    "name_kr": "\uc774\uc11d\ub798", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4200/Gsg4215/Sgg4421500/Hb100114566/gicho/100114566.jpg", 
+    "name_cn": "\uf9e1\u932b\u4f86", 
+    "regdate": "2014-04-30", 
+    "experience": [
+      "(\uc804) \ud3c9\ucc3d\uc601\uc6d4\uc815\uc120\ucd95\uc0b0\ub18d\ud611\uc7a5", 
+      "(\ud604) \ud3c9\ucc3d\uad70\uc218"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1957", 
+    "job": "\ud3c9\ucc3d\uad70\uc218", 
+    "birthday": "12", 
+    "address": "\uac15\uc6d0\ub3c4 \ud3c9\ucc3d\uad70 \ud3c9\ucc3d\uc74d \uc11c\ub3d9\ub85c", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
+    "education": "\uc0bc\ucc99\ub300\ud559\uad50 \uc878\uc5c5", 
+    "election_type": "municipality_governor"
+  }, 
+  {
     "district": "\uac15\uc6d0\ub3c4 \ud654\ucc9c\uad70", 
     "birthmonth": "08", 
     "name_kr": "\uc774\uc218\uc870", 
@@ -14830,6 +14998,27 @@
   }, 
   {
     "district": "\uac15\uc6d0\ub3c4 \uc591\uad6c\uad70", 
+    "birthmonth": "01", 
+    "name_kr": "\uc804\ucc3d\ubc94", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4200/Gsg4217/Sgg4421700/Hb100114491/gicho/100114491.jpg", 
+    "name_cn": "\u5168\u660c\u7bc4", 
+    "regdate": "2014-04-29", 
+    "experience": [
+      "(\uc804) \uac15\uc6d0\ub3c4 \uad6d\uc81c\uc2a4\ud3ec\uce20\uc704\uc6d0\ud68c \uad6d\uc81c\uc2a4\ud3ec\uce20\uc9c0\uc6d0\ub2e8\uc7a5", 
+      "(\ud604) \ubbfc\uc1205\uae30 \uc591\uad6c\uad70\uc218(2010.7~)"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1953", 
+    "job": "\uc591\uad6c\uad70\uc218", 
+    "birthday": "19", 
+    "address": "\uac15\uc6d0\ub3c4 \uc591\uad6c\uad70 \uc591\uad6c\uc74d \uad00\uacf5\uc11c\ub85c38\ubc88\uae38", 
+    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
+    "education": "\ud55c\uad6d\ubc29\uc1a1\ud1b5\uc2e0\ub300\ud559\uad50 \ubc95\ud559\uacfc \uc878\uc5c5", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uac15\uc6d0\ub3c4 \uc591\uad6c\uad70", 
     "birthmonth": "08", 
     "name_kr": "\uae40\ub300\uc601", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd4200/Gsg4217/Sgg4421700/Hb100110181/gicho/100110181.JPG", 
@@ -14889,27 +15078,6 @@
     "address": "\uac15\uc6d0\ub3c4 \ucca0\uc6d0\uad70 \uae40\ud654\uc74d \uccad\ud558\uae38", 
     "party": "\uc0c8\ub204\ub9ac\ub2f9", 
     "education": "\uc11c\uc6b8\uc2dc\ub9bd\ub300\ud559\uad50 \ub3c4\uc2dc\uacfc\ud559\ub300\ud559\uc6d0 \ub3c4\uc2dc\ud589\uc815\ud559\uacfc \uc878\uc5c5", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uac15\uc6d0\ub3c4 \ucca0\uc6d0\uad70", 
-    "birthmonth": "12", 
-    "name_kr": "\uc815\ud638\uc870", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4200/Gsg4218/Sgg4421800/Hb100112891/gicho/100112891.jpg", 
-    "name_cn": "\u912d\u93ac\u795a", 
-    "regdate": "2014-04-04", 
-    "experience": [
-      "(\uc804)\uc811\uacbd\uc9c0\uc5ed\uc2dc\uc7a5\uad70\uc218\ud611\uc758\ud68c\uc7a5", 
-      "(\ud604)\ucca0\uc6d0\uad70\uc218"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1947", 
-    "job": "\ucca0\uc6d0\uad70\uc218", 
-    "birthday": "25", 
-    "address": "\uac15\uc6d0\ub3c4 \ucca0\uc6d0\uad70 \ub3d9\uc1a1\uc74d \ud0dc\ubd09\ub85c", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
-    "education": "\uc2e0\ucca0\uc6d0\uace0\ub4f1\ud559\uad50 \uc878\uc5c5", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -15349,27 +15517,6 @@
   }, 
   {
     "district": "\ucda9\uccad\ubd81\ub3c4 \uc601\ub3d9\uad70", 
-    "birthmonth": "04", 
-    "name_kr": "\ubc15\ub3d9\uaddc", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4300/Gsg4307/Sgg4430700/Hb100110217/gicho/100110217.jpg", 
-    "name_cn": "\u6734\u6771\u572d", 
-    "regdate": "2014-03-23", 
-    "experience": [
-      "(\uc804) \uc81c5\ub300 \ubbfc\uc8fc\ub2f9 \uc601\ub3d9\uad70\uc218 \ud6c4\ubcf4", 
-      "(\ud604) \uc601\ub3d9\uc911\uc559\ub85c\ud0c0\ub9ac\ud074\ub7fd \ud68c\uc7a5"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1967", 
-    "job": "\uc815\ub2f9\uc778", 
-    "birthday": "20", 
-    "address": "\ucda9\uccad\ubd81\ub3c4 \uc601\ub3d9\uad70 \uc601\ub3d9\uc74d \uc601\uc0b0\ub85c", 
-    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
-    "education": "\ub2e8\uad6d\ub300\ud559\uad50 \ub300\ud559\uc6d0 \uacbd\uc81c\ud559\uacfc \uc878\uc5c5(\uc11d\uc0ac)", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\ucda9\uccad\ubd81\ub3c4 \uc601\ub3d9\uad70", 
     "birthmonth": "09", 
     "name_kr": "\uae40\uc7ac\uc601", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd4300/Gsg4307/Sgg4430700/Hb100111779/gicho/100111779.jpg", 
@@ -15424,7 +15571,7 @@
     "job": "\ubb34\uc9c1", 
     "birthday": "13", 
     "address": "\ucda9\uccad\ubd81\ub3c4 \ubcf4\uc740\uad70 \ud0c4\ubd80\uba74 \uc99d\uc0dd1\uae38", 
-    "party": "\ubb34\uc18c\uc18d", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
     "education": "\uace0\ub824\ub300\ud559\uad50 \uc601\uc5b4\uc601\ubb38\ud559\uacfc \uc878\uc5c5", 
     "election_type": "municipality_governor"
   }, 
@@ -15465,6 +15612,27 @@
     "address": "\ucda9\uccad\ubd81\ub3c4 \uc625\ucc9c\uad70 \uc625\ucc9c\uc74d \uc591\uc218\ub85c", 
     "party": "\ubb34\uc18c\uc18d", 
     "education": "\ub300\uc804\ub300\ud559\uad50 \ubc95\uacbd\ub300\ud559 \ud589\uc815\ud559\uacfc \uc878\uc5c5", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\ucda9\uccad\ubd81\ub3c4 \uc625\ucc9c\uad70", 
+    "birthmonth": "08", 
+    "name_kr": "\ubc15\uc778\uc218", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4300/Gsg4309/Sgg4430900/Hb100114446/gicho/100114446.jpg", 
+    "name_cn": "\u6734\u5bc5\u6d19", 
+    "regdate": "2014-04-28", 
+    "experience": [
+      "(\uc804)\ubbfc\uc8fc\ud3c9\ud654\ud1b5\uc77c\uc790\ubb38\ud68c\uc758 \uc790\ubb38\uc704\uc6d0\uc5ed\uc784", 
+      "(\uc804)\uc81c18\ub300 \uad6d\ud68c\uc758\uc6d0\uc120\uac70 \uc608\ube44\ud6c4\ubcf4(\ubcf4\uc740\uad70\uc625\ucc9c\uad70\uc601\ub3d9\uad70\uc120\uac70\uad6c)"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1973", 
+    "job": "\uc790\uc601\uc5c5", 
+    "birthday": "05", 
+    "address": "\ucda9\uccad\ubd81\ub3c4 \uc625\ucc9c\uad70 \uc625\ucc9c\uc74d \uac00\ud6543\uae38", 
+    "party": "\ubb34\uc18c\uc18d", 
+    "education": "\uc6b0\uc1a1\uacf5\uc5c5\ub300\ud559 \uc804\uc790\uacfc \uc878\uc5c5(\ud604 \uc6b0\uc1a1\ub300\ud559\uad50)", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -15673,7 +15841,7 @@
     "job": "\uae30\uc131\uc0c1\uc0ac \ub300\ud45c", 
     "birthday": "28", 
     "address": "\ucda9\uccad\ubd81\ub3c4 \uc99d\ud3c9\uad70 \uc99d\ud3c9\uc74d \uc7a5\ub730\ub85c", 
-    "party": "\ubb34\uc18c\uc18d", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
     "education": "\uc131\uade0\uad00\ub300\ud559\uad50 \uc0b0\uc5c5\uacfc\ud559\ub300\ud559\uc6d0 \uc878\uc5c5", 
     "election_type": "municipality_governor"
   }, 
@@ -15717,27 +15885,6 @@
     "address": "\ucda9\uccad\ubd81\ub3c4 \uc99d\ud3c9\uad70 \ub3c4\uc548\uba74 \ubaa8\ub798\uc7ac\ub85c", 
     "party": "\ubb34\uc18c\uc18d", 
     "education": "\uac15\uc6d0\ub300\ud559\uad50 \uc77c\ubc18\ub300\ud559\uc6d0 \uc6d0\uc608\ud559\uacfc \ubc15\uc0ac\uacfc\uc815 \uc218\ub8cc", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\ucda9\uccad\ub0a8\ub3c4 \uacf5\uc8fc\uc2dc", 
-    "birthmonth": "12", 
-    "name_kr": "\uc591\uc900\ubaa8", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4400/Gsg4402/Sgg4440200/Hb100104066/gicho/100104066.jpg", 
-    "name_cn": "\uf97a\u4fca\u6a21", 
-    "regdate": "2014-02-21", 
-    "experience": [
-      "(\uc804)\uc81c5\ub300 \uacf5\uc8fc\uc2dc\uc758\ud68c \uc758\uc6d0", 
-      "(\uc804)\uc0ac\ub2e8\ubc95\uc778 \uacf0\ub450\ub9ac\ubd09\uc0ac\ud68c \uacf5\uc8fc\uc2dc\uc9c0\ud68c\uc7a5"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1962", 
-    "job": "\uacf5\uc8fc\uc911\uc559\uc2e0\ud611 \uc774\uc0ac\uc7a5", 
-    "birthday": "12", 
-    "address": "\ucda9\uccad\ub0a8\ub3c4 \uacf5\uc8fc\uc2dc \uc2e0\uae081\uae38", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
-    "education": "\uacf5\uc8fc\ub300\ud559\uad50 \ub300\ud559\uc6d0 \ud589\uc815\ud559\uacfc \ubc15\uc0ac\uacfc\uc815 \uc7ac\ud559", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -15906,6 +16053,27 @@
     "address": "\ucda9\uccad\ub0a8\ub3c4 \uacf5\uc8fc\uc2dc \uc6b0\uc131\uba74 \uc2e0\uc601\uace8\uae38", 
     "party": "\ubb34\uc18c\uc18d", 
     "education": "\uace0\ub824\ub300\ud559\uad50 \ubb38\uacfc\ub300\ud559 \ucca0\ud559\uacfc \uc878\uc5c5", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\ucda9\uccad\ub0a8\ub3c4 \uacf5\uc8fc\uc2dc", 
+    "birthmonth": "09", 
+    "name_kr": "\uc774\uc131\ud638", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4400/Gsg4402/Sgg4440200/Hb100114526/gicho/100114526.jpg", 
+    "name_cn": "\uf9e1\u8056\u6d69", 
+    "regdate": "2014-04-30", 
+    "experience": [
+      "(\ud604)\ubbf8\ub798\ub178\ub3d9\uc804\ub7b5\uc5f0\uad6c\uc18c\uc7a5", 
+      "(\uc804)\uacf5\uc8fc\uc2dc\uccad 7\uae09 \uacf5\ubb34\uc6d0"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1965", 
+    "job": "\uc815\uce58\uc778", 
+    "birthday": "13", 
+    "address": "\ucda9\uccad\ub0a8\ub3c4 \uacf5\uc8fc\uc2dc \uc6b0\uc131\uba74 \uc2e0\uc6c5\uc0c8\ub738\uae38", 
+    "party": "\ubb34\uc18c\uc18d", 
+    "education": "\ubc30\uc7ac\ub300\ud559\uad50 \ub300\ud559\uc6d0 \ubc15\uc0ac\uacfc\uc815 \uc7ac\ud559", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -16143,7 +16311,7 @@
     "district": "\ucda9\uccad\ub0a8\ub3c4 \uc11c\uc0b0\uc2dc", 
     "birthmonth": "08", 
     "name_kr": "\uc774\ucca0\uc218", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4400/Gsg4405/Sgg4440500/Hb100104064/gicho/100104064.JPG", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4400/Gsg4405/Sgg4440500/Hb100104064/gicho/100104064.jpg", 
     "name_cn": "\uf9e1\u5586\u6d19", 
     "regdate": "2014-02-21", 
     "experience": [
@@ -17014,27 +17182,6 @@
   }, 
   {
     "district": "\ucda9\uccad\ub0a8\ub3c4 \uccad\uc591\uad70", 
-    "birthmonth": "02", 
-    "name_kr": "\ud669\uc778\uc11d", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4400/Gsg4414/Sgg4441400/Hb100109771/gicho/100109771.JPG", 
-    "name_cn": "\u9ec3\u4ec1\u932b", 
-    "regdate": "2014-03-23", 
-    "experience": [
-      "(\uc804)\uad6d\ud68c\uc758\uc6d0\uc120\uac70 \ud6c4\ubcf4", 
-      "(\uc804)\ud55c\uad6d\ub18d\uc5b4\ucd0c\uacf5\uc0ac \uccad\uc591\uc9c0\uc0ac\uc7a5"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1954", 
-    "job": "\ubb34\uc9c1", 
-    "birthday": "10", 
-    "address": "\ucda9\uccad\ub0a8\ub3c4 \uccad\uc591\uad70 \uccad\uc591\uc74d \uace0\ub9ac\uc12c\ub4e4\uae38", 
-    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
-    "education": "\uacf5\uc8fc\ub300 \uc77c\ubc18\ub300\ud559\uc6d0(\ubc95\ud559\uacfc) \uc878\uc5c5", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\ucda9\uccad\ub0a8\ub3c4 \uccad\uc591\uad70", 
     "birthmonth": "11", 
     "name_kr": "\uc774\ud76c\uacbd", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd4400/Gsg4414/Sgg4441400/Hb100109067/gicho/100109067.JPG", 
@@ -17073,6 +17220,27 @@
     "address": "\ucda9\uccad\ub0a8\ub3c4 \uccad\uc591\uad70 \uccad\uc591\uc74d \uc911\uc559\ub85c", 
     "party": "\ubb34\uc18c\uc18d", 
     "education": "\ud55c\uad6d\ubc29\uc1a1\ud1b5\uc2e0\ub300\ud559\uad50 \uc911\uc5b4\uc911\ubb38\ud559\uacfc \uc878\uc5c5", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\ucda9\uccad\ub0a8\ub3c4 \uccad\uc591\uad70", 
+    "birthmonth": "02", 
+    "name_kr": "\ud669\uc778\uc11d", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4400/Gsg4414/Sgg4441400/Hb100109771/gicho/100109771.JPG", 
+    "name_cn": "\u9ec3\u4ec1\u932b", 
+    "regdate": "2014-03-23", 
+    "experience": [
+      "(\uc804)\uad6d\ud68c\uc758\uc6d0\uc120\uac70 \ud6c4\ubcf4", 
+      "(\uc804)\ud55c\uad6d\ub18d\uc5b4\ucd0c\uacf5\uc0ac \uccad\uc591\uc9c0\uc0ac\uc7a5"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1954", 
+    "job": "\ubb34\uc9c1", 
+    "birthday": "10", 
+    "address": "\ucda9\uccad\ub0a8\ub3c4 \uccad\uc591\uad70 \uccad\uc591\uc74d \uace0\ub9ac\uc12c\ub4e4\uae38", 
+    "party": "\ubb34\uc18c\uc18d", 
+    "education": "\uacf5\uc8fc\ub300 \uc77c\ubc18\ub300\ud559\uc6d0(\ubc95\ud559\uacfc) \uc878\uc5c5", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -17161,27 +17329,6 @@
   }, 
   {
     "district": "\ucda9\uccad\ub0a8\ub3c4 \ub2f9\uc9c4\uc2dc", 
-    "birthmonth": "03", 
-    "name_kr": "\uc774\uc885\ud604", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4400/Gsg4416/Sgg4441600/Hb100104838/gicho/100104838.jpg", 
-    "name_cn": "\uf9e1\u7a2e\u9249", 
-    "regdate": "2014-02-28", 
-    "experience": [
-      "(\uc804)\ucda9\uccad\ub0a8\ub3c4\uc758\ud68c \uc758\uc6d0", 
-      "(\ud604)\uc0c8\ub204\ub9ac\ub2f9 \ub18d\uc218\uc0b0\uc815\ucc45\uc704\uc6d0\uc7a5"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1960", 
-    "job": "\uc815\ub2f9\uc778", 
-    "birthday": "05", 
-    "address": "\ucda9\uccad\ub0a8\ub3c4 \ub2f9\uc9c4\uc2dc \uc6b0\uac15\uba74 \ub2e4\ub9ac\ubaa9\uae38", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
-    "education": "\ud638\uc6d0\ub300\ud559\uad50 \uc804\uae30\uc815\ubcf4\ud1b5\uc2e0\ud559\ubd80(\uc878\uc5c5)", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\ucda9\uccad\ub0a8\ub3c4 \ub2f9\uc9c4\uc2dc", 
     "birthmonth": "06", 
     "name_kr": "\uc774\uc900\uc6a9", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd4400/Gsg4416/Sgg4441600/Hb100106770/gicho/100106770.jpg", 
@@ -17225,6 +17372,27 @@
   {
     "district": "\ucda9\uccad\ub0a8\ub3c4 \ub2f9\uc9c4\uc2dc", 
     "birthmonth": "01", 
+    "name_kr": "\uc774\ub355\uc5f0", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4400/Gsg4416/Sgg4441600/Hb100103708/gicho/100103708.jpg", 
+    "name_cn": "\uf9e1\u5fb7\u6df5", 
+    "regdate": "2014-02-21", 
+    "experience": [
+      "(\uc804)\ub2f9\uc9c4\uad70\uc758\ud68c \ubd80\uc758\uc7a5", 
+      "(\ud604)\ub2e8\uad6d\ub300\ud559\uad50 \ucd08\ube59\uad50\uc218"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1956", 
+    "job": "\ub2e8\uad6d\ub300\ud559\uad50 \ucd08\ube59\uad50\uc218", 
+    "birthday": "10", 
+    "address": "\ucda9\uccad\ub0a8\ub3c4 \ub2f9\uc9c4\uc2dc \uc2e0\ud3c9\uba74 \uc0bd\uad50\ucc9c1\uae38", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
+    "education": "\uacf5\uc8fc\ub300\ud559\uad50 \uae30\uacc4\uacf5\ud559\uacfc \uc878\uc5c5", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\ucda9\uccad\ub0a8\ub3c4 \ub2f9\uc9c4\uc2dc", 
+    "birthmonth": "01", 
     "name_kr": "\uae40\ud64d\uc7a5", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd4400/Gsg4416/Sgg4441600/Hb100105645/gicho/100105645.jpg", 
     "name_cn": "\u91d1\u6d2a\u6b0c", 
@@ -17241,27 +17409,6 @@
     "address": "\ucda9\uccad\ub0a8\ub3c4 \ub2f9\uc9c4\uc2dc \ubc24\uc808\ub85c", 
     "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
     "education": "\uacbd\ud76c\ub300\ud559\uad50 \uacf5\uacf5\ub300\ud559\uc6d0 \uc815\ucc45\ud559\uacfc \uc7ac\ud559", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\ucda9\uccad\ub0a8\ub3c4 \ub2f9\uc9c4\uc2dc", 
-    "birthmonth": "01", 
-    "name_kr": "\uc774\ub355\uc5f0", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4400/Gsg4416/Sgg4441600/Hb100103708/gicho/100103708.jpg", 
-    "name_cn": "\uf9e1\u5fb7\u6df5", 
-    "regdate": "2014-02-21", 
-    "experience": [
-      "(\uc804)\ub2f9\uc9c4\uad70\uc758\ud68c \ubd80\uc758\uc7a5", 
-      "(\ud604)\ub2e8\uad6d\ub300\ud559\uad50 \ucd08\ube59\uad50\uc218"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1956", 
-    "job": "\ub2e8\uad6d\ub300\ud559\uad50 \ucd08\ube59\uad50\uc218", 
-    "birthday": "10", 
-    "address": "\ucda9\uccad\ub0a8\ub3c4 \ub2f9\uc9c4\uc2dc \uc2e0\ud3c9\uba74 \uc0bd\uad50\ucc9c1\uae38", 
-    "party": "\ubb34\uc18c\uc18d", 
-    "education": "\uacf5\uc8fc\ub300\ud559\uad50 \uae30\uacc4\uacf5\ud559\uacfc \uc878\uc5c5", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -17555,7 +17702,7 @@
     "birthday": "14", 
     "address": "\uc804\ub77c\ubd81\ub3c4 \uc804\uc8fc\uc2dc \uc644\uc0b0\uad6c \uc5ec\uc6b8\ub85c", 
     "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
-    "education": "\uc804\ubd81\ub300\ud559\uad50 \ub300\ud559\uc6d0 \uc878\uc5c5(\uacbd\uc81c\ud559\uc11d\uc0ac)", 
+    "education": "\uace0\ub824\ub300\ud559\uad50 \ub300\ud559\uc6d0 \ubc15\uc0ac\uacfc\uc815 \uc218\ub8cc", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -17581,6 +17728,27 @@
   }, 
   {
     "district": "\uc804\ub77c\ubd81\ub3c4 \uc804\uc8fc\uc2dc", 
+    "birthmonth": "11", 
+    "name_kr": "\uc9c4\ubd09\ud5cc", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4500/Gsg4501/Sgg4450100/Hb100113022/gicho/100113022.JPG", 
+    "name_cn": "\u9673\u9cf3\u61b2", 
+    "regdate": "2014-04-07", 
+    "experience": [
+      "(\uc804)\uc804\uc8fc\uc9c0\ubc95 \ud310\uc0ac", 
+      "(\ud604)\ubc95\ubb34\ubc95\uc778 \uc81c\uc77c \ub300\ud45c\ubcc0\ud638\uc0ac"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1956", 
+    "job": "\ubcc0\ud638\uc0ac", 
+    "birthday": "18", 
+    "address": "\uc804\ub77c\ubd81\ub3c4 \uc804\uc8fc\uc2dc \uc644\uc0b0\uad6c \ud0dc\ud3c92\uae38", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
+    "education": "\uc131\uade0\uad00\ub300\ud559\uad50 \ubc95\ub960\ud559\uacfc \uc878\uc5c5", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uc804\ub77c\ubd81\ub3c4 \uc804\uc8fc\uc2dc", 
     "birthmonth": "01", 
     "name_kr": "\uae40\ubcd1\uc218", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd4500/Gsg4501/Sgg4450100/Hb100103707/gicho/100103707.JPG", 
@@ -17598,27 +17766,6 @@
     "address": "\uc804\ub77c\ubd81\ub3c4 \uc804\uc8fc\uc2dc \ub355\uc9c4\uad6c \ub5a1\uc804\ub85c", 
     "party": "\ubb34\uc18c\uc18d", 
     "education": "\uc804\ubd81\ub300\ud559\uad50 \uc0ac\ud68c\uacfc\ud559\ub300\ud559 \uc815\uce58\uc678\uad50\ud559\uacfc \uc878\uc5c5", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uc804\ub77c\ubd81\ub3c4 \uc804\uc8fc\uc2dc", 
-    "birthmonth": "11", 
-    "name_kr": "\uc9c4\ubd09\ud5cc", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4500/Gsg4501/Sgg4450100/Hb100113022/gicho/100113022.JPG", 
-    "name_cn": "\u9673\u9cf3\u61b2", 
-    "regdate": "2014-04-07", 
-    "experience": [
-      "(\uc804)\uc804\uc8fc\uc9c0\ubc95 \ud310\uc0ac", 
-      "(\ud604)\ubc95\ubb34\ubc95\uc778 \uc81c\uc77c \ub300\ud45c\ubcc0\ud638\uc0ac"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1956", 
-    "job": "\ubcc0\ud638\uc0ac", 
-    "birthday": "18", 
-    "address": "\uc804\ub77c\ubd81\ub3c4 \uc804\uc8fc\uc2dc \uc644\uc0b0\uad6c \ud0dc\ud3c92\uae38", 
-    "party": "\ubb34\uc18c\uc18d", 
-    "education": "\uc131\uade0\uad00\ub300\ud559\uad50 \ubc95\ub960\ud559\uacfc \uc878\uc5c5", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -17661,27 +17808,6 @@
     "address": "\uc804\ub77c\ubd81\ub3c4 \uad70\uc0b0\uc2dc \uc6d4\uba851\uae38", 
     "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
     "education": "\uc11c\uc6b8\ub300\ud559\uad50 \ubc95\uacfc\ub300\ud559 \ud589\uc815\ud559\uacfc \uc878\uc5c5", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uc804\ub77c\ubd81\ub3c4 \uad70\uc0b0\uc2dc", 
-    "birthmonth": "08", 
-    "name_kr": "\ubb38\uba85\uc218", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4500/Gsg4503/Sgg4450300/Hb100103858/gicho/100103858.jpg", 
-    "name_cn": "\u6587\u660e\u79c0", 
-    "regdate": "2014-02-21", 
-    "experience": [
-      "(\uc804)\uc804\uc8fc\ubd80\uc2dc\uc7a5", 
-      "(\uc804)\uc804\ub77c\ubd81\ub3c4\uccb4\uc721\ud68c\uc0ac\ubb34\uad6d\uc7a5"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1954", 
-    "job": "\uad70\uc0b0\ubbf8\ub798\uc0b0\uc5c5\ud3ec\ub7fc \uace0\ubb38", 
-    "birthday": "03", 
-    "address": "\uc804\ub77c\ubd81\ub3c4 \uad70\uc0b0\uc2dc \ucd95\ub3d9\uc548\uae38", 
-    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
-    "education": "\uc804\ubd81\ub300\ud559\uad50 \ud658\uacbd\ub300\ud559\uc6d0 \uc878\uc5c5(\uacf5\ud559\uc11d\uc0ac)", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -17745,27 +17871,6 @@
     "address": "\uc804\ub77c\ubd81\ub3c4 \uad70\uc0b0\uc2dc \ucd95\ub3d91\uae38", 
     "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
     "education": "\uc804\ubd81\uc0b0\uc5c5\ub300\ud559\uad50(\ud604,\ud638\uc6d0\ub300\ud559\uad50) \uad00\uad11\uacbd\uc601\ud559\uacfc \uc878\uc5c5", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uc804\ub77c\ubd81\ub3c4 \uad70\uc0b0\uc2dc", 
-    "birthmonth": "09", 
-    "name_kr": "\uae40\ud604\uc77c", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4500/Gsg4503/Sgg4450300/Hb100104511/gicho/100104511.jpg", 
-    "name_cn": "\u91d1\u9249\u65e5", 
-    "regdate": "2014-02-25", 
-    "experience": [
-      "(\uc804)\uacf5\ub9bd\uc804\ubd81\uc678\uad6d\uc5b4\uace0 \uad70\uc0b0\uc720\uce58\ucd94\uc9c4\uc704\uc6d0\uc7a5", 
-      "(\ud604)(\uc0ac)\uad70\uc0b0\ubc1c\uc804 \ud3ec\ub7fc \uc0c1\uc784 \uc758\uc7a5"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1958", 
-    "job": "(\uc720)\ub4dc\ub9bc\uc0b0\uc5c5 \ub300\ud45c\uc774\uc0ac", 
-    "birthday": "26", 
-    "address": "\uc804\ub77c\ubd81\ub3c4 \uad70\uc0b0\uc2dc \ubc31\ud1a0\ub85c", 
-    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
-    "education": "\uad70\uc0b0\ub300\ud559\uad50 \ub300\ud559\uc6d0 \uc878\uc5c5(\uacbd\uc601\ud559 \ubc15\uc0ac)", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -18040,6 +18145,27 @@
   }, 
   {
     "district": "\uc804\ub77c\ubd81\ub3c4 \uc815\uc74d\uc2dc", 
+    "birthmonth": "08", 
+    "name_kr": "\ubb38\uc601\uc18c", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4500/Gsg4507/Sgg4450700/Hb100107007/gicho/100107007.JPG", 
+    "name_cn": "\u6587\u82f1\u662d", 
+    "regdate": "2014-03-10", 
+    "experience": [
+      "(\uc804)\uacf5\uc8fc\uad50\uc721\ub300\ud559\uad50 \uacb8\uc784 \uad50\uc218", 
+      "(\ud604)\uc815\uc74d\uc2dc\uc758\ud68c \uc758\uc6d0"
+    ], 
+    "sex": "\uc5ec", 
+    "election_no": 6.0, 
+    "birthyear": "1957", 
+    "job": "\uc815\uc74d\uc2dc\uc758\ud68c \uc758\uc6d0", 
+    "birthday": "10", 
+    "address": "\uc804\ub77c\ubd81\ub3c4 \uc815\uc74d\uc2dc \ucd08\uc0b0\uc57d\uc2181\uae38", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
+    "education": "\uc911\uc559\ub300\ud559\uad50 \ub300\ud559\uc6d0 \uc878\uc5c5 \uc774\ud559\ubc15\uc0ac", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uc804\ub77c\ubd81\ub3c4 \uc815\uc74d\uc2dc", 
     "birthmonth": "09", 
     "name_kr": "\uac15\uad11", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd4500/Gsg4507/Sgg4450700/Hb100103919/gicho/100103919.JPG", 
@@ -18078,27 +18204,6 @@
     "address": "\uc804\ub77c\ubd81\ub3c4 \uc815\uc74d\uc2dc \uc774\ud3c9\uba74 \ub300\ub7c9\uae38", 
     "party": "\ubb34\uc18c\uc18d", 
     "education": "\uc804\uc8fc\ub300\ud559\uad50 \uc0ac\ud68c\uacfc\ud559\ubd80 \ubd80\ub3d9\uc0b0\ud559\uacfc \uc878\uc5c5", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uc804\ub77c\ubd81\ub3c4 \uc815\uc74d\uc2dc", 
-    "birthmonth": "08", 
-    "name_kr": "\ubb38\uc601\uc18c", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4500/Gsg4507/Sgg4450700/Hb100107007/gicho/100107007.JPG", 
-    "name_cn": "\u6587\u82f1\u662d", 
-    "regdate": "2014-03-10", 
-    "experience": [
-      "(\uc804)\uacf5\uc8fc\uad50\uc721\ub300\ud559\uad50 \uacb8\uc784 \uad50\uc218", 
-      "(\ud604)\uc815\uc74d\uc2dc\uc758\ud68c \uc758\uc6d0"
-    ], 
-    "sex": "\uc5ec", 
-    "election_no": 6.0, 
-    "birthyear": "1957", 
-    "job": "\uc815\uc74d\uc2dc\uc758\ud68c \uc758\uc6d0", 
-    "birthday": "10", 
-    "address": "\uc804\ub77c\ubd81\ub3c4 \uc815\uc74d\uc2dc \ucd08\uc0b0\uc57d\uc2181\uae38", 
-    "party": "\ubb34\uc18c\uc18d", 
-    "education": "\uc911\uc559\ub300\ud559\uad50 \ub300\ud559\uc6d0 \uc878\uc5c5 \uc774\ud559\ubc15\uc0ac", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -18544,6 +18649,27 @@
   }, 
   {
     "district": "\uc804\ub77c\ubd81\ub3c4 \ubb34\uc8fc\uad70", 
+    "birthmonth": "10", 
+    "name_kr": "\ud669\uc815\uc218", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4500/Gsg4512/Sgg4451200/Hb100110264/gicho/100110264.jpg", 
+    "name_cn": "\u9ec3\u6b63\u79c0", 
+    "regdate": "2014-03-24", 
+    "experience": [
+      "(\uc804) \uc81c8\ub300 \uc804\ub77c\ubd81\ub3c4\uc758\ud68c \uc758\uc6d0", 
+      "(\uc804) \ub18d\ucd0c\uc9c0\ub3c4\uc790 \uc804\ub77c\ubd81\ub3c4\uc5f0\ud569\ud68c \ud68c\uc7a5"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1954", 
+    "job": "\uc815\uce58\uc778", 
+    "birthday": "09", 
+    "address": "\uc804\ub77c\ubd81\ub3c4 \ubb34\uc8fc\uad70 \ubb34\uc8fc\uc74d \ub2f9\uc0b0\uac15\ubcc0\ub85c", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
+    "education": "\uc911\ubd80\ub300\ud559\uad50 \uc911\uad6d\ud1b5\uc0c1\ud559\uacfc \uc878\uc5c5", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uc804\ub77c\ubd81\ub3c4 \ubb34\uc8fc\uad70", 
     "birthmonth": "08", 
     "name_kr": "\uae40\uc138\uc6c5", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd4500/Gsg4512/Sgg4451200/Hb100109795/gicho/100109795.jpg", 
@@ -18565,23 +18691,23 @@
   }, 
   {
     "district": "\uc804\ub77c\ubd81\ub3c4 \ubb34\uc8fc\uad70", 
-    "birthmonth": "10", 
-    "name_kr": "\ud669\uc815\uc218", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4500/Gsg4512/Sgg4451200/Hb100110264/gicho/100110264.jpg", 
-    "name_cn": "\u9ec3\u6b63\u79c0", 
-    "regdate": "2014-03-24", 
+    "birthmonth": "08", 
+    "name_kr": "\ud64d\ub099\ud45c", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4500/Gsg4512/Sgg4451200/Hb100114582/gicho/100114582.jpg", 
+    "name_cn": "\u6d2a\uf915\u6753", 
+    "regdate": "2014-05-01", 
     "experience": [
-      "(\uc804) \uc81c8\ub300 \uc804\ub77c\ubd81\ub3c4\uc758\ud68c \uc758\uc6d0", 
-      "(\uc804) \ub18d\ucd0c\uc9c0\ub3c4\uc790 \uc804\ub77c\ubd81\ub3c4\uc5f0\ud569\ud68c \ud68c\uc7a5"
+      "(\uc804)4, 5\ub300 \uc804\ub77c\ubd81\ub3c4\uc758\ud68c \uc758\uc6d0", 
+      "(\ud604)\ubb34\uc8fc\uad70\uc218"
     ], 
     "sex": "\ub0a8", 
     "election_no": 6.0, 
     "birthyear": "1954", 
-    "job": "\uc815\uce58\uc778", 
-    "birthday": "09", 
-    "address": "\uc804\ub77c\ubd81\ub3c4 \ubb34\uc8fc\uad70 \ubb34\uc8fc\uc74d \ub2f9\uc0b0\uac15\ubcc0\ub85c", 
+    "job": "\ubb34\uc8fc\uad70\uc218", 
+    "birthday": "05", 
+    "address": "\uc804\ub77c\ubd81\ub3c4 \ubb34\uc8fc\uad70 \uc548\uc131\uba74 \uc2dc\uc7a5\uc717\uae38", 
     "party": "\ubb34\uc18c\uc18d", 
-    "education": "\uc911\ubd80\ub300\ud559\uad50 \uc911\uad6d\ud1b5\uc0c1\ud559\uacfc \uc878\uc5c5", 
+    "education": "\uc804\ubd81\ub300\ud559\uad50 \ubc95\ud559\uacfc \uc878\uc5c5", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -18955,6 +19081,27 @@
   }, 
   {
     "district": "\uc804\ub77c\ubd81\ub3c4 \uc21c\ucc3d\uad70", 
+    "birthmonth": "09", 
+    "name_kr": "\ud669\uc219\uc8fc", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4500/Gsg4515/Sgg4451500/Hb100114466/gicho/100114466.jpg", 
+    "name_cn": "\u9ec3\u6dd1\u5468", 
+    "regdate": "2014-04-29", 
+    "experience": [
+      "(\uc804)\uac10\uc0ac\uc6d0 \uad6d\uc7a5", 
+      "(\ud604)\uc21c\ucc3d\uad70\uc218"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1947", 
+    "job": "\uacf5\ubb34\uc6d0(\uc21c\ucc3d\uad70\uc218)", 
+    "birthday": "20", 
+    "address": "\uc804\ub77c\ubd81\ub3c4 \uc21c\ucc3d\uad70 \uc21c\ucc3d\uc74d \uc21c\ucc3d11\uae38", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
+    "education": "\uc5f0\uc138\ub300\ud559\uad50 \ud589\uc815\ub300\ud559\uc6d0 \uc878\uc5c5(\ud589\uc815\ud559\uc11d\uc0ac)", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uc804\ub77c\ubd81\ub3c4 \uc21c\ucc3d\uad70", 
     "birthmonth": "07", 
     "name_kr": "\ud64d\uc2b9\ucc44", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd4500/Gsg4515/Sgg4451500/Hb100109826/gicho/100109826.jpg", 
@@ -18962,12 +19109,12 @@
     "regdate": "2014-03-23", 
     "experience": [
       "(\uc804)\uc11c\uc6b8\ud2b9\ubcc4\uc2dc\uc758\ud68c4,5\ub300 \uc758\uc6d0", 
-      "(\ud604) \ub300\ud55c\ubbfc\uad6d \ud790\ub9c1\uc218\ub3c4 \uc21c\ucc3d \ud76c\ub9dd\uc5f0\ub300 \ub300\ud45c"
+      "(\ud604)\uad6d\ud68c\uc758\uc6d0 \uac15\ub3d9\uc6d0 \uc815\ucc45\ud2b9\ubcf4"
     ], 
     "sex": "\ub0a8", 
     "election_no": 6.0, 
     "birthyear": "1960", 
-    "job": "\ubb34\uc9c1", 
+    "job": "\uc815\uce58\uc778", 
     "birthday": "22", 
     "address": "\uc804\ub77c\ubd81\ub3c4 \uc21c\ucc3d\uad70 \uc21c\ucc3d\uc74d \uc21c\ucc3d6\uae38", 
     "party": "\ubb34\uc18c\uc18d", 
@@ -19236,7 +19383,7 @@
     "birthyear": "1964", 
     "job": "\uc2dc\ubbfc\uc6b4\ub3d9\uac00", 
     "birthday": "20", 
-    "address": "\uc804\ub77c\ub0a8\ub3c4 \ubaa9\ud3ec\uc2dc \uc2e0\ud765\ub85c", 
+    "address": "\uc804\ub77c\ub0a8\ub3c4 \ubaa9\ud3ec\uc2dc \uc2e0\ud765\ub85c45\ubc88\uae38", 
     "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
     "education": "\uace0\ub824\ub300\ud559\uad50 \uc0ac\ud559\uacfc \uc878\uc5c5", 
     "election_type": "municipality_governor"
@@ -19320,7 +19467,7 @@
     "birthyear": "1952", 
     "job": "\ubcc0\ud638\uc0ac", 
     "birthday": "22", 
-    "address": "\uc804\ub77c\ub0a8\ub3c4 \ubaa9\ud3ec\uc2dc \uc601\uc0b0\ub85c", 
+    "address": "\uc804\ub77c\ub0a8\ub3c4 \ubaa9\ud3ec\uc2dc \uc601\uc0b0\ub85c29\ubc88\uae38", 
     "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
     "education": "\uc11c\uc6b8\ub300\ud559\uad50 \ubb38\ub9ac\uacfc\ub300\ud559 \uc815\uce58\ud559\uacfc \uc878\uc5c5", 
     "election_type": "municipality_governor"
@@ -19383,7 +19530,7 @@
     "birthyear": "1972", 
     "job": "\ub178\ub3d9\uc790(\uc815\ub2f9\uc778)", 
     "birthday": "24", 
-    "address": "\uc804\ub77c\ub0a8\ub3c4 \ubaa9\ud3ec\uc2dc \uc8fd\uc0b0\ub85c", 
+    "address": "\uc804\ub77c\ub0a8\ub3c4 \ubaa9\ud3ec\uc2dc \uc8fd\uc0b0\ub85c40\ubc88\uae38", 
     "party": "\ud1b5\ud569\uc9c4\ubcf4\ub2f9", 
     "education": "\uc870\uc120\ub300\ud559\uad50 \uacbd\uc601\ud559\uacfc 3\ud559\ub144 \uc911\ud1f4(1990.03~1995.04)", 
     "election_type": "municipality_governor"
@@ -19536,6 +19683,27 @@
     "election_type": "municipality_governor"
   }, 
   {
+    "district": "\uc804\ub77c\ub0a8\ub3c4 \uc5ec\uc218\uc2dc", 
+    "birthmonth": "05", 
+    "name_kr": "\uc815\uc815\uade0", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4600/Gsg4602/Sgg4460200/Hb100114464/gicho/100114464.jpg", 
+    "name_cn": "\u912d\u6b63\u5747", 
+    "regdate": "2014-04-29", 
+    "experience": [
+      "(\uc804)\uc0bc\uc77c\ud68c\uacc4\ubc95\uc778 \uc0c1\uc784 \uace0\ubb38", 
+      "(\ud604)\uacf5\uc778\ud68c\uacc4\uc0ac"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1955", 
+    "job": "\ud55c\uad6d\uacf5\uc778\ud68c\uacc4\uc0ac(KICPA)", 
+    "birthday": "19", 
+    "address": "\uc804\ub77c\ub0a8\ub3c4 \uc5ec\uc218\uc2dc \uc5f0\ub4f11\uae38", 
+    "party": "\ubb34\uc18c\uc18d", 
+    "education": "\ubd80\uc0b0\ub300\ud559\uad50 \uc0c1\uacfc\ub300\ud559 \uacbd\uc81c\ud559\uacfc \uc878\uc5c5", 
+    "election_type": "municipality_governor"
+  }, 
+  {
     "district": "\uc804\ub77c\ub0a8\ub3c4 \uc21c\ucc9c\uc2dc", 
     "birthmonth": "09", 
     "name_kr": "\uc548\uc138\ucc2c", 
@@ -19544,7 +19712,7 @@
     "regdate": "2014-03-06", 
     "experience": [
       "(\uc804)\uc21c\ucc9c\ub300\ud559\uad50 \ucd1d\ud559\uc0dd\ud68c\uc7a5", 
-      "(\uc804)\uc21c\ucc9c\uc2dc\uc758\ud68c\uc758\uc6d0"
+      "(\ud604)\uc548\ucca0\uc218\uc21c\ucc9c\ub0b4\uc77c\ud3ec\ub7fc \uacf5\ub3d9\ub300\ud45c"
     ], 
     "sex": "\ub0a8", 
     "election_no": 6.0, 
@@ -19852,27 +20020,6 @@
   }, 
   {
     "district": "\uc804\ub77c\ub0a8\ub3c4 \uad11\uc591\uc2dc", 
-    "birthmonth": "07", 
-    "name_kr": "\uc774\uc11c\uae30", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4600/Gsg4607/Sgg4460700/Hb100107307/gicho/100107307.JPG", 
-    "name_cn": "\uf9e1\u8a93\u57fa", 
-    "regdate": "2014-03-11", 
-    "experience": [
-      "(\ud604) \uad11\uc591\uc2dc\uc758\ud68c \uc758\uc6d0", 
-      "(\ud604) \ud55c\uc0ac\ub791\uce58\uacfc \ub300\ud45c"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1963", 
-    "job": "\uad11\uc591\uc2dc\uc758\ud68c \uc758\uc6d0", 
-    "birthday": "08", 
-    "address": "\uc804\ub77c\ub0a8\ub3c4 \uad11\uc591\uc2dc \uc640\uc6b0\uae38", 
-    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
-    "education": "\uc870\uc120\ub300\ud559\uad50 \uce58\uacfc\ub300\ud559 \uce58\uc758\ud559\uacfc \uc878\uc5c5", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uc804\ub77c\ub0a8\ub3c4 \uad11\uc591\uc2dc", 
     "birthmonth": "02", 
     "name_kr": "\uae40\uc7ac\ubb34", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd4600/Gsg4607/Sgg4460700/Hb100109451/gicho/100109451.jpg", 
@@ -19886,7 +20033,7 @@
     "birthday": "15", 
     "address": "\uc804\ub77c\ub0a8\ub3c4 \uad11\uc591\uc2dc \uc6a9\uc9c0\uae38", 
     "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
-    "education": "\uc21c\ucc9c\uc81c\uc77c\ub300\ud559\uad50 \uacbd\uc601\uacfc \uc878\uc5c5", 
+    "education": "\uc21c\ucc9c\uc81c\uc77c\ub300\ud559 \uacbd\uc601\uacfc \uc878\uc5c5", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -20080,6 +20227,27 @@
   }, 
   {
     "district": "\uc804\ub77c\ub0a8\ub3c4 \uc7a5\uc131\uad70", 
+    "birthmonth": "09", 
+    "name_kr": "\uae40\ub9cc", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4600/Gsg4609/Sgg4460900/Hb100111580/gicho/100111580.jpg", 
+    "name_cn": "\u91d1\u6eff", 
+    "regdate": "2014-03-27", 
+    "experience": [
+      "(\uc804)\uc815\ub300\ucca0 \uad6d\ud68c\uc758\uc6d0 \ubcf4\uc88c\uad00", 
+      "(\ud604)\ud55c\uc5bc \uad6d\uc81c\ud2b9\ud5c8 \uc0ac\ubb34\uc18c \uacbd\uc601\uace0\ubb38"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1954", 
+    "job": "\ud68c\uc0ac\uc6d0", 
+    "birthday": "04", 
+    "address": "\uc804\ub77c\ub0a8\ub3c4 \uc7a5\uc131\uad70 \uc7a5\uc131\uc74d \uc7a5\uc7ac\uae38", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
+    "education": "\uace0\ub824\ub300\ud559\uad50 \uc815\uacbd\ub300\ud559 \uacbd\uc81c\ud559\uacfc \uc878\uc5c5", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uc804\ub77c\ub0a8\ub3c4 \uc7a5\uc131\uad70", 
     "birthmonth": "02", 
     "name_kr": "\uc720\ub450\uc11d", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd4600/Gsg4609/Sgg4460900/Hb100111776/gicho/100111776.jpg", 
@@ -20118,27 +20286,6 @@
     "address": "\uc804\ub77c\ub0a8\ub3c4 \uc7a5\uc131\uad70 \uc7a5\uc131\uc74d \uc218\uc0b0\uae38", 
     "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
     "education": "\ubaa9\ud3ec\ub300\ud559\uad50 \ub300\ud559\uc6d0 \uc790\uce58\ubcf5\uc9c0\ud589\uc815\ud559 \ubc15\uc0ac\uacfc\uc815 \uc878\uc5c5", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uc804\ub77c\ub0a8\ub3c4 \uc7a5\uc131\uad70", 
-    "birthmonth": "09", 
-    "name_kr": "\uae40\ub9cc", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4600/Gsg4609/Sgg4460900/Hb100111580/gicho/100111580.jpg", 
-    "name_cn": "\u91d1\u6eff", 
-    "regdate": "2014-03-27", 
-    "experience": [
-      "(\uc804)\uc815\ub300\ucca0 \uad6d\ud68c\uc758\uc6d0 \ubcf4\uc88c\uad00", 
-      "(\ud604)\ud55c\uc5bc \uad6d\uc81c\ud2b9\ud5c8 \uc0ac\ubb34\uc18c \uacbd\uc601\uace0\ubb38"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1954", 
-    "job": "\ud68c\uc0ac\uc6d0", 
-    "birthday": "04", 
-    "address": "\uc804\ub77c\ub0a8\ub3c4 \uc7a5\uc131\uad70 \uc7a5\uc131\uc74d \uc7a5\uc7ac\uae38", 
-    "party": "\ubb34\uc18c\uc18d", 
-    "education": "\uace0\ub824\ub300\ud559\uad50 \uc815\uacbd\ub300\ud559 \uacbd\uc81c\ud559\uacfc \uc878\uc5c5", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -20223,6 +20370,27 @@
     "address": "\uc804\ub77c\ub0a8\ub3c4 \uad6c\ub840\uad70 \ud1a0\uc9c0\uba74 \ub300\ub0b4\uae38", 
     "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
     "education": "\uc870\uc120\ub300\ud559\uad50 \uae08\uc18d\uc7ac\ub8cc\uacf5\ud559\uacfc \uc878\uc5c5", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uc804\ub77c\ub0a8\ub3c4 \uad6c\ub840\uad70", 
+    "birthmonth": "10", 
+    "name_kr": "\uc11c\uae30\ub3d9", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4600/Gsg4611/Sgg4461100/Hb100114361/gicho/100114361.jpg", 
+    "name_cn": "\u5f90\u6c82\u6771", 
+    "regdate": "2014-04-25", 
+    "experience": [
+      "(\ud604)\uad6c\ub840\uad70\uc218", 
+      "(\ud604)\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569 \uc804\ub0a8\ub3c4\ub2f9 \uc0c1\ubb34\uc704\uc6d0"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1949", 
+    "job": "\uad6c\ub840\uad70\uc218", 
+    "birthday": "01", 
+    "address": "\uc804\ub77c\ub0a8\ub3c4 \uad6c\ub840\uad70 \uad6c\ub840\uc74d \ubd09\uc131\ub85c", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
+    "education": "\uacbd\ub3d9\uace0\ub4f1\ud559\uad50 \uc878\uc5c5", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -20521,6 +20689,27 @@
   }, 
   {
     "district": "\uc804\ub77c\ub0a8\ub3c4 \ud654\uc21c\uad70", 
+    "birthmonth": "04", 
+    "name_kr": "\ubbfc\uc885\uae30", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4600/Gsg4614/Sgg4461400/Hb100109940/gicho/100109940.jpg", 
+    "name_cn": "\u9594\u937e\u57fa", 
+    "regdate": "2014-03-23", 
+    "experience": [
+      "(\uc804) \ud654\uc21c\uad70 \ubd80\uad70\uc218", 
+      "(\uc804) \uc804\ub0a8\ub3c4\uccad \ubc95\ubb34\ub2f4\ub2f9\uad00"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1955", 
+    "job": "\uc815\ub2f9\uc778", 
+    "birthday": "21", 
+    "address": "\uc804\ub77c\ub0a8\ub3c4 \ud654\uc21c\uad70 \ud654\uc21c\uc74d \uc9c4\uac01\ub85c", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
+    "education": "\uacf5\uad70\uc0ac\uad00\ud559\uad50 3\ub144 \uc911\ud1f4", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uc804\ub77c\ub0a8\ub3c4 \ud654\uc21c\uad70", 
     "birthmonth": "02", 
     "name_kr": "\ubc30\ub3d9\uae30", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd4600/Gsg4614/Sgg4461400/Hb100109930/gicho/100109930.jpg", 
@@ -20601,27 +20790,6 @@
     "address": "\uc804\ub77c\ub0a8\ub3c4 \ud654\uc21c\uad70 \ud654\uc21c\uc74d \uce60\ucda9\ub85c", 
     "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
     "education": "\uc6d0\uad11\ub300\ud559\uad50 \ud589\uc815\ub300\ud559\uc6d0 \uacbd\ucc30\ud559\uc11d\uc0ac(\uacbd\ucc30\ud589\uc815) \uc878\uc5c5(2\ub144)", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uc804\ub77c\ub0a8\ub3c4 \ud654\uc21c\uad70", 
-    "birthmonth": "04", 
-    "name_kr": "\ubbfc\uc885\uae30", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4600/Gsg4614/Sgg4461400/Hb100109940/gicho/100109940.jpg", 
-    "name_cn": "\u9594\u937e\u57fa", 
-    "regdate": "2014-03-23", 
-    "experience": [
-      "(\uc804) \ud654\uc21c\uad70 \ubd80\uad70\uc218", 
-      "(\uc804) \uc804\ub0a8\ub3c4\uccad \ubc95\ubb34\ub2f4\ub2f9\uad00"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1955", 
-    "job": "\ubb34\uc9c1", 
-    "birthday": "21", 
-    "address": "\uc804\ub77c\ub0a8\ub3c4 \ud654\uc21c\uad70 \ud654\uc21c\uc74d \uc9c4\uac01\ub85c", 
-    "party": "\ubb34\uc18c\uc18d", 
-    "education": "\uacf5\uad70\uc0ac\uad00\ud559\uad50 3\ub144 \uc911\ud1f4", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -20784,6 +20952,27 @@
     "address": "\uc804\ub77c\ub0a8\ub3c4 \uac15\uc9c4\uad70 \uac15\uc9c4\uc74d \uc5f0\uc9c0\uae38", 
     "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
     "education": "\uc870\uc120\ub300\ud559\uad50 \ud1a0\ubaa9\uacf5\ud559\uacfc \uc878\uc5c5", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uc804\ub77c\ub0a8\ub3c4 \uac15\uc9c4\uad70", 
+    "birthmonth": "10", 
+    "name_kr": "\uac15\uc9c4\uc6d0", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4600/Gsg4616/Sgg4461600/Hb100114295/gicho/100114295.jpg", 
+    "name_cn": "\u59dc\u73cd\u9060", 
+    "regdate": "2014-04-24", 
+    "experience": [
+      "(\uc804)\uc81c31\ud68c \ud589\uc815\uace0\ub4f1\uace0\uc2dc \ud569\uaca9", 
+      "(\ud604)\uac15\uc9c4\uad70\uc218"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1959", 
+    "job": "\uac15\uc9c4\uad70\uc218", 
+    "birthday": "20", 
+    "address": "\uc804\ub77c\ub0a8\ub3c4 \uac15\uc9c4\uad70 \uac15\uc9c4\uc74d \uc601\ub791\uc0dd\uac00\uae38", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
+    "education": "\uc2dc\ub77c\ud050\uc2a4\ub300\ud559\uad50 \uc878\uc5c5(\uacf5\uacf5\ud589\uc815 \uc911\uacac\uad00\ub9ac\uc790 \uac1c\ubc1c\uacfc\uc815,\ubb38\ud559\uc11d\uc0ac,1999.8.30~2001.5.10)", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -21354,6 +21543,27 @@
     "election_type": "municipality_governor"
   }, 
   {
+    "district": "\uc804\ub77c\ub0a8\ub3c4 \ud568\ud3c9\uad70", 
+    "birthmonth": "09", 
+    "name_kr": "\uc548\ubcd1\ud638", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4600/Gsg4623/Sgg4462300/Hb100114406/gicho/100114406.jpg", 
+    "name_cn": "\u5b89\u67c4\u93ac", 
+    "regdate": "2014-04-28", 
+    "experience": [
+      "(\uc804) \ud568\ud3c9\uad70\ucd95\ud611\uc7a5", 
+      "(\ud604) \ud568\ud3c9\uad70\uc218"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1947", 
+    "job": "\ud568\ud3c9\uad70\uc218", 
+    "birthday": "10", 
+    "address": "\uc804\ub77c\ub0a8\ub3c4 \ud568\ud3c9\uad70 \ud574\ubcf4\uba74 \ud574\uc0bc\ub85c", 
+    "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
+    "education": "\ucd08\ub2f9\ub300\ud559\uad50 \uc0ac\ud68c\ubcf5\uc9c0\uacfc \uc878\uc5c5", 
+    "election_type": "municipality_governor"
+  }, 
+  {
     "district": "\uc804\ub77c\ub0a8\ub3c4 \uc2e0\uc548\uad70", 
     "birthmonth": "01", 
     "name_kr": "\ubc15\uc11d\ubc30", 
@@ -21439,27 +21649,6 @@
   }, 
   {
     "district": "\uacbd\uc0c1\ubd81\ub3c4 \ud3ec\ud56d\uc2dc", 
-    "birthmonth": "07", 
-    "name_kr": "\uacf5\uc6d0\uc2dd", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4700/Gsg4702/Sgg4470100/Hb100103712/gicho/100103712.JPG", 
-    "name_cn": "\u5b54\u5143\u690d", 
-    "regdate": "2014-02-21", 
-    "experience": [
-      "(\uc804)\uacbd\uc0c1\ubd81\ub3c4 \uc815\ubb34\ubd80\uc9c0\uc0ac", 
-      "(\uc804)\ud3ec\ud56d\uc2dc\uc758\ud68c\uc758\uc7a5"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1953", 
-    "job": "\ub3d9\uad6d\ub300\ud559\uad50 \uacb8\uc784\uad50\uc218", 
-    "birthday": "20", 
-    "address": "\uacbd\uc0c1\ubd81\ub3c4 \ud3ec\ud56d\uc2dc \ub0a8\uad6c \ud76c\ub9dd\ub300\ub85c", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
-    "education": "\ub3d9\uad6d\ub300\ud559\uad50 \uc0ac\ud68c\uacfc\ud559\ub300\ud559\uc6d0 \ud589\uc815\ud559\uacfc \uc878\uc5c5(\ud589\uc815\ud559\uc11d\uc0ac)", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uacbd\uc0c1\ubd81\ub3c4 \ud3ec\ud56d\uc2dc", 
     "birthmonth": "02", 
     "name_kr": "\uae40\uc815\uc7ac", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd4700/Gsg4702/Sgg4470100/Hb100103903/gicho/100103903.JPG", 
@@ -21519,27 +21708,6 @@
     "address": "\uacbd\uc0c1\ubd81\ub3c4 \ud3ec\ud56d\uc2dc \ub0a8\uad6c \uc624\ucc9c\uc74d \ud574\ubcd1\ub85c", 
     "party": "\uc0c8\ub204\ub9ac\ub2f9", 
     "education": "\ub3d9\uad6d\ub300\ud559\uad50 \ub300\ud559\uc6d0 \ubc95\ud559\uacfc \ubc15\uc0ac\uacfc\uc815 4\ud559\uae30(\ubc94\uc8c4\uc218\uc0ac\ubc95) \uc218\ub8cc", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uacbd\uc0c1\ubd81\ub3c4 \ud3ec\ud56d\uc2dc", 
-    "birthmonth": "12", 
-    "name_kr": "\uc774\uc7ac\uc6d0", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4700/Gsg4702/Sgg4470100/Hb100103701/gicho/100103701.JPG", 
-    "name_cn": "\uf9e1\u5728\u6e90", 
-    "regdate": "2014-02-21", 
-    "experience": [
-      "(\ud604)\ud3ec\ud56d \ud654\uc778\ud53c\ubd80\uacfc,\ud654\uc778\ube44\ub1e8\uae30\uacfc \ub300\ud45c\uc6d0\uc7a5", 
-      "(\ud604)\uc0ac\ub2e8\ubc95\uc778 \uc804\uad6d\ud478\ub978\ubb38\ud654\uc5f0\ub300 \uc774\uc0ac\uc7a5"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1969", 
-    "job": "\uc758\uc0ac", 
-    "birthday": "08", 
-    "address": "\uacbd\uc0c1\ubd81\ub3c4 \ud3ec\ud56d\uc2dc \ub0a8\uad6c \uc9c0\uace1\ub85c", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
-    "education": "\uc6b8\uc0b0\ub300\ud559\uad50 \uc758\uacfc\ub300\ud559 \uc878\uc5c5", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -22025,22 +22193,19 @@
   {
     "district": "\uacbd\uc0c1\ubd81\ub3c4 \uc601\uc8fc\uc2dc", 
     "birthmonth": "10", 
-    "name_kr": "\uc804\uc6b0\ud604", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4700/Gsg4708/Sgg4470800/Hb100107031/gicho/100107031.jpg", 
-    "name_cn": "\u5168\u9047\u8ce2", 
-    "regdate": "2014-03-10", 
-    "experience": [
-      "(\ud604)\uc0c8\ub204\ub9ac\ub2f9 \uc815\ucc45\uc870\uc815\uc704\uc6d0", 
-      "(\ud604)\ubc95\ubb34\ubd80 \uc0ac\ubc95\uc2dc\ud5d8\uc704\uc6d0"
-    ], 
+    "name_kr": "\uae40\uc8fc\uc601", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4700/Gsg4708/Sgg4470800/Hb100112224/gicho/100112224.jpg", 
+    "name_cn": "\u91d1\u5b99\u69ae", 
+    "regdate": "2014-04-01", 
+    "experience": "(\ud604) \ubbfc\uc1205\uae30 \uc601\uc8fc\uc2dc\uc7a5", 
     "sex": "\ub0a8", 
     "election_no": 6.0, 
-    "birthyear": "1962", 
-    "job": "\ud55c\uc591\ub300\ud559\uad50 \ub85c\uc2a4\ucfe8(\ubc95\ud559\uc804\ubb38\ub300\ud559\uc6d0)\uad50\uc218", 
-    "birthday": "17", 
-    "address": "\uacbd\uc0c1\ubd81\ub3c4 \uc601\uc8fc\uc2dc \ud5a5\uad50\uae38", 
+    "birthyear": "1948", 
+    "job": "\uc601\uc8fc\uc2dc\uc7a5", 
+    "birthday": "12", 
+    "address": "\uacbd\uc0c1\ubd81\ub3c4 \uc601\uc8fc\uc2dc \ub0a8\uac04\ub85c", 
     "party": "\uc0c8\ub204\ub9ac\ub2f9", 
-    "education": "\uc11c\uc6b8\ub300\ud559\uad50 \ub300\ud559\uc6d0 \ubc95\ud559\uacfc \uc878\uc5c5(\ubc95\ud559\ubc15\uc0ac)", 
+    "education": "\ubbf8\uad6d \ubbf8\uc2dc\uac04\ub300\ud559\uad50 \ub300\ud559\uc6d0 \uc751\uc6a9\uacbd\uc81c\ud559\uacfc \uc878\uc5c5(\ubb38\ud559\uc11d\uc0ac)", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -22060,26 +22225,8 @@
     "job": "\uc601\uc8fc\uc2dc\uc758\ud68c\uc758\uc6d0", 
     "birthday": "24", 
     "address": "\uacbd\uc0c1\ubd81\ub3c4 \uc601\uc8fc\uc2dc \ubb38\uc218\uba74 \ubb34\uc12c\ub85c", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
+    "party": "\ubb34\uc18c\uc18d", 
     "education": "\uac74\uad6d\ub300\ud559\uad50 \ub18d\ucd95\ub300\ud559\uc6d0 \uc878\uc5c5(\uc0b0\ub9bc\uc790\uc6d0\uac1c\ubc1c\ud559\uacfc \uc0b0\ub9bc\uc870\uc131\uc804\uacf5)", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uacbd\uc0c1\ubd81\ub3c4 \uc601\uc8fc\uc2dc", 
-    "birthmonth": "10", 
-    "name_kr": "\uae40\uc8fc\uc601", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4700/Gsg4708/Sgg4470800/Hb100112224/gicho/100112224.jpg", 
-    "name_cn": "\u91d1\u5b99\u69ae", 
-    "regdate": "2014-04-01", 
-    "experience": "(\ud604) \ubbfc\uc1205\uae30 \uc601\uc8fc\uc2dc\uc7a5", 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1948", 
-    "job": "\uc601\uc8fc\uc2dc\uc7a5", 
-    "birthday": "12", 
-    "address": "\uacbd\uc0c1\ubd81\ub3c4 \uc601\uc8fc\uc2dc \ub0a8\uac04\ub85c", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
-    "education": "\ubbf8\uad6d \ubbf8\uc2dc\uac04\ub300\ud559\uad50 \ub300\ud559\uc6d0 \uc751\uc6a9\uacbd\uc81c\ud559\uacfc \uc878\uc5c5(\ubb38\ud559\uc11d\uc0ac)", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -22330,6 +22477,27 @@
   }, 
   {
     "district": "\uacbd\uc0c1\ubd81\ub3c4 \uacbd\uc0b0\uc2dc", 
+    "birthmonth": "03", 
+    "name_kr": "\ucd5c\uc601\uc870", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4700/Gsg4713/Sgg4471300/Hb100114461/gicho/100114461.JPG", 
+    "name_cn": "\u5d14\u6c38\u795a", 
+    "regdate": "2014-04-29", 
+    "experience": [
+      "(\ud604) \uacbd\uc0b0\uc2dc\uc7a5", 
+      "(\uc804) \uad6c\ubbf8\ubd80\uc2dc\uc7a5"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1955", 
+    "job": "\uc815\ubb34\uc9c1\uacf5\ubb34\uc6d0(\uacbd\uc0b0\uc2dc\uc7a5)", 
+    "birthday": "15", 
+    "address": "\uacbd\uc0c1\ubd81\ub3c4 \uacbd\uc0b0\uc2dc \uc7a5\uc0b0\ub85c4\uae38", 
+    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
+    "education": "\uacbd\ubd81\ub300\ud559\uad50 \ud589\uc815\ub300\ud559\uc6d0 \ub3c4\uc2dc\ud589\uc815\uc804\uacf5 \uc218\ub8cc (\uc11d\uc0ac\uacfc\uc815)", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uacbd\uc0c1\ubd81\ub3c4 \uacbd\uc0b0\uc2dc", 
     "birthmonth": "08", 
     "name_kr": "\ud669\uc0c1\uc870", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd4700/Gsg4713/Sgg4471300/Hb100104236/gicho/100104236.JPG", 
@@ -22555,27 +22723,6 @@
   }, 
   {
     "district": "\uacbd\uc0c1\ubd81\ub3c4 \uce60\uace1\uad70", 
-    "birthmonth": "02", 
-    "name_kr": "\uc548\uc885\ub85d", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4700/Gsg4717/Sgg4471700/Hb100109681/gicho/100109681.jpg", 
-    "name_cn": "\u5b89\u937e\u9304", 
-    "regdate": "2014-03-23", 
-    "experience": [
-      "(\uc804)\uacbd\uc0c1\ubd81\ub3c4\uac74\uc124\ub3c4\uc2dc\ubc29\uc7ac\uad6d\uc7a5", 
-      "(\ud604)\ub300\uad6c\ud55c\uc758\ub300\ud559\uad50 \uacf5\ud559\ub514\uc790\uc778\ub300\ud559 \uc870\uad50\uc218"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1953", 
-    "job": "\ub300\uad6c\ud55c\uc758\ub300\ud559\uad50 \uc870\uad50\uc218", 
-    "birthday": "03", 
-    "address": "\uacbd\uc0c1\ubd81\ub3c4 \uce60\uace1\uad70 \ubd81\uc0bc\uc74d \uae08\uace1\uae38", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
-    "education": "\uc601\ub0a8\ub300\ud559\uad50\ub300\ud559\uc6d0\ub3c4\uc2dc\uacf5\ud559\uacfc\uc878\uc5c5", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uacbd\uc0c1\ubd81\ub3c4 \uce60\uace1\uad70", 
     "birthmonth": "12", 
     "name_kr": "\uc784\uc8fc\ud0dd", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd4700/Gsg4717/Sgg4471700/Hb100109699/gicho/100109699.jpg", 
@@ -22674,6 +22821,27 @@
     "address": "\uacbd\uc0c1\ubd81\ub3c4 \uce60\uace1\uad70 \uc65c\uad00\uc74d 2\ubc88\ub3c4\ub85c\uae38", 
     "party": "\ubb34\uc18c\uc18d", 
     "education": "\uacbd\ubd81\ub300\ud559\uad50\ud589\uc815\ub300\ud559\uc6d0 \uc878\uc5c5(\ud589\uc815\ud559 \uc11d\uc0ac)", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uacbd\uc0c1\ubd81\ub3c4 \uad70\uc704\uad70", 
+    "birthmonth": "07", 
+    "name_kr": "\uc7a5\uc6b1", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4700/Gsg4718/Sgg4471800/Hb100114405/gicho/100114405.jpg", 
+    "name_cn": "\u8523\u715c", 
+    "regdate": "2014-04-28", 
+    "experience": [
+      "(\uc804)\uc81c7\ub300\uacbd\uc0c1\ubd81\ub3c4\uc758\ud68c\uc758\uc6d0", 
+      "(\ud604)\uad70\uc704\uad70\uc218"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1954", 
+    "job": "\uad70\uc704\uad70\uc218", 
+    "birthday": "06", 
+    "address": "\uacbd\uc0c1\ubd81\ub3c4 \uad70\uc704\uad70 \uad70\uc704\uc74d \uc911\uc559\uae38", 
+    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
+    "education": "\ub300\uad6c\ub300\ud559\uad50 \ub300\ud559\uc6d0 \ud589\uc815\ud559\uacfc(\ud589\uc815\ud559\ubc15\uc0ac) \uc878\uc5c5", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -22842,27 +23010,6 @@
     "address": "\uacbd\uc0c1\ubd81\ub3c4 \uccad\uc1a1\uad70 \uccad\uc1a1\uc74d \uc911\uc559\ub85c", 
     "party": "\uc0c8\ub204\ub9ac\ub2f9", 
     "education": "\uc601\ub0a8\ub300\ud559\uad50 \ub300\ud559\uc6d0 \ub3c4\uc2dc\uacf5\ud559\uacfc \ubc15\uc0ac\ud559\uc704\uacfc\uc815 \uc218\ub8cc", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uacbd\uc0c1\ubd81\ub3c4 \uc601\uc591\uad70", 
-    "birthmonth": "08", 
-    "name_kr": "\uc774\uc0c1\uc6a9", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4700/Gsg4721/Sgg4472100/Hb100109859/gicho/100109859.JPG", 
-    "name_cn": "\uf9e1\u76f8\uf9c4", 
-    "regdate": "2014-03-23", 
-    "experience": [
-      "(\uc804)\uc601\uc591\uad70\uc758\ud68c \uc758\uc7a5(\uc81c4\ub300)", 
-      "(\uc804)\uacbd\uc0c1\ubd81\ub3c4\uc758\ud68c \ub18d\uc218\uc0b0\uc704\uc6d0\ud68c \uc704\uc6d0\uc7a5(\uc81c9\ub300)"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1959", 
-    "job": "\ub18d\uc5c5", 
-    "birthday": "23", 
-    "address": "\uacbd\uc0c1\ubd81\ub3c4 \uc601\uc591\uad70 \uc785\uc554\uba74 \uc11c\uce58\uae38", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
-    "education": "\uc548\ub3d9\ub300\ud559\uad50 \ud589\uc815\uacbd\uc601\ub300\ud559\uc6d0 \uc790\uce58\ud589\uc815\ud559\uacfc \ud734\ud559", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -23097,6 +23244,27 @@
     "election_type": "municipality_governor"
   }, 
   {
+    "district": "\uacbd\uc0c1\ubd81\ub3c4 \ubd09\ud654\uad70", 
+    "birthmonth": "10", 
+    "name_kr": "\ubc15\ub178\uc6b1", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4700/Gsg4723/Sgg4472300/Hb100114472/gicho/100114472.jpg", 
+    "name_cn": "\u6734\uf939\u65ed", 
+    "regdate": "2014-04-29", 
+    "experience": [
+      "(\uc804)\ud55c\uad6d\ub18d\uc5c5\uacbd\uc601\uc778 \uc911\uc559\uc5f0\ud569\ud68c \uc218\uc11d\ubd80\ud68c\uc7a5", 
+      "(\ud604)\ubbfc\uc1205\uae30 \ubd09\ud654\uad70\uc218"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1960", 
+    "job": "\ubd09\ud654\uad70\uc218", 
+    "birthday": "16", 
+    "address": "\uacbd\uc0c1\ubd81\ub3c4 \ubd09\ud654\uad70 \ubd09\ud654\uc74d \ub354\uad6c\ub85c", 
+    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
+    "education": "\uacbd\ubd81\ub300\ud559\uad50 \ud589\uc815\ub300\ud559\uc6d0 \uc878\uc5c5", 
+    "election_type": "municipality_governor"
+  }, 
+  {
     "district": "\uacbd\uc0c1\ubd81\ub3c4 \uc6b8\uc9c4\uad70", 
     "birthmonth": "01", 
     "name_kr": "\uae40\uae30\ud638", 
@@ -23115,27 +23283,6 @@
     "address": "\uacbd\uc0c1\ubd81\ub3c4 \uc6b8\uc9c4\uad70 \uc6b8\uc9c4\uc74d \uc6d4\ubcc05\uae38", 
     "party": "\uc0c8\ub204\ub9ac\ub2f9", 
     "education": "\uc601\ub0a8\ub300\ud559\uad50 \ubc95\ud559\uacfc \uc878\uc5c5", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uacbd\uc0c1\ubd81\ub3c4 \uc6b8\uc9c4\uad70", 
-    "birthmonth": "09", 
-    "name_kr": "\uc784\uc601\ub4dd", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4700/Gsg4724/Sgg4472400/Hb100110619/gicho/100110619.JPG", 
-    "name_cn": "\uf9f4\u6c38\u5f97", 
-    "regdate": "2014-03-24", 
-    "experience": [
-      "(\uc804)\uc81c18\ub300\uc0c8\ub204\ub9ac\ub2f9\uc911\uc559\uc120\ub300\uc9c1\ub2a5\ucd1d\uad04\ubcf8\ubd80\ub3d9\uc11c\ud654\ud569\ud2b9\ubcc4\uc704\uc6d0\ud68c\uc218\uc11d\ubd80\uc704\uc6d0\uc7a5", 
-      "(\ud604)\ucd08\ub85d\uc6b0\uc0b0(\uc5b4\ub9b0\uc774\uc7ac\ub2e8)\uc6b8\uc9c4\uad70\uc9c0\ud68c\uc7a5"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1952", 
-    "job": "\uc815\ub2f9\uc778", 
-    "birthday": "09", 
-    "address": "\uacbd\uc0c1\ubd81\ub3c4 \uc6b8\uc9c4\uad70 \uc6b8\uc9c4\uc74d \uc6d4\ubcc03\uae38", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
-    "education": "\uc601\ub0a8\ub300\ud559\uad50 \ud589\uc815\ub300\ud559\uc6d0 \ubc15\uc0ac\ud559\uc704\uacfc\uc815 \uc7ac\ud559\uc911", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -23217,6 +23364,27 @@
     "address": "\uacbd\uc0c1\ubd81\ub3c4 \uc6b8\uc9c4\uad70 \uc8fd\ubcc0\uba74 \ubd09\ud3c9\uae38", 
     "party": "\uc0c8\uc815\uce58\uad6d\ubbfc\uc758\ub2f9", 
     "education": "\uc601\ub0a8\uc0ac\uc774\ubc84\ub300\ud559\uad50 \uc0ac\ud68c\ubcf5\uc9c0\ud559\uacfc 4\ud559\ub144\uc7ac\ud559", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uacbd\uc0c1\ubd81\ub3c4 \uc6b8\uc9c4\uad70", 
+    "birthmonth": "09", 
+    "name_kr": "\uc784\uc601\ub4dd", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4700/Gsg4724/Sgg4472400/Hb100110619/gicho/100110619.JPG", 
+    "name_cn": "\uf9f4\u6c38\u5f97", 
+    "regdate": "2014-03-24", 
+    "experience": [
+      "(\uc804)\uc81c18\ub300\uc0c8\ub204\ub9ac\ub2f9\uc911\uc559\uc120\ub300\uc9c1\ub2a5\ucd1d\uad04\ubcf8\ubd80\ub3d9\uc11c\ud654\ud569\ud2b9\ubcc4\uc704\uc6d0\ud68c\uc218\uc11d\ubd80\uc704\uc6d0\uc7a5", 
+      "(\ud604)\ucd08\ub85d\uc6b0\uc0b0(\uc5b4\ub9b0\uc774\uc7ac\ub2e8)\uc6b8\uc9c4\uad70\uc9c0\ud68c\uc7a5"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1952", 
+    "job": "\uc815\ub2f9\uc778", 
+    "birthday": "09", 
+    "address": "\uacbd\uc0c1\ubd81\ub3c4 \uc6b8\uc9c4\uad70 \uc6b8\uc9c4\uc74d \uc6d4\ubcc03\uae38", 
+    "party": "\ubb34\uc18c\uc18d", 
+    "education": "\uc601\ub0a8\ub300\ud559\uad50 \ud589\uc815\ub300\ud559\uc6d0 \ubc15\uc0ac\ud559\uc704\uacfc\uc815 \uc7ac\ud559\uc911", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -23700,27 +23868,6 @@
     "election_type": "municipality_governor"
   }, 
   {
-    "district": "\uacbd\uc0c1\ub0a8\ub3c4 \uc0ac\ucc9c\uc2dc", 
-    "birthmonth": "08", 
-    "name_kr": "\uc774\uc815\ud55c", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4800/Gsg4807/Sgg4480700/Hb100107438/gicho/100107438.JPG", 
-    "name_cn": "\uf9e1\u6b63\u6f22", 
-    "regdate": "2014-03-11", 
-    "experience": [
-      "(\uc804)\ud1b5\uc601\uc2dc\uc7a5 \uad8c\ud55c\ub300\ud589", 
-      "(\uc804)\uc548\uc804\ud589\uc815\ubd80 \uadfc\ubb3426\ub144(\uc0ac\ubb34\uad00,\uc11c\uae30\uad00 \ub4f1)"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1947", 
-    "job": "\uc815\ub2f9\uc778", 
-    "birthday": "10", 
-    "address": "\uacbd\uc0c1\ub0a8\ub3c4 \uc0ac\ucc9c\uc2dc \uac08\ub300\uc0d81\uae38", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
-    "education": "\uc5f0\uc138\ub300\ud559\uad50 \ud589\uc815\ub300\ud559\uc6d0 \uc77c\ubc18\ud589\uc815\uc804\uacf5 \uc11d\uc0ac\uacfc\uc815\uc218\ub8cc", 
-    "election_type": "municipality_governor"
-  }, 
-  {
     "district": "\uacbd\uc0c1\ub0a8\ub3c4 \uae40\ud574\uc2dc", 
     "birthmonth": "06", 
     "name_kr": "\uae40\uc131\uc6b0", 
@@ -24162,6 +24309,24 @@
     "election_type": "municipality_governor"
   }, 
   {
+    "district": "\uacbd\uc0c1\ub0a8\ub3c4 \ubc00\uc591\uc2dc", 
+    "birthmonth": "03", 
+    "name_kr": "\uc774\ud0dc\uad8c", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4800/Gsg4809/Sgg4480900/Hb100114321/gicho/100114321.jpg", 
+    "name_cn": "\uf9e1\u6cf0\u6b0a", 
+    "regdate": "2014-04-24", 
+    "experience": "(\uc804)\uc911\ub4f1\uad50\uc0ac 17\ub144", 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1944", 
+    "job": "\ub18d\uc5c5", 
+    "birthday": "15", 
+    "address": "\uacbd\uc0c1\ub0a8\ub3c4 \ubc00\uc591\uc2dc \uc0bc\ub791\uc9c4\uc74d \uc0bc\ub7916\uae38", 
+    "party": "\ubb34\uc18c\uc18d", 
+    "education": "\ub3d9\uc544\ub300\ud559\uad50 \ubc95\ud559\uacfc \uc878\uc5c5", 
+    "election_type": "municipality_governor"
+  }, 
+  {
     "district": "\uacbd\uc0c1\ub0a8\ub3c4 \uac70\uc81c\uc2dc", 
     "birthmonth": "05", 
     "name_kr": "\uc720\uc2b9\ud654", 
@@ -24352,6 +24517,27 @@
   }, 
   {
     "district": "\uacbd\uc0c1\ub0a8\ub3c4 \uc758\ub839\uad70", 
+    "birthmonth": "07", 
+    "name_kr": "\uae40\ucc44\uc6a9", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4800/Gsg4811/Sgg4481100/Hb100114550/gicho/100114550.jpg", 
+    "name_cn": "\u91d1\u91c7\u6eb6", 
+    "regdate": "2014-04-30", 
+    "experience": [
+      "(\uc804)\uacbd\uc0c1\ub0a8\ub3c4 \ud589\uc815\ubd80\uc9c0\uc0ac", 
+      "(\ud604)\uc758\ub839\uad70\uc218"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1949", 
+    "job": "\uc758\ub839\uad70\uc218", 
+    "birthday": "18", 
+    "address": "\uacbd\uc0c1\ub0a8\ub3c4 \uc758\ub839\uad70 \uc758\ub839\uc74d \uc758\ubcd1\ub85c", 
+    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
+    "education": "\uacbd\ub0a8\ub300\ud559\uad50 \ub300\ud559\uc6d0 \ud589\uc815\ud559\uacfc\uc878\uc5c5(\ud589\uc815\ud559\ubc15\uc0ac)", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uacbd\uc0c1\ub0a8\ub3c4 \uc758\ub839\uad70", 
     "birthmonth": "10", 
     "name_kr": "\uc624\uc601\ud638", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd4800/Gsg4811/Sgg4481100/Hb100109763/gicho/100109763.jpg", 
@@ -24390,6 +24576,27 @@
     "address": "\uacbd\uc0c1\ub0a8\ub3c4 \uc758\ub839\uad70 \uac00\ub840\uba74 \uac00\ub840\ub85c", 
     "party": "\ubb34\uc18c\uc18d", 
     "education": "\uacbd\ub0a8\ub300\ud559\uad50 \uc815\uce58\uc678\uad50\ud559\uacfc \uc878\uc5c5", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uacbd\uc0c1\ub0a8\ub3c4 \uc758\ub839\uad70", 
+    "birthmonth": "02", 
+    "name_kr": "\uae40\uc9c4\uc625", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4800/Gsg4811/Sgg4481100/Hb100114288/gicho/100114288.jpg", 
+    "name_cn": "\u91d1\u93ad\u6c83", 
+    "regdate": "2014-04-23", 
+    "experience": [
+      "(\uc804)7.8\ub300 \uacbd\uc0c1\ub0a8\ub3c4\uc758\ud68c\uc758\uc6d0", 
+      "(\uc804)\uacbd\uc0c1\ub0a8\ub3c4\uc758\ud68c \uc6b4\uc601\uc704\uc6d0\uc7a5"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1952", 
+    "job": "\ubb34\uc9c1", 
+    "birthday": "16", 
+    "address": "\uacbd\uc0c1\ub0a8\ub3c4 \uc758\ub839\uad70 \uc758\ub839\uc74d \uc758\ubcd1\ub85c9\ub3d9\uae38", 
+    "party": "\ubb34\uc18c\uc18d", 
+    "education": "\uad6d\ubbfc\ub300\ud559\uad50 \uc815\uce58\uc678\uad50\ud559\uacfc \uc878\uc5c5", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -24579,6 +24786,27 @@
     "address": "\uacbd\uc0c1\ub0a8\ub3c4 \uc591\uc0b0\uc2dc \ubb3c\uae08\uc74d \uc2e0\uc8fc\ub85c", 
     "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
     "education": "\uc601\uc0b0\ub300\ud559\uad50 \uc878\uc5c5(\ud589\uc815\uc804\uacf5)", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uacbd\uc0c1\ub0a8\ub3c4 \uc591\uc0b0\uc2dc", 
+    "birthmonth": "11", 
+    "name_kr": "\uc774\uac15\uc6d0", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4800/Gsg4814/Sgg4481400/Hb100114311/gicho/100114311.JPG", 
+    "name_cn": "\uf9e1\u6c5f\u5143", 
+    "regdate": "2014-04-24", 
+    "experience": [
+      "(\uc804)\uc591\uc0b0\uad70 \uc9c0\ubc29\uacf5\ubb34\uc6d0", 
+      "(\uc804)\uc81c2\ub300 \uc591\uc0b0\uc2dc\uc758\uc6d0"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1944", 
+    "job": "\ubb34", 
+    "birthday": "15", 
+    "address": "\uacbd\uc0c1\ub0a8\ub3c4 \uc591\uc0b0\uc2dc \ubb3c\uae08\uc74d \uc624\ubd09\ub85c", 
+    "party": "\ubb34\uc18c\uc18d", 
+    "education": "\ud55c\uad6d\ubc29\uc1a1\ud1b5\uc2e0\ub300\ud559\uad50 \ubc95\ud559\uacfc \uc7ac\ud559", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -25106,27 +25334,6 @@
   {
     "district": "\uacbd\uc0c1\ub0a8\ub3c4 \ud569\ucc9c\uad70", 
     "birthmonth": "03", 
-    "name_kr": "\uc870\ucc2c\uc6a9", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4800/Gsg4820/Sgg4482000/Hb100110074/gicho/100110074.jpg", 
-    "name_cn": "\u66fa\u7052\u6eb6", 
-    "regdate": "2014-03-23", 
-    "experience": [
-      "(\uc804)\uacbd\ub0a8\ub3c4\uc758\ud68c \uc218\uc11d\uc804\ubb38\uc704\uc6d0", 
-      "(\ud604)\ub0a8\uba85\uc120\uc0dd \uc120\uc591\ud68c \ud68c\uc7a5"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1955", 
-    "job": "\ub0a8\uba85\uc120\uc0dd \uc120\uc591\ud68c \ud68c\uc7a5", 
-    "birthday": "26", 
-    "address": "\uacbd\uc0c1\ub0a8\ub3c4 \ud569\ucc9c\uad70 \uc0bc\uac00\uba74 \uc774\ubd80\uae38", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
-    "education": "\ub3d9\uad6d\ub300\ud559\uad50 \uad6d\uc5b4\uad6d\ubb38\ud559\uacfc \uc878\uc5c5", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uacbd\uc0c1\ub0a8\ub3c4 \ud569\ucc9c\uad70", 
-    "birthmonth": "03", 
     "name_kr": "\ubc15\uacbd\ud638", 
     "image": "http://info.nec.go.kr/photo_20140604/Sd4800/Gsg4820/Sgg4482000/Hb100110914/gicho/100110914.jpg", 
     "name_cn": "\u6734\u666f\u6d69", 
@@ -25167,24 +25374,24 @@
     "election_type": "municipality_governor"
   }, 
   {
-    "district": "\uacbd\uc0c1\ub0a8\ub3c4 \ucc3d\uc6d0\uc2dc", 
-    "birthmonth": "11", 
-    "name_kr": "\ubc30\ud55c\uc131", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4800/Gsg4821/Sgg4482100/Hb100103573/gicho/100103573.jpg", 
-    "name_cn": "\u88f5\u6f22\u661f", 
-    "regdate": "2014-02-21", 
+    "district": "\uacbd\uc0c1\ub0a8\ub3c4 \ud569\ucc9c\uad70", 
+    "birthmonth": "03", 
+    "name_kr": "\uc870\ucc2c\uc6a9", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4800/Gsg4820/Sgg4482000/Hb100110074/gicho/100110074.jpg", 
+    "name_cn": "\u66fa\u7052\u6eb6", 
+    "regdate": "2014-03-23", 
     "experience": [
-      "(\uc804) \ucc3d\uc6d0\uc2dc\uc7a5", 
-      "(\uc804) \uacbd\ub0a8\uac1c\ubc1c\uacf5\uc0ac \uc0ac\uc7a5"
+      "(\uc804)\uacbd\ub0a8\ub3c4\uc758\ud68c \uc218\uc11d\uc804\ubb38\uc704\uc6d0", 
+      "(\ud604)\ub0a8\uba85\uc120\uc0dd \uc120\uc591\ud68c \ud68c\uc7a5"
     ], 
     "sex": "\ub0a8", 
     "election_no": 6.0, 
-    "birthyear": "1947", 
-    "job": "\ubb34\uc9c1", 
-    "birthday": "27", 
-    "address": "\uacbd\uc0c1\ub0a8\ub3c4 \ucc3d\uc6d0\uc2dc \uc131\uc0b0\uad6c \uc6d0\uc774\ub300\ub85c", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
-    "education": "\ucc3d\uc6d0\ub300\ud559\uad50 \ud589\uc815\ub300\ud559\uc6d0 \ud589\uc815\ud559\uacfc \uc878\uc5c5", 
+    "birthyear": "1955", 
+    "job": "\ub0a8\uba85\uc120\uc0dd \uc120\uc591\ud68c \ud68c\uc7a5", 
+    "birthday": "26", 
+    "address": "\uacbd\uc0c1\ub0a8\ub3c4 \ud569\ucc9c\uad70 \uc0bc\uac00\uba74 \uc774\ubd80\uae38", 
+    "party": "\ubb34\uc18c\uc18d", 
+    "education": "\ub3d9\uad6d\ub300\ud559\uad50 \uad6d\uc5b4\uad6d\ubb38\ud559\uacfc \uc878\uc5c5", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -25206,48 +25413,6 @@
     "address": "\uacbd\uc0c1\ub0a8\ub3c4 \ucc3d\uc6d0\uc2dc \ub9c8\uc0b0\ud569\ud3ec\uad6c \uad50\ubc29\uc2dc\uc7a52\uae38", 
     "party": "\uc0c8\ub204\ub9ac\ub2f9", 
     "education": "\uc11c\uc6b8\ub300\ud559\uad50 \ubc95\ud559\uacfc \uc878\uc5c5", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uacbd\uc0c1\ub0a8\ub3c4 \ucc3d\uc6d0\uc2dc", 
-    "birthmonth": "07", 
-    "name_kr": "\uc774\uae30\uc6b0", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4800/Gsg4821/Sgg4482100/Hb100103434/gicho/100103434.jpg", 
-    "name_cn": "\uf9e1\u57fa\u96e8", 
-    "regdate": "2014-02-21", 
-    "experience": [
-      "(\uc804) \ubd80\uc0b0\uad11\uc5ed\uc2dc \uacbd\uc81c\ubd80\uc2dc\uc7a5", 
-      "(\ud604) \uacbd\ub0a8\ub300\ud559\uad50 \uacbd\uc601\ub300\ud559\uc6d0 \ucd08\ube59\uad50\uc218"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1955", 
-    "job": "\uacbd\ub0a8\uc740\ud589 \uc0ac\uc678\uc774\uc0ac", 
-    "birthday": "28", 
-    "address": "\uacbd\uc0c1\ub0a8\ub3c4 \ucc3d\uc6d0\uc2dc \uc758\ucc3d\uad6c \uc6a9\uc9c0\ub85c", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
-    "education": "\uc11c\uc6b8\ub300\ud559\uad50 \uacbd\uc81c\ud559\uacfc \uc878\uc5c5", 
-    "election_type": "municipality_governor"
-  }, 
-  {
-    "district": "\uacbd\uc0c1\ub0a8\ub3c4 \ucc3d\uc6d0\uc2dc", 
-    "birthmonth": "10", 
-    "name_kr": "\ucd5c\ub9bc", 
-    "image": "http://info.nec.go.kr/photo_20140604/Sd4800/Gsg4821/Sgg4482100/Hb100103460/gicho/100103460.jpg", 
-    "name_cn": "\u5d14\u6797", 
-    "regdate": "2014-02-21", 
-    "experience": [
-      "(\uc804) \ubc15\uadfc\ud61c\ub300\ud45c \uc5b8\ub860\ud2b9\ubcf4", 
-      "(\ud604) (\uc8fc) \ub300\uc2b9\uc0b0\uc5c5 \ub300\ud45c\uc774\uc0ac"
-    ], 
-    "sex": "\ub0a8", 
-    "election_no": 6.0, 
-    "birthyear": "1965", 
-    "job": "(\uc8fc) \ub300\uc2b9\uc0b0\uc5c5 \ub300\ud45c\uc774\uc0ac", 
-    "birthday": "30", 
-    "address": "\uacbd\uc0c1\ub0a8\ub3c4 \ucc3d\uc6d0\uc2dc \uc131\uc0b0\uad6c \uacf5\ub2e8\ub85c", 
-    "party": "\uc0c8\ub204\ub9ac\ub2f9", 
-    "education": "\ucc3d\uc6d0\ub300\ud559\uad50 \ub178\ub3d9\ub300\ud559\uc6d0 \ub178\ub3d9\uc815\ucc45\ud559\uacfc \uc878\uc5c5", 
     "election_type": "municipality_governor"
   }, 
   {
@@ -25290,6 +25455,27 @@
     "address": "\uacbd\uc0c1\ub0a8\ub3c4 \ucc3d\uc6d0\uc2dc \uc131\uc0b0\uad6c \ub3d9\uc0b0\ub85c", 
     "party": "\uc0c8\uc815\uce58\ubbfc\uc8fc\uc5f0\ud569", 
     "education": "\ubd80\uc0b0\ub300\ud559\uad50 \ud589\uc815\ud559\uacfc \uc878\uc5c5", 
+    "election_type": "municipality_governor"
+  }, 
+  {
+    "district": "\uacbd\uc0c1\ub0a8\ub3c4 \ucc3d\uc6d0\uc2dc", 
+    "birthmonth": "08", 
+    "name_kr": "\ud5c8\uc0c1\ud0c1", 
+    "image": "http://info.nec.go.kr/photo_20140604/Sd4800/Gsg4821/Sgg4482100/Hb100114532/gicho/100114532.jpg", 
+    "name_cn": "\u8a31\u5c19\u9438", 
+    "regdate": "2014-04-30", 
+    "experience": [
+      "(\uc804)\uac10\ub85c\ubd09\uc0ac\ub2e8 \uae30\ud68d\uc2e4\uc7a5", 
+      "(\ud604)\ucc9c\ub9ac\uad50 \ucc9c\ub9c8\uad50\ud68c\uc7a5"
+    ], 
+    "sex": "\ub0a8", 
+    "election_no": 6.0, 
+    "birthyear": "1952", 
+    "job": "\uc885\uad50\uc778(\ucc9c\ub9ac\uad50\uc778)", 
+    "birthday": "01", 
+    "address": "\uacbd\uc0c1\ub0a8\ub3c4 \ucc3d\uc6d0\uc2dc \ub9c8\uc0b0\ud68c\uc6d0\uad6c \ud569\ud3ec\uc131\uc9c0\uae38", 
+    "party": "\ubb34\uc18c\uc18d", 
+    "education": "\ud68c\ud654\uc911\ud559\uad50\uc878\uc5c5", 
     "election_type": "municipality_governor"
   }
 ]
