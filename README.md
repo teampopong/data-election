@@ -13,13 +13,16 @@
 
 ### local
 
-- 2014-06-04: 지방선거 예비 후보자 데이터 (json)
-    - education_governor: 교육감
-    - education_member: 교육의원
-    - municipality_governor: 구시군의장
-    - municipality_member: 구시군의회의원
-    - province_governor: 시도의회의원
-    - province_member: 시도지사
+1-6대 지방선거 예비 후보자, 후보자, 당선자 데이터.
+
+- education_governor: 교육감
+- education_member: 교육의원
+- municipality_governor: 구시군의장
+- municipality_member: 구시군의회의원
+- municipality_proportional: 기초의원비례대표
+- province_governor: 시도의회의원
+- province_member: 시도지사
+- province_proportional: 광역의원비례대표
 
 ## License
 [CC 4.0](http://creativecommons.org/licenses/by/4.0/deed.ko)
